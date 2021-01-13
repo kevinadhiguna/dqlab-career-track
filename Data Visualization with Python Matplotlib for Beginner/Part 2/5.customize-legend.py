@@ -1,0 +1,13 @@
+import matplotlib.pyplot as plt
+dataset.groupby(['order_month','brand'])['gmv'].sum().unstack().plot()
+plt.title('Monthly GMV Year 2019 - Breakdown by Brand',loc='center',pad=30, fontsize=20, color='blue')
+plt.xlabel('Order Month', fontsize = 15)
+plt.ylabel('Total Amount (in Billions)',fontsize = 15)
+plt.grid(color='darkgray', linestyle=':', linewidth=0.5)
+plt.ylim(ymin=0)
+labels, locations = plt.yticks()
+plt.yticks(labels, (labels/1000000000).astype(int))
+plt.legend(loc='right', bbox_to_anchor=(1.6, 0.5), shadow=True, ncol=2)
+plt.gcf().set_size_inches(12, 5)
+plt.tight_layout()
+plt.show()
