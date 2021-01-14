@@ -12,68 +12,68 @@ Kurikulum terstruktur untuk melatih problem-solving dan kreativitas, serta dikem
 
 ## Memahami Bahasa Pemrograman Fundamental
 
-### Python for Data Professional Beginner - Part 1
+- Python for Data Professional Beginner - Part 1
 
-### Python for Data Professional Beginner - Part 2
+- Python for Data Professional Beginner - Part 2
 
-### Python for Data Professional Beginner - Part 3
+- Python for Data Professional Beginner - Part 3
 
 <br><br>
 <img src="https://raw.githubusercontent.com/kevinadhiguna/dqlab-career-track/master/assets/sql.png" width="30%" />
 
 ## Memahami Bahasa SQL dan Sistem Database Relasional agar dapat mengolah data di Perusahaan Yang Sudah Menerapkan Sistem IT
 
-### Fundamental SQL Using SELECT Statement
+- Fundamental SQL Using SELECT Statement
 
-### Fundamental SQL Using FUNCTION and GROUP BY
+- Fundamental SQL Using FUNCTION and GROUP BY
 
-### Fundamental SQL Using INNER JOIN and UNION
+- Fundamental SQL Using INNER JOIN and UNION
 
 <br><br>
 <img src="https://raw.githubusercontent.com/kevinadhiguna/dqlab-career-track/master/assets/EDA-python.png" />
 
 ## Memahami Konsep dan Penerapan Exploratory Data Analysis dalam Studi Kasus Bisnis
 
-### Exploratory Data Analysis with Python for Beginner
+- Exploratory Data Analysis with Python for Beginner
 
 <br><br>
 <img src="https://raw.githubusercontent.com/kevinadhiguna/dqlab-career-track/master/assets/pandas-library.png" width="50%" />
 
 ## Mengolah Dataset Dalam Jumlah Kecil sampai dengan Besar
 
-### Data Manipulation with Pandas - Part 1
+- Data Manipulation with Pandas - Part 1
 
-### Data Manipulation with Pandas - Part 2
+- Data Manipulation with Pandas - Part 2
 
 <br><br>
 <img src="https://matplotlib.org/_static/logo2_compressed.svg" width="50%" />
 
 ## Memahami Konsep dan Menghasilkan Tipe Visualisasi Data yang Tepat untuk Mempresentasikan Suatu Kasus Bisnis
 
-### Data Visualization with Python Matplotlib for Beginner - Part 1
+- Data Visualization with Python Matplotlib for Beginner - Part 1
 
-### Data Visualization with Python Matplotlib for Beginner - Part 2
+- Data Visualization with Python Matplotlib for Beginner - Part 2
 
 <br><br>
-<img src="https://raw.githubusercontent.com/kevinadhiguna/dqlab-career-track/master/assets/machine-learning-with-python.png" />
+<img src="https://raw.githubusercontent.com/kevinadhiguna/dqlab-career-track/master/assets/machine-learning.png" />
 
 ## Memahami Konsep Predictive Modeling & Mampu Menguji Tingkat Akurasi untuk Memilih Model yang Tepat
 
-### Machine Learning With Python for Beginner
+- Machine Learning With Python for Beginner
 
 <br><br>
 <img src="https://raw.githubusercontent.com/kevinadhiguna/dqlab-career-track/master/assets/data-quality.png" />
 
 ## Melakukan Investigasi dan Mendeteksi Anomali pada Data
 
-### Data Quality with Python for Beginner
+- Data Quality with Python for Beginner
 
 <br><br>
 <img src="https://raw.githubusercontent.com/kevinadhiguna/dqlab-career-track/master/assets/project.png" />
 
 ## Data Analyst Project: Business Decision Research
 
-### Data Analyst Project: Business Decision Research
+- Data Analyst Project: Business Decision Research
 
 <br>
 
