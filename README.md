@@ -29,6 +29,9 @@ Kurikulum terstruktur untuk melatih problem-solving dan kreativitas, serta dikem
 
 ### Fundamental SQL Using INNER JOIN and UNION
 
+<br><br>
+<img src="https://raw.githubusercontent.com/kevinadhiguna/dqlab-career-track/master/assets/EDA-python.png" />
+
 ## Memahami Konsep dan Penerapan Exploratory Data Analysis dalam Studi Kasus Bisnis
 
 ### Exploratory Data Analysis with Python for Beginner
@@ -52,6 +55,7 @@ Kurikulum terstruktur untuk melatih problem-solving dan kreativitas, serta dikem
 ### Data Visualization with Python Matplotlib for Beginner - Part 2
 
 <br><br>
+<img src="https://raw.githubusercontent.com/kevinadhiguna/dqlab-career-track/master/assets/machine-learning-with-python.png" />
 
 ## Memahami Konsep Predictive Modeling & Mampu Menguji Tingkat Akurasi untuk Memilih Model yang Tepat
 
@@ -64,6 +68,7 @@ Kurikulum terstruktur untuk melatih problem-solving dan kreativitas, serta dikem
 ### Data Quality with Python for Beginner
 
 <br><br>
+
 ## Data Analyst Project: Business Decision Research
 
 ### Data Analyst Project: Business Decision Research
