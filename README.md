@@ -17,6 +17,8 @@ Kurikulum terstruktur untuk melatih problem-solving dan kreativitas, serta dikem
 
 ### Python for Data Professional Beginner - Part 3
 
+<img src="https://raw.githubusercontent.com/kevinadhiguna/dqlab-career-track/master/assets/sql.png" width="30%" />
+
 ## Memahami Bahasa SQL dan Sistem Database Relasional agar dapat mengolah data di Perusahaan Yang Sudah Menerapkan Sistem IT
 
 ### Fundamental SQL Using SELECT Statement
