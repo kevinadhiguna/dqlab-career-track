@@ -56,5 +56,3 @@ Kurikulum terstruktur untuk melatih problem-solving dan kreativitas, serta dikem
 <h3>
   <a href="https://dqlab.id">DQLab</a>
 </h3>
-
-<meta name="google-site-verification" content="5hdfswhSQOIju5IN1x2k1Ap6DOViYZifsKa3NbiUPl0" />
