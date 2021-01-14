@@ -62,18 +62,20 @@ Kurikulum terstruktur untuk melatih problem-solving dan kreativitas, serta dikem
 ### Machine Learning With Python for Beginner
 
 <br><br>
+<img src="https://raw.githubusercontent.com/kevinadhiguna/dqlab-career-track/master/assets/data-quality.png" />
 
 ## Melakukan Investigasi dan Mendeteksi Anomali pada Data
 
 ### Data Quality with Python for Beginner
 
 <br><br>
+<img src="https://raw.githubusercontent.com/kevinadhiguna/dqlab-career-track/master/assets/project.png" />
 
 ## Data Analyst Project: Business Decision Research
 
 ### Data Analyst Project: Business Decision Research
 
-<br><br>
+<br>
 
 ## Acknowledgement
 
