@@ -13,6 +13,71 @@ Kurikulum terstruktur untuk melatih problem-solving dan kreativitas, serta dikem
 ## Memahami Bahasa Pemrograman Fundamental
 
 - Python for Data Professional Beginner - Part 1
+<br><br>Modul 1: Mari Mengenal Python
+
+| Link 	| Code 	|               Title              	|
+|:----:	|:----:	|:--------------------------------:	|
+|   🔗  	|   📜  	|               Quiz               	|
+|   🔗  	|   📜  	|               Quiz               	|
+|   🔗  	|   📜  	|  Program pertama: "Hello World"  	|
+|   🔗  	|   📜  	|         Program Pertamaku        	|
+|   🔗  	|   📜  	| Struktur Program Python - Part 1 	|
+|   🔗  	|   📜  	|           Tugas Praktek          	|
+|   🔗  	|   📜  	|           Tugas Praktek          	|
+|   🔗  	|   📜  	|               Quiz               	|
+|   🔗  	|   📜  	|               Quiz               	|
+
+<br>Modul 2 : Python Variables & Data Types
+
+| Link 	| Code 	|          Title         	|
+|:----:	|:----:	|:----------------------:	|
+|   🔗  	|   📜  	|          Quiz          	|
+|   🔗  	|   📜  	|          Quiz          	|
+|   🔗  	|   📜  	|          Quiz          	|
+|   🔗  	|   📜  	|          Quiz          	|
+|   🔗  	|   📜  	| Sequence Type - Part 1 	|
+|   🔗  	|   📜  	| Sequence Type - Part 2 	|
+|   🔗  	|   📜  	|        Set Type        	|
+|   🔗  	|   📜  	|      Mapping Type      	|
+|   🔗  	|   📜  	|      Tugas Praktek     	|
+|   🔗  	|   📜  	|      Tugas Praktek     	|
+|   🔗  	|   📜  	|      Tugas Praktek     	|
+
+<br>Modul 3 : Python Operators
+
+| Link 	| Code 	|                      Title                     	|
+|:----:	|:----:	|:----------------------------------------------:	|
+|   🔗  	|   📜  	|                      Quiz                      	|
+|   🔗  	|   📜  	|                      Quiz                      	|
+|   🔗  	|   📜  	|                      Quiz                      	|
+|   🔗  	|   📜  	|                      Quiz                      	|
+|   🔗  	|   📜  	| Nilai Prioritas Operator dalam Python – Part 1 	|
+|   🔗  	|   📜  	|                      Quiz                      	|
+|   🔗  	|   📜  	|                  Tugas Praktek                 	|
+
+<br>Modul 4 : Python's Conditiong & Looping
+
+| Link 	| Code 	|                   Title                   	|
+|:----:	|:----:	|:-----------------------------------------:	|
+|   🔗  	|   📜  	| Python Conditioning for Decision – Part 2 	|
+|   🔗  	|   📜  	| Python Conditioning for Decision – Part 3 	|
+|   🔗  	|   📜  	|               Tugas Praktek               	|
+|   🔗  	|   📜  	|               Tugas Praktek               	|
+|   🔗  	|   📜  	|        Python while loops – Part 1        	|
+|   🔗  	|   📜  	|        Python while loops – Part 2        	|
+|   🔗  	|   📜  	|        Python while loops – Part 3        	|
+|   🔗  	|   📜  	|         Python for loops – Part 1         	|
+|   🔗  	|   📜  	|         Python for loops – Part 2         	|
+|   🔗  	|   📜  	|         Python for loops – Part 3         	|
+|   🔗  	|   📜  	|               Tugas Praktek               	|
+
+<br>Modul 5 : Mini Quiz
+
+| Link 	| Code 	|       Title       	|
+|:----:	|:----:	|:-----------------:	|
+|   🔗  	|   📜  	| Ekspedisi Pamanku 	|
+
+<br>
 
 - Python for Data Professional Beginner - Part 2
 
