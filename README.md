@@ -13,7 +13,8 @@ Kurikulum terstruktur untuk melatih problem-solving dan kreativitas, serta dikem
 ## Memahami Bahasa Pemrograman Fundamental
 
 - Python for Data Professional Beginner - Part 1
-<br><br>Modul 1: Mari Mengenal Python
+
+<br>Modul 1: Mari Mengenal Python
 
 | Link 	| Code 	|               Title              	|
 |:----:	|:----:	|:--------------------------------:	|
@@ -80,6 +81,73 @@ Kurikulum terstruktur untuk melatih problem-solving dan kreativitas, serta dikem
 <br>
 
 - Python for Data Professional Beginner - Part 2
+
+<br>Modul 1 : Collection Manipulation dengan Python
+
+| Link 	| Code 	|                    Title                    	|
+|:----:	|:----:	|:-------------------------------------------:	|
+|   🔗  	|   📜  	|      Mengakses List dan Tuple – Part 1      	|
+|   🔗  	|   📜  	|      Mengakses List dan Tuple – Part 2      	|
+|   🔗  	|   📜  	| Penggabungan Dua atau Lebih List atau Tuple 	|
+|   🔗  	|   📜  	|                     Quiz                    	|
+|   🔗  	|   📜  	|          List Manipulation - Part 1         	|
+|   🔗  	|   📜  	|          List Manipulation - Part 2         	|
+|   🔗  	|   📜  	|              Tuple Manipulation             	|
+|   🔗  	|   📜  	|                     Quiz                    	|
+|   🔗  	|   📜  	|          Set Manipulation - Part 1          	|
+|   🔗  	|   📜  	|          Set Manipulation - Part 2          	|
+|   🔗  	|   📜  	|                     Quiz                    	|
+|   🔗  	|   📜  	|           Dictionary Manipulation           	|
+|   🔗  	|   📜  	|            Useful Tips and Tricks           	|
+|   🔗  	|   📜  	|                Tugas Praktek                	|
+
+<br>Modul 2 : String Manipulation dengan Python
+
+| Link 	| Code 	|                           Title                           	|
+|:----:	|:----:	|:---------------------------------------------------------:	|
+|   🔗  	|   📜  	|                Apa itu String Manipulation?               	|
+|   🔗  	|   📜  	|            Operator “+” untuk Tipe Data String            	|
+|   🔗  	|   📜  	|       Menghilangkan Spasi di Awal dan/atau di Akhir       	|
+|   🔗  	|   📜  	|                  Merubah Caps pada String                 	|
+|   🔗  	|   📜  	|      Pemecahan, Penggabungan, dan Penggantian String      	|
+|   🔗  	|   📜  	|    Menentukan Posisi dan Jumlah Sub-string pada String    	|
+|   🔗  	|   📜  	| Menentukan String Apakah Diawali/Diakhiri oleh Sub-string 	|
+|   🔗  	|   📜  	|                       Tugas Praktek                       	|
+|   🔗  	|   📜  	|                       Tugas Praktek                       	|
+
+<br>Modul 3 : Functions
+
+| Link 	| Code 	|      Title     	|
+|:----:	|:----:	|:--------------:	|
+|   🔗  	|   📜  	| Fungsi Pertama 	|
+|   🔗  	|   📜  	|  Fungsi Kedua  	|
+|   🔗  	|   📜  	|  Fungsi Ketiga 	|
+|   🔗  	|   📜  	|  Tugas Praktek 	|
+|   🔗  	|   📜  	|  Tugas Praktek 	|
+|   🔗  	|   📜  	|  Tugas Praktek 	|
+
+<br>Modul 4 : Manipulasi Berkas Teks dan Library Matematika pada Python
+
+| Link 	| Code 	|                   Title                  	|
+|:----:	|:----:	|:----------------------------------------:	|
+|   🔗  	|   📜  	|       Membaca Berkas Teks – Part 1       	|
+|   🔗  	|   📜  	|       Membaca Berkas Teks – Part 2       	|
+|   🔗  	|   📜  	|       Menulis Berkas Teks – Part 1       	|
+|   🔗  	|   📜  	|       Menulis Berkas Teks – Part 2       	|
+|   🔗  	|   📜  	|                   Quiz                   	|
+|   🔗  	|   📜  	|                   Quiz                   	|
+|   🔗  	|   📜  	| Fungsi dalam Library Matematika – Part 1 	|
+|   🔗  	|   📜  	| Fungsi dalam Library Matematika – Part 1 	|
+|   🔗  	|   📜  	|                   Quiz                   	|
+|   🔗  	|   📜  	|                   Quiz                   	|
+
+<br>Modul 5 : Mini Quiz
+
+| Link 	| Code 	|           Title          	|
+|:----:	|:----:	|:------------------------:	|
+|   🔗  	|   📜  	| Harga Rumah di Tangerang 	|
+
+<br>
 
 - Python for Data Professional Beginner - Part 3
 
