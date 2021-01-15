@@ -151,6 +151,54 @@ Kurikulum terstruktur untuk melatih problem-solving dan kreativitas, serta dikem
 
 - Python for Data Professional Beginner - Part 3
 
+<br>Modul 1 : Pengantar Object Oriented Programming
+
+| Link 	| Code 	| Title 	|
+|:----:	|:----:	|:-----:	|
+|   🔗  	|   📜  	|  Quiz 	|
+|   🔗  	|   📜  	| Quiz  	|
+|   🔗  	|   📜  	| Quiz  	|
+
+<br>Modul 2 : Classes & Objects
+
+| Link 	| Code 	|                 Title                 	|
+|:----:	|:----:	|:-------------------------------------:	|
+|   🔗  	|   📜  	| Class dan Objek dalam Python - Part 3 	|
+|   🔗  	|   📜  	| Class dan Objek dalam Python - Part 4 	|
+|   🔗  	|   📜  	|                  Quiz                 	|
+|   🔗  	|   📜  	|                  Quiz                 	|
+|   🔗  	|   📜  	|          Behavior pada Class          	|
+|   🔗  	|   📜  	|             Tugas Praktek             	|
+|   🔗  	|   📜  	|             Tugas Praktek             	|
+
+<br>Modul 3 : Encapsulation & Inheritance
+
+| Link 	| Code 	|                Title               	|
+|:----:	|:----:	|:----------------------------------:	|
+|   🔗  	|   📜  	| Encapsulation pada Python - Part 2 	|
+|   🔗  	|   📜  	|                Quiz                	|
+|   🔗  	|   📜  	|                Quiz                	|
+|   🔗  	|   📜  	|  Inheritance pada Python – Part 1  	|
+|   🔗  	|   📜  	|  Inheritance pada Python – Part 2  	|
+|   🔗  	|   📜  	|                Quiz                	|
+|   🔗  	|   📜  	|                Quiz                	|
+
+<br>Modul 4 : Polymorphism & Overloading
+
+| Link 	| Code 	|               Title               	|
+|:----:	|:----:	|:---------------------------------:	|
+|   🔗  	|   📜  	| Polymorphism pada Python - Part 1 	|
+|   🔗  	|   📜  	| Polymorphism pada Python - Part 2 	|
+|   🔗  	|   📜  	|           Tugas Praktek           	|
+|   🔗  	|   📜  	|           Tugas Praktek           	|
+|   🔗  	|   📜  	|           Tugas Praktek           	|
+
+<br>Modul 5 : Mini Quiz
+
+| Link 	| Code 	|          Title         	|
+|:----:	|:----:	|:----------------------:	|
+|   🔗  	|   📜  	| Studi Kasus dari Senja 	|
+
 <br><br>
 <img src="https://raw.githubusercontent.com/kevinadhiguna/dqlab-career-track/master/assets/sql.png" width="30%" />
 
