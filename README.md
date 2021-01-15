@@ -364,11 +364,37 @@ Modul 1 : Penggabungan Tabel dari Relasi Kolom
 
 Modul 1 : Pengenalan Library dalam Python
 
+| Link 	| Code 	|            Title            	|
+|:----:	|:----:	|:---------------------------:	|
+|   🔗  	|   📜  	|             Quiz            	|
+|   🔗  	|   📜  	|             Quiz            	|
+|   🔗  	|   📜  	| Memanggil library di Python 	|
+
 <br> Modul 2 : Exploratory Data Analysis dengan Pandas - Part 1
+
+| Link 	| Code 	|     Title     	|
+|:----:	|:----:	|:-------------:	|
+|   🔗  	|   📜  	| Tugas Praktek 	|
+|   🔗  	|   📜  	| Tugas Praktek 	|
+|   🔗  	|   📜  	| Tugas Praktek 	|
+|   🔗  	|   📜  	| Tugas Praktek 	|
 
 <br> Modul 3 : Exploratory Data Analysis dengan Pandas - Part 2
 
+| Link 	| Code 	|     Title     	|
+|:----:	|:----:	|:-------------:	|
+|   🔗  	|   📜  	| Tugas Praktek 	|
+|   🔗  	|   📜  	| Tugas Praktek 	|
+|   🔗  	|   📜  	| Tugas Praktek 	|
+|   🔗  	|   📜  	| Tugas Praktek 	|
+|   🔗  	|   📜  	| Tugas Praktek 	|
+|   🔗  	|   📜  	| Tugas Praktek 	|
+
 <br> Modul 4 : Mini Project
+
+| Link 	| Code 	|       Title      	|
+|:----:	|:----:	|:----------------:	|
+|   🔗  	|   📜  	| Tugas dari Andra 	|
 
 <br><br>
 <img src="https://raw.githubusercontent.com/kevinadhiguna/dqlab-career-track/master/assets/pandas-library.png" width="50%" />
