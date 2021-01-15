@@ -206,9 +206,37 @@ Modul 1 : Pengantar Object Oriented Programming
 
 <h3>Fundamental SQL Using SELECT Statement</h3>
 
+Modul 1 : Structured Query Language
+
+<br> Modul 2 : Sistem Database Relasional
+
+<br> Modul 3 : Penggunaan Perintah SELECT… FROM…
+
+<br> Modul 4 : Prefix dan Alias
+
+<br> Modul 5 : Menggunakan Filter
+
+<br> Modul 6 : Mini Project
+
 <h3>Fundamental SQL Using FUNCTION and GROUP BY</h3>
 
+Modul 1 : Fungsi di SQL
+
+<br> Modul 2 : Fungsi Text di SQL
+
+<br> Modul 3 : Fungsi Aggregate dan Group By
+
+<br> Modul 4 : Mini Project 
+
 <h3>Fundamental SQL Using INNER JOIN and UNION</h3>
+
+Modul 1 : Penggabungan Tabel dari Relasi Kolom
+
+<br> Modul 2 : INNER JOIN
+
+<br> Modul 3 : UNION
+
+<br> Modul 4 : Mini Project
 
 <br><br>
 <img src="https://raw.githubusercontent.com/kevinadhiguna/dqlab-career-track/master/assets/EDA-python.png" />
@@ -217,6 +245,14 @@ Modul 1 : Pengantar Object Oriented Programming
 
 <h3>Exploratory Data Analysis with Python for Beginner</h3>
 
+Modul 1 : Pengenalan Library dalam Python
+
+<br> Modul 2 : Exploratory Data Analysis dengan Pandas - Part 1
+
+<br> Modul 3 : Exploratory Data Analysis dengan Pandas - Part 2
+
+<br> Modul 4 : Mini Project
+
 <br><br>
 <img src="https://raw.githubusercontent.com/kevinadhiguna/dqlab-career-track/master/assets/pandas-library.png" width="50%" />
 
@@ -224,7 +260,27 @@ Modul 1 : Pengantar Object Oriented Programming
 
 <h3>Data Manipulation with Pandas - Part 1</h3>
 
+Modul 1 : Introduction to Pandas
+
+<br> Modul 2 : Dataset I/O
+
+<br> Modul 3 : Indexing, Slicing, dan Transforming
+
+<br> Modul 4 : Handling Missing Values
+
+<br> Modul 5 : Mini Project
+
 <h3>Data Manipulation with Pandas - Part 2</h3>
+
+Modul 1 : Penggabungan Series/Dataframe
+
+<br> Modul 2 : Pivot, Melt, Stack & Unstack
+
+<br> Modul 3 : Aggregation & GroupBy
+
+<br> Modul 4 : Time Series in Pandas
+
+<br> Modul 5 : Mini Project
 
 <br><br>
 <img src="https://matplotlib.org/_static/logo2_compressed.svg" width="50%" />
@@ -233,7 +289,27 @@ Modul 1 : Pengantar Object Oriented Programming
 
 <h3>Data Visualization with Python Matplotlib for Beginner - Part 1</h3>
 
+Modul 1 : Pengenalan Matplotlib dan Persiapan Dataset
+
+<br> Modul 2 : Plot Pertama dengan Matplotlib
+
+<br> Modul 3 : Kustomisasi Grafik - Part 1
+
+<br> Modul 4 : Kustomisasi Grafik - Part 2
+
+<br> Modul 5 : Mini Project
+
 <h3>Data Visualization with Python Matplotlib for Beginner - Part 2</h3>
+
+Modul 1 : Jenis-Jenis Visualisasi Data dan Tujuannya
+
+<br> Modul 2 : Membuat Multi-line Chart dan Kustomisasi Lanjutan
+
+<br> Modul 3 : Membuat Pie-Chart dan Bar-Chart
+
+<br> Modul 4 : Membuat Histogram dan Scatterplot
+
+<br> Modul 5 : Mini Project
 
 <br><br>
 <img src="https://raw.githubusercontent.com/kevinadhiguna/dqlab-career-track/master/assets/machine-learning.png" />
@@ -242,6 +318,18 @@ Modul 1 : Pengantar Object Oriented Programming
 
 <h3>Machine Learning With Python for Beginner</h3>
 
+Modul 1 : Pengenalan Machine Learning
+
+<br> Modul 2 : Eksplorasi Data & Data Pre-processing
+
+<br> Modul 3 : Pemodelan dengan Scikit-Learn
+
+<br> Modul 4 : Supervised Learning - Algorithm
+
+<br> Modul 5 : Unsupervised Learning - Algorithm
+
+<br> Modul 6 : Mini Project
+
 <br><br>
 <img src="https://raw.githubusercontent.com/kevinadhiguna/dqlab-career-track/master/assets/data-quality.png" />
 
@@ -249,12 +337,30 @@ Modul 1 : Pengantar Object Oriented Programming
 
 <h3>Data Quality with Python for Beginner</h3>
 
+Modul 1 : Data Profiling
+
+<br> Modul 2 : Data Cleansing
+
+<br> Modul 3 : Mini Project
+
 <br><br>
 <img src="https://raw.githubusercontent.com/kevinadhiguna/dqlab-career-track/master/assets/project.png" />
 
 ## Data Analyst Project: Business Decision Research
 
 <h3>Data Analyst Project: Business Decision Research</h3>
+
+Modul 1 : Pendahuluan
+
+<br> Modul 2 : Theoritical Test
+
+<br> Modul 3 : Coding Test: Data Preparation
+
+<br> Modul 4 : Coding Test: Data Visualization
+
+<br> Modul 5 : Coding Test: Modelling
+
+<br> Modul 6 : Penutup
 
 <br>
 
