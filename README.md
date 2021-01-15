@@ -208,15 +208,64 @@ Modul 1 : Pengantar Object Oriented Programming
 
 Modul 1 : Structured Query Language
 
+| Link 	| Code 	|              Title              	|
+|:----:	|:----:	|:-------------------------------:	|
+|   🔗  	|   📜  	|  Quiz: Apa singkatan dari SQL?  	|
+|   🔗  	|   📜  	| Quiz: Kenapa perlu belajar SQL? 	|
+
 <br> Modul 2 : Sistem Database Relasional
+
+| Link 	| Code 	|                       Title                       	|
+|:----:	|:----:	|:-------------------------------------------------:	|
+|   🔗  	|   📜  	| Quiz: Mana saja yang merupakan nama produk RDBMS? 	|
+|   🔗  	|   📜  	|       Quiz: Mana urutan hirarki yang benar?       	|
+|   🔗  	|   📜  	|         Quiz: Apa nama komponen tabel ini?        	|
+|   🔗  	|   📜  	|        Quiz: Mana yang disebut sebagai row?       	|
 
 <br> Modul 3 : Penggunaan Perintah SELECT… FROM…
 
+| Link 	| Code 	|                      Title                      	|
+|:----:	|:----:	|:-----------------------------------------------:	|
+|   🔗  	|   📜  	|    Mengambil Seluruh Kolom dalam suatu Tabel    	|
+|   🔗  	|   📜  	|         Mengambil Satu Kolom dari Tabel         	|
+|   🔗  	|   📜  	|       Quiz: Mana perintah SQL yang benar?       	|
+|   🔗  	|   📜  	|    Mengambil Lebih dari Satu Kolom dari Tabel   	|
+|   🔗  	|   📜  	|       Quiz: Mana perintah SQL yang benar?       	|
+|   🔗  	|   📜  	|      Membatasi Pengambilan Jumlah Row Data      	|
+|   🔗  	|   📜  	| Quiz: Mana penggunaan limit berikut yang benar? 	|
+|   🔗  	|   📜  	|       Penggunaan SELECT DISTINCT statement      	|
+
 <br> Modul 4 : Prefix dan Alias
+
+| Link 	| Code 	|                        Title                        	|
+|:----:	|:----:	|:---------------------------------------------------:	|
+|   🔗  	|   📜  	|          Menggunakan Prefix pada Nama Kolom         	|
+|   🔗  	|   📜  	|   Quiz: Mana penggunaan prefix berikut yang benar?  	|
+|   🔗  	|   📜  	|             Menggunakan Alias pada Kolom            	|
+|   🔗  	|   📜  	| Quiz: Mana Penggunaan Alias yang Benar untuk Kolom? 	|
+|   🔗  	|   📜  	|              Menghilangkan Keyword 'AS'             	|
+|   🔗  	|   📜  	|   Quiz: Mana Penggunaan Variasi Alias yang Benar?   	|
+|   🔗  	|   📜  	|            Menggabungkan Prefix dan Alias           	|
+|   🔗  	|   📜  	|             Menggunakan Alias pada Tabel            	|
+|   🔗  	|   📜  	|              Prefix dengan Alias Tabel              	|
+|   🔗  	|   📜  	|  Quiz: Mana Kombinasi Prefix dan Alias yang Benar?  	|
 
 <br> Modul 5 : Menggunakan Filter
 
+| Link 	| Code 	|                      Title                      	|
+|:----:	|:----:	|:-----------------------------------------------:	|
+|   🔗  	|   📜  	|                Menggunakan WHERE                	|
+|   🔗  	|   📜  	|              Menggunakan Operand OR             	|
+|   🔗  	|   📜  	|                Filter untuk Angka               	|
+|   🔗  	|   📜  	|             Menggunakan Operand AND             	|
+|   🔗  	|   📜  	|  Quiz: Mana Query Filter dengan OR yang Benar?  	|
+|   🔗  	|   📜  	| Quiz: Mana Filter yang Akan Mengeluarkan Hasil? 	|
+
 <br> Modul 6 : Mini Project
+
+| Link 	| Code 	|         Title        	|
+|:----:	|:----:	|:--------------------:	|
+|   🔗  	|   📜  	| Proyek dari Cabang A 	|
 
 <h3>Fundamental SQL Using FUNCTION and GROUP BY</h3>
 
