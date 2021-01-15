@@ -12,9 +12,9 @@ Kurikulum terstruktur untuk melatih problem-solving dan kreativitas, serta dikem
 
 ## Memahami Bahasa Pemrograman Fundamental
 
-- Python for Data Professional Beginner - Part 1
+<h3>Python for Data Professional Beginner - Part 1</h3>
 
-<br>Modul 1: Mari Mengenal Python
+Modul 1: Mari Mengenal Python
 
 | Link 	| Code 	|               Title              	|
 |:----:	|:----:	|:--------------------------------:	|
@@ -80,9 +80,9 @@ Kurikulum terstruktur untuk melatih problem-solving dan kreativitas, serta dikem
 
 <br>
 
-- Python for Data Professional Beginner - Part 2
+<h3>Python for Data Professional Beginner - Part 2</h3>
 
-<br>Modul 1 : Collection Manipulation dengan Python
+Modul 1 : Collection Manipulation dengan Python
 
 | Link 	| Code 	|                    Title                    	|
 |:----:	|:----:	|:-------------------------------------------:	|
@@ -149,9 +149,9 @@ Kurikulum terstruktur untuk melatih problem-solving dan kreativitas, serta dikem
 
 <br>
 
-- Python for Data Professional Beginner - Part 3
+<h3>Python for Data Professional Beginner - Part 3</h3>
 
-<br>Modul 1 : Pengantar Object Oriented Programming
+Modul 1 : Pengantar Object Oriented Programming
 
 | Link 	| Code 	| Title 	|
 |:----:	|:----:	|:-----:	|
