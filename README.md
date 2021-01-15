@@ -271,21 +271,89 @@ Modul 1 : Structured Query Language
 
 Modul 1 : Fungsi di SQL
 
+| Link 	| Code 	|                 Title                	|
+|:----:	|:----:	|:------------------------------------:	|
+|   🔗  	|   📜  	|   Fungsi Skalar Matematika - ABS()   	|
+|   🔗  	|   📜  	| Fungsi Skalar Matematika - CEILING() 	|
+|   🔗  	|   📜  	|  Fungsi Skalar Matematika - FLOOR()  	|
+|   🔗  	|   📜  	|  Fungsi Skalar Matematika - ROUND()  	|
+|   🔗  	|   📜  	|  Fungsi Skalar Matematika - SQRT( )  	|
+|   🔗  	|   📜  	|             Tugas Praktek            	|
+
 <br> Modul 2 : Fungsi Text di SQL
+
+| Link 	| Code 	|               Title              	|
+|:----:	|:----:	|:--------------------------------:	|
+|   🔗  	|   📜  	|      Fungsi Text - CONCAT( )     	|
+|   🔗  	|   📜  	| Fungsi Text - SUBSTRING_INDEX( ) 	|
+|   🔗  	|   📜  	|      Fungsi Text - SUBSTR( )     	|
+|   🔗  	|   📜  	|      Fungsi Text - LENGTH( )     	|
+|   🔗  	|   📜  	|     Fungsi Text - REPLACE( )     	|
+|   🔗  	|   📜  	|           Tugas Praktek          	|
 
 <br> Modul 3 : Fungsi Aggregate dan Group By
 
+| Link 	| Code 	|               Title              	|
+|:----:	|:----:	|:--------------------------------:	|
+|   🔗  	|   📜  	|     Fungsi Aggregate - SUM()     	|
+|   🔗  	|   📜  	|    Fungsi Aggregate - COUNT()    	|
+|   🔗  	|   📜  	|     Fungsi Aggregate - AVG( )    	|
+|   🔗  	|   📜  	|           Tugas Praktek          	|
+|   🔗  	|   📜  	|      Group by Single Column      	|
+|   🔗  	|   📜  	|     Group by Multiple Column     	|
+|   🔗  	|   📜  	| Fungsi Aggregate dengan Grouping 	|
+|   🔗  	|   📜  	|           Tugas Praktek          	|
+
 <br> Modul 4 : Mini Project 
+
+| Link 	| Code 	|                     Title                    	|
+|:----:	|:----:	|:--------------------------------------------:	|
+|   🔗  	|   📜  	| Proyek Pekerjaan - Analisis Penjualan Part 1 	|
+|   🔗  	|   📜  	| Proyek Pekerjaan - Analisis Penjualan Part 2 	|
 
 <h3>Fundamental SQL Using INNER JOIN and UNION</h3>
 
 Modul 1 : Penggabungan Tabel dari Relasi Kolom
 
+| Link 	| Code 	|                              Title                              	|
+|:----:	|:----:	|:---------------------------------------------------------------:	|
+|   🔗  	|   📜  	|                          Tugas Praktek                          	|
+|   🔗  	|   📜  	| Quiz: Mana kolom dari kedua tabel yang memiliki kecocokan data? 	|
+|   🔗  	|   📜  	|       Quiz: Mana data dari pasangan key column yang cocok?      	|
+|   🔗  	|   📜  	|              Menggabungkan Tabel dengan Key Columns             	|
+|   🔗  	|   📜  	|         Quiz: Mana Query Penggabungan Tabel Yang Benar?         	|
+|   🔗  	|   📜  	|       Quiz: Mana Penjelasan Hasil Penggabungan Yang Benar?      	|
+|   🔗  	|   📜  	|               Bagaimana jika urutan Tabel diubah?               	|
+|   🔗  	|   📜  	|                  Menggunakan Prefix Nama Tabel                  	|
+|   🔗  	|   📜  	|                    Penggabungan Tanpa Kondisi                   	|
+|   🔗  	|   📜  	|  Quiz: Berapa Jumlah Baris Hasil “Join Tanpa Kondisi” Berikut?  	|
+
 <br> Modul 2 : INNER JOIN
+
+| Link 	| Code 	|                                Title                               	|
+|:----:	|:----:	|:------------------------------------------------------------------:	|
+|   🔗  	|   📜  	|             Tugas Praktek: Menggunakan INNER JOIN (1/3)            	|
+|   🔗  	|   📜  	|               tabel tr_penjualan dan tabel ms_produk               	|
+|   🔗  	|   📜  	| Quiz: Mengidentifikasi Key Column tabel tr_penjualan dan ms_produk 	|
+|   🔗  	|   📜  	|             Tugas Praktek: Menggunakan INNER JOIN (2/3)            	|
+|   🔗  	|   📜  	|             Tugas Praktek: Menggunakan INNER JOIN (3/3)            	|
 
 <br> Modul 3 : UNION
 
+| Link 	| Code 	|                        Title                       	|
+|:----:	|:----:	|:--------------------------------------------------:	|
+|   🔗  	|   📜  	|             Tabel yang Akan Digabungkan            	|
+|   🔗  	|   📜  	|                  Menggunakan UNION                 	|
+|   🔗  	|   📜  	|        Menggunakan UNION dengan Klausa WHERE       	|
+|   🔗  	|   📜  	| Menggunakan UNION dan Menyelaraskan Kolom-Kolomnya 	|
+|   🔗  	|   📜  	|                        Quiz                        	|
+
 <br> Modul 4 : Mini Project
+
+| Link 	| Code 	|        Title       	|
+|:----:	|:----:	|:------------------:	|
+|   🔗  	|   📜  	| Project INNER JOIN 	|
+|   🔗  	|   📜  	|    Project UNION   	|
 
 <br><br>
 <img src="https://raw.githubusercontent.com/kevinadhiguna/dqlab-career-track/master/assets/EDA-python.png" />
