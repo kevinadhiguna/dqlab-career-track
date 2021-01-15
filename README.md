@@ -204,57 +204,57 @@ Modul 1 : Pengantar Object Oriented Programming
 
 ## Memahami Bahasa SQL dan Sistem Database Relasional agar dapat mengolah data di Perusahaan Yang Sudah Menerapkan Sistem IT
 
-- Fundamental SQL Using SELECT Statement
+<h3>Fundamental SQL Using SELECT Statement</h3>
 
-- Fundamental SQL Using FUNCTION and GROUP BY
+<h3>Fundamental SQL Using FUNCTION and GROUP BY</h3>
 
-- Fundamental SQL Using INNER JOIN and UNION
+<h3>Fundamental SQL Using INNER JOIN and UNION</h3>
 
 <br><br>
 <img src="https://raw.githubusercontent.com/kevinadhiguna/dqlab-career-track/master/assets/EDA-python.png" />
 
 ## Memahami Konsep dan Penerapan Exploratory Data Analysis dalam Studi Kasus Bisnis
 
-- Exploratory Data Analysis with Python for Beginner
+<h3>Exploratory Data Analysis with Python for Beginner</h3>
 
 <br><br>
 <img src="https://raw.githubusercontent.com/kevinadhiguna/dqlab-career-track/master/assets/pandas-library.png" width="50%" />
 
 ## Mengolah Dataset Dalam Jumlah Kecil sampai dengan Besar
 
-- Data Manipulation with Pandas - Part 1
+<h3>Data Manipulation with Pandas - Part 1</h3>
 
-- Data Manipulation with Pandas - Part 2
+<h3>Data Manipulation with Pandas - Part 2</h3>
 
 <br><br>
 <img src="https://matplotlib.org/_static/logo2_compressed.svg" width="50%" />
 
 ## Memahami Konsep dan Menghasilkan Tipe Visualisasi Data yang Tepat untuk Mempresentasikan Suatu Kasus Bisnis
 
-- Data Visualization with Python Matplotlib for Beginner - Part 1
+<h3>Data Visualization with Python Matplotlib for Beginner - Part 1</h3>
 
-- Data Visualization with Python Matplotlib for Beginner - Part 2
+<h3>Data Visualization with Python Matplotlib for Beginner - Part 2</h3>
 
 <br><br>
 <img src="https://raw.githubusercontent.com/kevinadhiguna/dqlab-career-track/master/assets/machine-learning.png" />
 
 ## Memahami Konsep Predictive Modeling & Mampu Menguji Tingkat Akurasi untuk Memilih Model yang Tepat
 
-- Machine Learning With Python for Beginner
+<h3>Machine Learning With Python for Beginner</h3>
 
 <br><br>
 <img src="https://raw.githubusercontent.com/kevinadhiguna/dqlab-career-track/master/assets/data-quality.png" />
 
 ## Melakukan Investigasi dan Mendeteksi Anomali pada Data
 
-- Data Quality with Python for Beginner
+<h3>Data Quality with Python for Beginner</h3>
 
 <br><br>
 <img src="https://raw.githubusercontent.com/kevinadhiguna/dqlab-career-track/master/assets/project.png" />
 
 ## Data Analyst Project: Business Decision Research
 
-- Data Analyst Project: Business Decision Research
+<h3>Data Analyst Project: Business Decision Research</h3>
 
 <br>
 
