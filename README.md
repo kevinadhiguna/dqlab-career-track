@@ -366,35 +366,35 @@ Modul 1 : Pengenalan Library dalam Python
 
 | Link 	| Code 	|            Title            	|
 |:----:	|:----:	|:---------------------------:	|
-|   🔗  	|   📜  	|             Quiz 1           	|
-|   🔗  	|   📜  	|             Quiz 2           	|
-|   🔗  	|   📜  	| Memanggil library di Python 	|
+|   [🔗](https://academy.dqlab.id/main/livecode/163/308/1415)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Exploratory%20Data%20Analysis%20with%20Python%20for%20Beginner/0.quiz-1.png)  	|             Quiz 1           	|
+|   [🔗](https://academy.dqlab.id/main/livecode/163/308/1416)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Exploratory%20Data%20Analysis%20with%20Python%20for%20Beginner/1.quiz-2.png)  	|             Quiz 2           	|
+|   [🔗](https://academy.dqlab.id/main/livecode/163/308/1418)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Exploratory%20Data%20Analysis%20with%20Python%20for%20Beginner/2.call-libraries.py)  	| Memanggil library di Python 	|
 
 <br> Modul 2 : Exploratory Data Analysis dengan Pandas - Part 1
 
 | Link 	| Code 	|     Title     	|
 |:----:	|:----:	|:-------------:	|
-|   🔗  	|   📜  	| Tugas Praktek 1	|
-|   🔗  	|   📜  	| Tugas Praktek 2	|
-|   🔗  	|   📜  	| Tugas Praktek 3	|
-|   🔗  	|   📜  	| Tugas Praktek 4	|
+|   [🔗](https://academy.dqlab.id/main/livecode/163/309/1420)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Exploratory%20Data%20Analysis%20with%20Python%20for%20Beginner/3.tugas-praktek-1.py)  	| Tugas Praktek 1	|
+|   [🔗](https://academy.dqlab.id/main/livecode/163/309/1423)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Exploratory%20Data%20Analysis%20with%20Python%20for%20Beginner/4.tugas-praktek-2.py)  	| Tugas Praktek 2	|
+|   [🔗](https://academy.dqlab.id/main/livecode/163/309/1425)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Exploratory%20Data%20Analysis%20with%20Python%20for%20Beginner/5.tugas-praktek-3.py)  	| Tugas Praktek 3	|
+|   [🔗](https://academy.dqlab.id/main/livecode/163/309/1430)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Exploratory%20Data%20Analysis%20with%20Python%20for%20Beginner/6.tugas-praktek-4.py)  	| Tugas Praktek 4	|
 
 <br> Modul 3 : Exploratory Data Analysis dengan Pandas - Part 2
 
 | Link 	| Code 	|     Title     	|
 |:----:	|:----:	|:-------------:	|
-|   🔗  	|   📜  	| Tugas Praktek 5	|
-|   🔗  	|   📜  	| Tugas Praktek 6	|
-|   🔗  	|   📜  	| Tugas Praktek 7	|
-|   🔗  	|   📜  	| Tugas Praktek 8	|
-|   🔗  	|   📜  	| Tugas Praktek 9	|
-|   🔗  	|   📜  	| Tugas Praktek 10 |
+|   [🔗](https://academy.dqlab.id/main/livecode/163/310/1432)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Exploratory%20Data%20Analysis%20with%20Python%20for%20Beginner/7.tugas-praktek-5.py)  	| Tugas Praktek 5	|
+|   [🔗](https://academy.dqlab.id/main/livecode/163/310/1434)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Exploratory%20Data%20Analysis%20with%20Python%20for%20Beginner/8.tugas-praktek-6.py)  	| Tugas Praktek 6	|
+|   [🔗](https://academy.dqlab.id/main/livecode/163/310/1436)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Exploratory%20Data%20Analysis%20with%20Python%20for%20Beginner/9.tugas-praktek-7.py)  	| Tugas Praktek 7	|
+|   [🔗](https://academy.dqlab.id/main/livecode/163/310/1438)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Exploratory%20Data%20Analysis%20with%20Python%20for%20Beginner/10.tugas-praktek-8.py)  	| Tugas Praktek 8	|
+|   [🔗](https://academy.dqlab.id/main/livecode/163/310/1440)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Exploratory%20Data%20Analysis%20with%20Python%20for%20Beginner/11.tugas-praktek-9.py)  	| Tugas Praktek 9	|
+|   [🔗](https://academy.dqlab.id/main/livecode/163/310/1442)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Exploratory%20Data%20Analysis%20with%20Python%20for%20Beginner/12.tugas-praktek-10.py)  	| Tugas Praktek 10 |
 
 <br> Modul 4 : Mini Project
 
 | Link 	| Code 	|       Title      	|
 |:----:	|:----:	|:----------------:	|
-|   🔗  	|   📜  	| Tugas dari Andra 	|
+|   [🔗](https://academy.dqlab.id/main/livecode/163/311/1444)  	|   To be Posted...  	| Tugas dari Andra 	|
 
 <br><br>
 <img src="https://raw.githubusercontent.com/kevinadhiguna/dqlab-career-track/master/assets/pandas-library.png" width="50%" />
