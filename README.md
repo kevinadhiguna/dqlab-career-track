@@ -210,62 +210,62 @@ Modul 1 : Structured Query Language
 
 | Link 	| Code 	|              Title              	|
 |:----:	|:----:	|:-------------------------------:	|
-|   🔗  	|   📜  	|  Quiz: Apa singkatan dari SQL?  	|
-|   🔗  	|   📜  	| Quiz: Kenapa perlu belajar SQL? 	|
+|   [🔗](https://academy.dqlab.id/main/livecode/213/383/1881)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Fundamental%20SQL/Using%20SELECT%20Statement/0.quiz-1.png)  	|  Quiz: Apa singkatan dari SQL?  	|
+|   [🔗](https://academy.dqlab.id/main/livecode/213/383/1884)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Fundamental%20SQL/Using%20SELECT%20Statement/1.quiz-2.png)  	| Quiz: Kenapa perlu belajar SQL? 	|
 
 <br> Modul 2 : Sistem Database Relasional
 
 | Link 	| Code 	|                       Title                       	|
 |:----:	|:----:	|:-------------------------------------------------:	|
-|   🔗  	|   📜  	| Quiz: Mana saja yang merupakan nama produk RDBMS? 	|
-|   🔗  	|   📜  	|       Quiz: Mana urutan hirarki yang benar?       	|
-|   🔗  	|   📜  	|         Quiz: Apa nama komponen tabel ini?        	|
-|   🔗  	|   📜  	|        Quiz: Mana yang disebut sebagai row?       	|
+|   [🔗]()  	|   [📜]()  	| Quiz: Mana saja yang merupakan nama produk RDBMS? 	|
+|   [🔗]()  	|   [📜]()  	|       Quiz: Mana urutan hirarki yang benar?       	|
+|   [🔗]()  	|   [📜]()  	|         Quiz: Apa nama komponen tabel ini?        	|
+|   [🔗]()  	|   [📜]()  	|        Quiz: Mana yang disebut sebagai row?       	|
 
 <br> Modul 3 : Penggunaan Perintah SELECT… FROM…
 
 | Link 	| Code 	|                      Title                      	|
 |:----:	|:----:	|:-----------------------------------------------:	|
-|   🔗  	|   📜  	|    Mengambil Seluruh Kolom dalam suatu Tabel    	|
-|   🔗  	|   📜  	|         Mengambil Satu Kolom dari Tabel         	|
-|   🔗  	|   📜  	|       Quiz: Mana perintah SQL yang benar?       	|
-|   🔗  	|   📜  	|    Mengambil Lebih dari Satu Kolom dari Tabel   	|
-|   🔗  	|   📜  	|       Quiz: Mana perintah SQL yang benar?       	|
-|   🔗  	|   📜  	|      Membatasi Pengambilan Jumlah Row Data      	|
-|   🔗  	|   📜  	| Quiz: Mana penggunaan limit berikut yang benar? 	|
-|   🔗  	|   📜  	|       Penggunaan SELECT DISTINCT statement      	|
+|   [🔗]()  	|   [📜]()  	|    Mengambil Seluruh Kolom dalam suatu Tabel    	|
+|   [🔗]()  	|   [📜]()  	|         Mengambil Satu Kolom dari Tabel         	|
+|   [🔗]()  	|   [📜]()  	|       Quiz: Mana perintah SQL yang benar?       	|
+|   [🔗]()  	|   [📜]()  	|    Mengambil Lebih dari Satu Kolom dari Tabel   	|
+|   [🔗]()  	|   [📜]()  	|       Quiz: Mana perintah SQL yang benar?       	|
+|   [🔗]()  	|   [📜]()  	|      Membatasi Pengambilan Jumlah Row Data      	|
+|   [🔗]()  	|   [📜]()  	| Quiz: Mana penggunaan limit berikut yang benar? 	|
+|   [🔗]()  	|   [📜]()  	|       Penggunaan SELECT DISTINCT statement      	|
 
 <br> Modul 4 : Prefix dan Alias
 
 | Link 	| Code 	|                        Title                        	|
 |:----:	|:----:	|:---------------------------------------------------:	|
-|   🔗  	|   📜  	|          Menggunakan Prefix pada Nama Kolom         	|
-|   🔗  	|   📜  	|   Quiz: Mana penggunaan prefix berikut yang benar?  	|
-|   🔗  	|   📜  	|             Menggunakan Alias pada Kolom            	|
-|   🔗  	|   📜  	| Quiz: Mana Penggunaan Alias yang Benar untuk Kolom? 	|
-|   🔗  	|   📜  	|              Menghilangkan Keyword 'AS'             	|
-|   🔗  	|   📜  	|   Quiz: Mana Penggunaan Variasi Alias yang Benar?   	|
-|   🔗  	|   📜  	|            Menggabungkan Prefix dan Alias           	|
-|   🔗  	|   📜  	|             Menggunakan Alias pada Tabel            	|
-|   🔗  	|   📜  	|              Prefix dengan Alias Tabel              	|
-|   🔗  	|   📜  	|  Quiz: Mana Kombinasi Prefix dan Alias yang Benar?  	|
+|   [🔗]()  	|   [📜]()  	|          Menggunakan Prefix pada Nama Kolom         	|
+|   [🔗]()  	|   [📜]()  	|   Quiz: Mana penggunaan prefix berikut yang benar?  	|
+|   [🔗]()  	|   [📜]()  	|             Menggunakan Alias pada Kolom            	|
+|   [🔗]()  	|   [📜]()  	| Quiz: Mana Penggunaan Alias yang Benar untuk Kolom? 	|
+|   [🔗]()  	|   [📜]()  	|              Menghilangkan Keyword 'AS'             	|
+|   [🔗]()  	|   [📜]()  	|   Quiz: Mana Penggunaan Variasi Alias yang Benar?   	|
+|   [🔗]()  	|   [📜]()  	|            Menggabungkan Prefix dan Alias           	|
+|   [🔗]()  	|   [📜]()  	|             Menggunakan Alias pada Tabel            	|
+|   [🔗]()  	|   [📜]()  	|              Prefix dengan Alias Tabel              	|
+|   [🔗]()  	|   [📜]()  	|  Quiz: Mana Kombinasi Prefix dan Alias yang Benar?  	|
 
 <br> Modul 5 : Menggunakan Filter
 
 | Link 	| Code 	|                      Title                      	|
 |:----:	|:----:	|:-----------------------------------------------:	|
-|   🔗  	|   📜  	|                Menggunakan WHERE                	|
-|   🔗  	|   📜  	|              Menggunakan Operand OR             	|
-|   🔗  	|   📜  	|                Filter untuk Angka               	|
-|   🔗  	|   📜  	|             Menggunakan Operand AND             	|
-|   🔗  	|   📜  	|  Quiz: Mana Query Filter dengan OR yang Benar?  	|
-|   🔗  	|   📜  	| Quiz: Mana Filter yang Akan Mengeluarkan Hasil? 	|
+|   [🔗]()  	|   [📜]()  	|                Menggunakan WHERE                	|
+|   [🔗]()  	|   [📜]()  	|              Menggunakan Operand OR             	|
+|   [🔗]()  	|   [📜]()  	|                Filter untuk Angka               	|
+|   [🔗]()  	|   [📜]()  	|             Menggunakan Operand AND             	|
+|   [🔗]()  	|   [📜]()  	|  Quiz: Mana Query Filter dengan OR yang Benar?  	|
+|   [🔗]()  	|   [📜]()  	| Quiz: Mana Filter yang Akan Mengeluarkan Hasil? 	|
 
 <br> Modul 6 : Mini Project
 
 | Link 	| Code 	|         Title        	|
 |:----:	|:----:	|:--------------------:	|
-|   🔗  	|   📜  	| Proyek dari Cabang A 	|
+|   [🔗]()  	|   [📜]()  	| Proyek dari Cabang A 	|
 
 <h3>Fundamental SQL Using FUNCTION and GROUP BY</h3>
 
@@ -273,43 +273,43 @@ Modul 1 : Fungsi di SQL
 
 | Link 	| Code 	|                 Title                	|
 |:----:	|:----:	|:------------------------------------:	|
-|   🔗  	|   📜  	|   Fungsi Skalar Matematika - ABS()   	|
-|   🔗  	|   📜  	| Fungsi Skalar Matematika - CEILING() 	|
-|   🔗  	|   📜  	|  Fungsi Skalar Matematika - FLOOR()  	|
-|   🔗  	|   📜  	|  Fungsi Skalar Matematika - ROUND()  	|
-|   🔗  	|   📜  	|  Fungsi Skalar Matematika - SQRT( )  	|
-|   🔗  	|   📜  	|             Tugas Praktek            	|
+|   [🔗]()  	|   [📜]()  	|   Fungsi Skalar Matematika - ABS()   	|
+|   [🔗]()  	|   [📜]()  	| Fungsi Skalar Matematika - CEILING() 	|
+|   [🔗]()  	|   [📜]()  	|  Fungsi Skalar Matematika - FLOOR()  	|
+|   [🔗]()  	|   [📜]()  	|  Fungsi Skalar Matematika - ROUND()  	|
+|   [🔗]()  	|   [📜]()  	|  Fungsi Skalar Matematika - SQRT( )  	|
+|   [🔗]()  	|   [📜]()  	|             Tugas Praktek            	|
 
 <br> Modul 2 : Fungsi Text di SQL
 
 | Link 	| Code 	|               Title              	|
 |:----:	|:----:	|:--------------------------------:	|
-|   🔗  	|   📜  	|      Fungsi Text - CONCAT( )     	|
-|   🔗  	|   📜  	| Fungsi Text - SUBSTRING_INDEX( ) 	|
-|   🔗  	|   📜  	|      Fungsi Text - SUBSTR( )     	|
-|   🔗  	|   📜  	|      Fungsi Text - LENGTH( )     	|
-|   🔗  	|   📜  	|     Fungsi Text - REPLACE( )     	|
-|   🔗  	|   📜  	|           Tugas Praktek          	|
+|   [🔗]()  	|   [📜]()  	|      Fungsi Text - CONCAT( )     	|
+|   [🔗]()  	|   [📜]()  	| Fungsi Text - SUBSTRING_INDEX( ) 	|
+|   [🔗]()  	|   [📜]()  	|      Fungsi Text - SUBSTR( )     	|
+|   [🔗]()  	|   [📜]()  	|      Fungsi Text - LENGTH( )     	|
+|   [🔗]()  	|   [📜]()  	|     Fungsi Text - REPLACE( )     	|
+|   [🔗]()  	|   [📜]()  	|           Tugas Praktek          	|
 
 <br> Modul 3 : Fungsi Aggregate dan Group By
 
 | Link 	| Code 	|               Title              	|
 |:----:	|:----:	|:--------------------------------:	|
-|   🔗  	|   📜  	|     Fungsi Aggregate - SUM()     	|
-|   🔗  	|   📜  	|    Fungsi Aggregate - COUNT()    	|
-|   🔗  	|   📜  	|     Fungsi Aggregate - AVG( )    	|
-|   🔗  	|   📜  	|           Tugas Praktek          	|
-|   🔗  	|   📜  	|      Group by Single Column      	|
-|   🔗  	|   📜  	|     Group by Multiple Column     	|
-|   🔗  	|   📜  	| Fungsi Aggregate dengan Grouping 	|
-|   🔗  	|   📜  	|           Tugas Praktek          	|
+|   [🔗]()  	|   [📜]()  	|     Fungsi Aggregate - SUM()     	|
+|   [🔗]()  	|   [📜]()  	|    Fungsi Aggregate - COUNT()    	|
+|   [🔗]()  	|   [📜]()  	|     Fungsi Aggregate - AVG( )    	|
+|   [🔗]()  	|   [📜]()  	|           Tugas Praktek          	|
+|   [🔗]()  	|   [📜]()  	|      Group by Single Column      	|
+|   [🔗]()  	|   [📜]()  	|     Group by Multiple Column     	|
+|   [🔗]()  	|   [📜]()  	| Fungsi Aggregate dengan Grouping 	|
+|   [🔗]()  	|   [📜]()  	|           Tugas Praktek          	|
 
 <br> Modul 4 : Mini Project 
 
 | Link 	| Code 	|                     Title                    	|
 |:----:	|:----:	|:--------------------------------------------:	|
-|   🔗  	|   📜  	| Proyek Pekerjaan - Analisis Penjualan Part 1 	|
-|   🔗  	|   📜  	| Proyek Pekerjaan - Analisis Penjualan Part 2 	|
+|   [🔗]()  	|   [📜]()  	| Proyek Pekerjaan - Analisis Penjualan Part 1 	|
+|   [🔗]()  	|   [📜]()  	| Proyek Pekerjaan - Analisis Penjualan Part 2 	|
 
 <h3>Fundamental SQL Using INNER JOIN and UNION</h3>
 
@@ -317,43 +317,43 @@ Modul 1 : Penggabungan Tabel dari Relasi Kolom
 
 | Link 	| Code 	|                              Title                              	|
 |:----:	|:----:	|:---------------------------------------------------------------:	|
-|   🔗  	|   📜  	|                          Tugas Praktek                          	|
-|   🔗  	|   📜  	| Quiz: Mana kolom dari kedua tabel yang memiliki kecocokan data? 	|
-|   🔗  	|   📜  	|       Quiz: Mana data dari pasangan key column yang cocok?      	|
-|   🔗  	|   📜  	|              Menggabungkan Tabel dengan Key Columns             	|
-|   🔗  	|   📜  	|         Quiz: Mana Query Penggabungan Tabel Yang Benar?         	|
-|   🔗  	|   📜  	|       Quiz: Mana Penjelasan Hasil Penggabungan Yang Benar?      	|
-|   🔗  	|   📜  	|               Bagaimana jika urutan Tabel diubah?               	|
-|   🔗  	|   📜  	|                  Menggunakan Prefix Nama Tabel                  	|
-|   🔗  	|   📜  	|                    Penggabungan Tanpa Kondisi                   	|
-|   🔗  	|   📜  	|  Quiz: Berapa Jumlah Baris Hasil “Join Tanpa Kondisi” Berikut?  	|
+|   [🔗]()  	|   [📜]()  	|                          Tugas Praktek                          	|
+|   [🔗]()  	|   [📜]()  	| Quiz: Mana kolom dari kedua tabel yang memiliki kecocokan data? 	|
+|   [🔗]()  	|   [📜]()  	|       Quiz: Mana data dari pasangan key column yang cocok?      	|
+|   [🔗]()  	|   [📜]()  	|              Menggabungkan Tabel dengan Key Columns             	|
+|   [🔗]()  	|   [📜]()  	|         Quiz: Mana Query Penggabungan Tabel Yang Benar?         	|
+|   [🔗]()  	|   [📜]()  	|       Quiz: Mana Penjelasan Hasil Penggabungan Yang Benar?      	|
+|   [🔗]()  	|   [📜]()  	|               Bagaimana jika urutan Tabel diubah?               	|
+|   [🔗]()  	|   [📜]()  	|                  Menggunakan Prefix Nama Tabel                  	|
+|   [🔗]()  	|   [📜]()  	|                    Penggabungan Tanpa Kondisi                   	|
+|   [🔗]()  	|   [📜]()  	|  Quiz: Berapa Jumlah Baris Hasil “Join Tanpa Kondisi” Berikut?  	|
 
 <br> Modul 2 : INNER JOIN
 
 | Link 	| Code 	|                                Title                               	|
 |:----:	|:----:	|:------------------------------------------------------------------:	|
-|   🔗  	|   📜  	|             Tugas Praktek: Menggunakan INNER JOIN (1/3)            	|
-|   🔗  	|   📜  	|               tabel tr_penjualan dan tabel ms_produk               	|
-|   🔗  	|   📜  	| Quiz: Mengidentifikasi Key Column tabel tr_penjualan dan ms_produk 	|
-|   🔗  	|   📜  	|             Tugas Praktek: Menggunakan INNER JOIN (2/3)            	|
-|   🔗  	|   📜  	|             Tugas Praktek: Menggunakan INNER JOIN (3/3)            	|
+|   [🔗]()  	|   [📜]()  	|             Tugas Praktek: Menggunakan INNER JOIN (1/3)            	|
+|   [🔗]()  	|   [📜]()  	|               tabel tr_penjualan dan tabel ms_produk               	|
+|   [🔗]()  	|   [📜]()  	| Quiz: Mengidentifikasi Key Column tabel tr_penjualan dan ms_produk 	|
+|   [🔗]()  	|   [📜]()  	|             Tugas Praktek: Menggunakan INNER JOIN (2/3)            	|
+|   [🔗]()  	|   [📜]()  	|             Tugas Praktek: Menggunakan INNER JOIN (3/3)            	|
 
 <br> Modul 3 : UNION
 
 | Link 	| Code 	|                        Title                       	|
 |:----:	|:----:	|:--------------------------------------------------:	|
-|   🔗  	|   📜  	|             Tabel yang Akan Digabungkan            	|
-|   🔗  	|   📜  	|                  Menggunakan UNION                 	|
-|   🔗  	|   📜  	|        Menggunakan UNION dengan Klausa WHERE       	|
-|   🔗  	|   📜  	| Menggunakan UNION dan Menyelaraskan Kolom-Kolomnya 	|
-|   🔗  	|   📜  	|                        Quiz                        	|
+|   [🔗]()  	|   [📜]()  	|             Tabel yang Akan Digabungkan            	|
+|   [🔗]()  	|   [📜]()  	|                  Menggunakan UNION                 	|
+|   [🔗]()  	|   [📜]()  	|        Menggunakan UNION dengan Klausa WHERE       	|
+|   [🔗]()  	|   [📜]()  	| Menggunakan UNION dan Menyelaraskan Kolom-Kolomnya 	|
+|   [🔗]()  	|   [📜]()  	|                        Quiz                        	|
 
 <br> Modul 4 : Mini Project
 
 | Link 	| Code 	|        Title       	|
 |:----:	|:----:	|:------------------:	|
-|   🔗  	|   📜  	| Project INNER JOIN 	|
-|   🔗  	|   📜  	|    Project UNION   	|
+|   [🔗]()  	|   [📜]()  	| Project INNER JOIN 	|
+|   [🔗]()  	|   [📜]()  	|    Project UNION   	|
 
 <br><br>
 <img src="https://raw.githubusercontent.com/kevinadhiguna/dqlab-career-track/master/assets/EDA-python.png" />
