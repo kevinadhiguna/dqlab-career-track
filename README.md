@@ -155,49 +155,49 @@ Modul 1 : Pengantar Object Oriented Programming
 
 | Link 	| Code 	| Title 	|
 |:----:	|:----:	|:-----:	|
-|   🔗  	|   📜  	|  Quiz 	|
-|   🔗  	|   📜  	| Quiz  	|
-|   🔗  	|   📜  	| Quiz  	|
+|   [🔗](https://academy.dqlab.id/main/livecode/161/300/1349)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%203/0.quiz-1.png)  	|  Quiz 	|
+|   [🔗](https://academy.dqlab.id/main/livecode/161/300/1350)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%203/1.quiz-2.png)  	|  Quiz  	|
+|   [🔗](https://academy.dqlab.id/main/livecode/161/300/1351)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%203/2.quiz-3.png)  	|  Quiz  	|
 
 <br>Modul 2 : Classes & Objects
 
 | Link 	| Code 	|                 Title                 	|
 |:----:	|:----:	|:-------------------------------------:	|
-|   🔗  	|   📜  	| Class dan Objek dalam Python - Part 3 	|
-|   🔗  	|   📜  	| Class dan Objek dalam Python - Part 4 	|
-|   🔗  	|   📜  	|                  Quiz                 	|
-|   🔗  	|   📜  	|                  Quiz                 	|
-|   🔗  	|   📜  	|          Behavior pada Class          	|
-|   🔗  	|   📜  	|             Tugas Praktek             	|
-|   🔗  	|   📜  	|             Tugas Praktek             	|
+|   [🔗](https://academy.dqlab.id/main/livecode/161/301/1354)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%203/3.class-object-3.py)  	| Class dan Objek dalam Python - Part 3 	|
+|   [🔗](https://academy.dqlab.id/main/livecode/161/301/1355)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%203/4.class-object-4.py)  	| Class dan Objek dalam Python - Part 4 	|
+|   [🔗](https://academy.dqlab.id/main/livecode/161/301/1356)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%203/5.quiz-4.png)  	|                  Quiz                 	|
+|   [🔗](https://academy.dqlab.id/main/livecode/161/301/1357)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%203/6.quiz-5.png)  	|                  Quiz                 	|
+|   [🔗](https://academy.dqlab.id/main/livecode/161/301/1358)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%203/7.class-behavior.py)  	|          Behavior pada Class          	|
+|   [🔗](https://academy.dqlab.id/main/livecode/161/301/1359)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%203/8.tugas-praktek-1.py)  	|             Tugas Praktek             	|
+|   [🔗](https://academy.dqlab.id/main/livecode/161/301/1360)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%203/9.tugas-praktek-2.py)  	|             Tugas Praktek             	|
 
 <br>Modul 3 : Encapsulation & Inheritance
 
 | Link 	| Code 	|                Title               	|
 |:----:	|:----:	|:----------------------------------:	|
-|   🔗  	|   📜  	| Encapsulation pada Python - Part 2 	|
-|   🔗  	|   📜  	|                Quiz                	|
-|   🔗  	|   📜  	|                Quiz                	|
-|   🔗  	|   📜  	|  Inheritance pada Python – Part 1  	|
-|   🔗  	|   📜  	|  Inheritance pada Python – Part 2  	|
-|   🔗  	|   📜  	|                Quiz                	|
-|   🔗  	|   📜  	|                Quiz                	|
+|   [🔗](https://academy.dqlab.id/main/livecode/161/302/1362)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%203/10.encapsulation-2.py)  	| Encapsulation pada Python - Part 2 	|
+|   [🔗](https://academy.dqlab.id/main/livecode/161/302/1363)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%203/11.quiz-6.png)  	|                Quiz                	|
+|   [🔗](https://academy.dqlab.id/main/livecode/161/302/1364)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%203/12.quiz-7.png)  	|                Quiz                	|
+|   [🔗](https://academy.dqlab.id/main/livecode/161/302/1365)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%203/13.inheritance-1.py)  	|  Inheritance pada Python – Part 1  	|
+|   [🔗](https://academy.dqlab.id/main/livecode/161/302/1370)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%203/14.inheritance-2.py)  	|  Inheritance pada Python – Part 2  	|
+|   [🔗](https://academy.dqlab.id/main/livecode/161/302/1371)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%203/15.quiz-8.png)  	|                Quiz                	|
+|   [🔗](https://academy.dqlab.id/main/livecode/161/302/1372)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%203/16.quiz-9.png)  	|                Quiz                	|
 
 <br>Modul 4 : Polymorphism & Overloading
 
 | Link 	| Code 	|               Title               	|
 |:----:	|:----:	|:---------------------------------:	|
-|   🔗  	|   📜  	| Polymorphism pada Python - Part 1 	|
-|   🔗  	|   📜  	| Polymorphism pada Python - Part 2 	|
-|   🔗  	|   📜  	|           Tugas Praktek           	|
-|   🔗  	|   📜  	|           Tugas Praktek           	|
-|   🔗  	|   📜  	|           Tugas Praktek           	|
+|   [🔗](https://academy.dqlab.id/main/livecode/161/304/1373)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%203/17.polimorphism-1.py)  	| Polymorphism pada Python - Part 1 	|
+|   [🔗](https://academy.dqlab.id/main/livecode/161/304/1374)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%203/18.polimorphism-2.py)  	| Polymorphism pada Python - Part 2 	|
+|   [🔗](https://academy.dqlab.id/main/livecode/161/304/1375)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%203/19.tugas-praktek-3.py)  	|           Tugas Praktek           	|
+|   [🔗](https://academy.dqlab.id/main/livecode/161/304/1376)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%203/20.tugas-praktek-4.py)  	|           Tugas Praktek           	|
+|   [🔗](https://academy.dqlab.id/main/livecode/161/304/1378)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%203/21.tugas-praktek-5.py)  	|           Tugas Praktek           	|
 
 <br>Modul 5 : Mini Quiz
 
 | Link 	| Code 	|          Title         	|
 |:----:	|:----:	|:----------------------:	|
-|   🔗  	|   📜  	| Studi Kasus dari Senja 	|
+|   [🔗](https://academy.dqlab.id/main/livecode/161/305/1380)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%203/22.studi-kasus-dari-senja.py)  	| Studi Kasus dari Senja 	|
 
 <br><br>
 <img src="https://raw.githubusercontent.com/kevinadhiguna/dqlab-career-track/master/assets/sql.png" width="30%" />
