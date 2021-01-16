@@ -460,7 +460,7 @@ Modul 1 : Introduction to Pandas
 
 | Link | Code |        Title       |
 |:----:|:----:|:------------------:|
-|   [🔗](https://academy.dqlab.id/main/livecode/178/431/2156)  |   To be Posted...  | Project dari Andra |
+|   [🔗](https://academy.dqlab.id/main/livecode/178/431/2156)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Manipulation%20with%20Pandas/Part%201/33.project-dari-andra.py)  | Project dari Andra |
 
 <h3>Data Manipulation with Pandas - Part 2</h3>
 
