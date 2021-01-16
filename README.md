@@ -278,7 +278,7 @@ Modul 1 : Fungsi di SQL
 |   [🔗](https://academy.dqlab.id/main/livecode/171/336/1608)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Fundamental%20SQL/Using%20FUNCTION%20and%20GROUP%20BY/2.FLOOR-function.sql)  	|  Fungsi Skalar Matematika - FLOOR()  	|
 |   [🔗](https://academy.dqlab.id/main/livecode/171/336/1609)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Fundamental%20SQL/Using%20FUNCTION%20and%20GROUP%20BY/3.ROUND-function.sql)  	|  Fungsi Skalar Matematika - ROUND()  	|
 |   [🔗](https://academy.dqlab.id/main/livecode/171/336/1610)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Fundamental%20SQL/Using%20FUNCTION%20and%20GROUP%20BY/4.SQRT-function.sql)  	|  Fungsi Skalar Matematika - SQRT()  	|
-|   [🔗](https://academy.dqlab.id/main/livecode/171/336/1611)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Fundamental%20SQL/Using%20FUNCTION%20and%20GROUP%20BY/5.tugas-praktek-1.sql)  	|             Tugas Praktek            	|
+|   [🔗](https://academy.dqlab.id/main/livecode/171/336/1611)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Fundamental%20SQL/Using%20FUNCTION%20and%20GROUP%20BY/5.tugas-praktek-1.sql)  	|             Tugas Praktek 1          	|
 
 <br> Modul 2 : Fungsi Text di SQL
 
@@ -289,7 +289,7 @@ Modul 1 : Fungsi di SQL
 |   [🔗](https://academy.dqlab.id/main/livecode/171/337/1635)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Fundamental%20SQL/Using%20FUNCTION%20and%20GROUP%20BY/8.SUBSTR-function.sql)  	|      Fungsi Text - SUBSTR()     	|
 |   [🔗](https://academy.dqlab.id/main/livecode/171/337/1636)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Fundamental%20SQL/Using%20FUNCTION%20and%20GROUP%20BY/9.LENGTH-function.sql)  	|      Fungsi Text - LENGTH()     	|
 |   [🔗](https://academy.dqlab.id/main/livecode/171/337/1637)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Fundamental%20SQL/Using%20FUNCTION%20and%20GROUP%20BY/10.REPLACE-function.sql)  	|     Fungsi Text - REPLACE()     	|
-|   [🔗](https://academy.dqlab.id/main/livecode/171/337/1638)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Fundamental%20SQL/Using%20FUNCTION%20and%20GROUP%20BY/11.tugas-praktek-1.sql)  	|           Tugas Praktek          	|
+|   [🔗](https://academy.dqlab.id/main/livecode/171/337/1638)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Fundamental%20SQL/Using%20FUNCTION%20and%20GROUP%20BY/11.tugas-praktek-1.sql)  	|           Tugas Praktek 2        	|
 
 <br> Modul 3 : Fungsi Aggregate dan Group By
 
@@ -298,11 +298,11 @@ Modul 1 : Fungsi di SQL
 |   [🔗](https://academy.dqlab.id/main/livecode/171/340/1640)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Fundamental%20SQL/Using%20FUNCTION%20and%20GROUP%20BY/12.SUM-function.sql)  	|     Fungsi Aggregate - SUM()     	|
 |   [🔗](https://academy.dqlab.id/main/livecode/171/340/1641)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Fundamental%20SQL/Using%20FUNCTION%20and%20GROUP%20BY/13.COUNT-function.sql)  	|    Fungsi Aggregate - COUNT()    	|
 |   [🔗](https://academy.dqlab.id/main/livecode/171/340/1642)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Fundamental%20SQL/Using%20FUNCTION%20and%20GROUP%20BY/14.AVG-function.sql)  	|     Fungsi Aggregate - AVG()    	|
-|   [🔗](https://academy.dqlab.id/main/livecode/171/340/1643)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Fundamental%20SQL/Using%20FUNCTION%20and%20GROUP%20BY/15.tugas-praktek-2.sql)  	|           Tugas Praktek          	|
+|   [🔗](https://academy.dqlab.id/main/livecode/171/340/1643)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Fundamental%20SQL/Using%20FUNCTION%20and%20GROUP%20BY/15.tugas-praktek-2.sql)  	|           Tugas Praktek 3        	|
 |   [🔗](https://academy.dqlab.id/main/livecode/171/340/1645)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Fundamental%20SQL/Using%20FUNCTION%20and%20GROUP%20BY/16.groupby-single-column.sql)  	|      Group by Single Column      	|
 |   [🔗](https://academy.dqlab.id/main/livecode/171/340/1646)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Fundamental%20SQL/Using%20FUNCTION%20and%20GROUP%20BY/17.groupby-multiple-column.sql)  	|     Group by Multiple Column     	|
 |   [🔗](https://academy.dqlab.id/main/livecode/171/340/1647)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Fundamental%20SQL/Using%20FUNCTION%20and%20GROUP%20BY/18.aggregate-with-grouping.sql)  	| Fungsi Aggregate dengan Grouping 	|
-|   [🔗](https://academy.dqlab.id/main/livecode/171/340/1650)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Fundamental%20SQL/Using%20FUNCTION%20and%20GROUP%20BY/19.tugas-praktek-3.sql)  	|           Tugas Praktek          	|
+|   [🔗](https://academy.dqlab.id/main/livecode/171/340/1650)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Fundamental%20SQL/Using%20FUNCTION%20and%20GROUP%20BY/19.tugas-praktek-3.sql)  	|           Tugas Praktek 4        	|
 
 <br> Modul 4 : Mini Project 
 
@@ -317,7 +317,7 @@ Modul 1 : Penggabungan Tabel dari Relasi Kolom
 
 | Link 	| Code 	|                              Title                              	|
 |:----:	|:----:	|:---------------------------------------------------------------:	|
-|   [🔗](https://academy.dqlab.id/main/livecode/244/406/2034)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Fundamental%20SQL/Using%20INNER%20JOIN%20and%20UNION/0.tugas-praktek-1.sql)  	|                          Tugas Praktek                          	|
+|   [🔗](https://academy.dqlab.id/main/livecode/244/406/2034)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Fundamental%20SQL/Using%20INNER%20JOIN%20and%20UNION/0.tugas-praktek-1.sql)  	|                          Tugas Praktek 1                         	|
 |   [🔗](https://academy.dqlab.id/main/livecode/244/406/2035)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Fundamental%20SQL/Using%20INNER%20JOIN%20and%20UNION/1.quiz-1.png)  	| Quiz: Mana kolom dari kedua tabel yang memiliki kecocokan data? 	|
 |   [🔗](https://academy.dqlab.id/main/livecode/244/406/2036)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Fundamental%20SQL/Using%20INNER%20JOIN%20and%20UNION/2.quiz-2.png)  	|       Quiz: Mana data dari pasangan key column yang cocok?      	|
 |   [🔗](https://academy.dqlab.id/main/livecode/244/406/2038)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Fundamental%20SQL/Using%20INNER%20JOIN%20and%20UNION/3.combine-table-with-key-column.sql)  	|              Menggabungkan Tabel dengan Key Columns             	|
