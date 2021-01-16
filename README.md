@@ -217,55 +217,55 @@ Modul 1 : Structured Query Language
 
 | Link 	| Code 	|                       Title                       	|
 |:----:	|:----:	|:-------------------------------------------------:	|
-|   [🔗]()  	|   [📜]()  	| Quiz: Mana saja yang merupakan nama produk RDBMS? 	|
-|   [🔗]()  	|   [📜]()  	|       Quiz: Mana urutan hirarki yang benar?       	|
-|   [🔗]()  	|   [📜]()  	|         Quiz: Apa nama komponen tabel ini?        	|
-|   [🔗]()  	|   [📜]()  	|        Quiz: Mana yang disebut sebagai row?       	|
+|   [🔗](https://academy.dqlab.id/main/livecode/213/384/1890)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Fundamental%20SQL/Using%20SELECT%20Statement/2.quiz-3.png)  	| Quiz: Mana saja yang merupakan nama produk RDBMS? 	|
+|   [🔗](https://academy.dqlab.id/main/livecode/213/384/1892)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Fundamental%20SQL/Using%20SELECT%20Statement/3.quiz-4.png)  	|       Quiz: Mana urutan hirarki yang benar?       	|
+|   [🔗](https://academy.dqlab.id/main/livecode/213/384/1894)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Fundamental%20SQL/Using%20SELECT%20Statement/4.quiz-5.png)  	|         Quiz: Apa nama komponen tabel ini?        	|
+|   [🔗](https://academy.dqlab.id/main/livecode/213/384/1895)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Fundamental%20SQL/Using%20SELECT%20Statement/5.quiz-6.png)  	|        Quiz: Mana yang disebut sebagai row?       	|
 
 <br> Modul 3 : Penggunaan Perintah SELECT… FROM…
 
 | Link 	| Code 	|                      Title                      	|
 |:----:	|:----:	|:-----------------------------------------------:	|
-|   [🔗]()  	|   [📜]()  	|    Mengambil Seluruh Kolom dalam suatu Tabel    	|
-|   [🔗]()  	|   [📜]()  	|         Mengambil Satu Kolom dari Tabel         	|
-|   [🔗]()  	|   [📜]()  	|       Quiz: Mana perintah SQL yang benar?       	|
-|   [🔗]()  	|   [📜]()  	|    Mengambil Lebih dari Satu Kolom dari Tabel   	|
-|   [🔗]()  	|   [📜]()  	|       Quiz: Mana perintah SQL yang benar?       	|
-|   [🔗]()  	|   [📜]()  	|      Membatasi Pengambilan Jumlah Row Data      	|
-|   [🔗]()  	|   [📜]()  	| Quiz: Mana penggunaan limit berikut yang benar? 	|
-|   [🔗]()  	|   [📜]()  	|       Penggunaan SELECT DISTINCT statement      	|
+|   [🔗](https://academy.dqlab.id/main/livecode/213/385/1898)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Fundamental%20SQL/Using%20SELECT%20Statement/6.fetch-all-columns.sql)  	|    Mengambil Seluruh Kolom dalam suatu Tabel    	|
+|   [🔗](https://academy.dqlab.id/main/livecode/213/385/1899)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Fundamental%20SQL/Using%20SELECT%20Statement/7.fetch-one-column.sql)  	|         Mengambil Satu Kolom dari Tabel         	|
+|   [🔗](https://academy.dqlab.id/main/livecode/213/385/1900)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Fundamental%20SQL/Using%20SELECT%20Statement/8.quiz-7.png)  	|       Quiz: Mana perintah SQL yang benar?       	|
+|   [🔗](https://academy.dqlab.id/main/livecode/213/385/1901)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Fundamental%20SQL/Using%20SELECT%20Statement/9.fetch-more-than-one-column.sql)  	|    Mengambil Lebih dari Satu Kolom dari Tabel   	|
+|   [🔗](https://academy.dqlab.id/main/livecode/213/385/1902)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Fundamental%20SQL/Using%20SELECT%20Statement/10.quiz-8.png)  	|       Quiz: Mana perintah SQL yang benar?       	|
+|   [🔗](https://academy.dqlab.id/main/livecode/213/385/1903)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Fundamental%20SQL/Using%20SELECT%20Statement/11.limit-row.sql)  	|      Membatasi Pengambilan Jumlah Row Data      	|
+|   [🔗](https://academy.dqlab.id/main/livecode/213/385/1904)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Fundamental%20SQL/Using%20SELECT%20Statement/12.quiz-9.png)  	| Quiz: Mana penggunaan limit berikut yang benar? 	|
+|   [🔗](https://academy.dqlab.id/main/livecode/213/385/1988)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Fundamental%20SQL/Using%20SELECT%20Statement/13.select-distinct.sql)  	|       Penggunaan SELECT DISTINCT statement      	|
 
 <br> Modul 4 : Prefix dan Alias
 
 | Link 	| Code 	|                        Title                        	|
 |:----:	|:----:	|:---------------------------------------------------:	|
-|   [🔗]()  	|   [📜]()  	|          Menggunakan Prefix pada Nama Kolom         	|
-|   [🔗]()  	|   [📜]()  	|   Quiz: Mana penggunaan prefix berikut yang benar?  	|
-|   [🔗]()  	|   [📜]()  	|             Menggunakan Alias pada Kolom            	|
-|   [🔗]()  	|   [📜]()  	| Quiz: Mana Penggunaan Alias yang Benar untuk Kolom? 	|
-|   [🔗]()  	|   [📜]()  	|              Menghilangkan Keyword 'AS'             	|
-|   [🔗]()  	|   [📜]()  	|   Quiz: Mana Penggunaan Variasi Alias yang Benar?   	|
-|   [🔗]()  	|   [📜]()  	|            Menggabungkan Prefix dan Alias           	|
-|   [🔗]()  	|   [📜]()  	|             Menggunakan Alias pada Tabel            	|
-|   [🔗]()  	|   [📜]()  	|              Prefix dengan Alias Tabel              	|
-|   [🔗]()  	|   [📜]()  	|  Quiz: Mana Kombinasi Prefix dan Alias yang Benar?  	|
+|   [🔗](https://academy.dqlab.id/main/livecode/213/386/1907)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Fundamental%20SQL/Using%20SELECT%20Statement/14.prefix-column.sql)  	|          Menggunakan Prefix pada Nama Kolom         	|
+|   [🔗](https://academy.dqlab.id/main/livecode/213/386/1908)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Fundamental%20SQL/Using%20SELECT%20Statement/15.quiz-10.png)  	|   Quiz: Mana penggunaan prefix berikut yang benar?  	|
+|   [🔗](https://academy.dqlab.id/main/livecode/213/386/1909)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Fundamental%20SQL/Using%20SELECT%20Statement/16.alias-column.sql)  	|             Menggunakan Alias pada Kolom            	|
+|   [🔗](https://academy.dqlab.id/main/livecode/213/386/1910)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Fundamental%20SQL/Using%20SELECT%20Statement/17.quiz-11.png)  	| Quiz: Mana Penggunaan Alias yang Benar untuk Kolom? 	|
+|   [🔗](https://academy.dqlab.id/main/livecode/213/386/1911)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Fundamental%20SQL/Using%20SELECT%20Statement/18.remove-as-keyword.sql)  	|              Menghilangkan Keyword 'AS'             	|
+|   [🔗](https://academy.dqlab.id/main/livecode/213/386/1912)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Fundamental%20SQL/Using%20SELECT%20Statement/19.quiz-12.png)  	|   Quiz: Mana Penggunaan Variasi Alias yang Benar?   	|
+|   [🔗](https://academy.dqlab.id/main/livecode/213/386/1913)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Fundamental%20SQL/Using%20SELECT%20Statement/20.combine-prefix-and-alias.sql)  	|            Menggabungkan Prefix dan Alias           	|
+|   [🔗](https://academy.dqlab.id/main/livecode/213/386/1914)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Fundamental%20SQL/Using%20SELECT%20Statement/21.alias-for-table.sql)  	|             Menggunakan Alias pada Tabel            	|
+|   [🔗](https://academy.dqlab.id/main/livecode/213/386/1915)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Fundamental%20SQL/Using%20SELECT%20Statement/22.prefix-with-table-alias.sql)  	|              Prefix dengan Alias Tabel              	|
+|   [🔗](https://academy.dqlab.id/main/livecode/213/386/1916)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Fundamental%20SQL/Using%20SELECT%20Statement/23.quiz-13.png)  	|  Quiz: Mana Kombinasi Prefix dan Alias yang Benar?  	|
 
 <br> Modul 5 : Menggunakan Filter
 
 | Link 	| Code 	|                      Title                      	|
 |:----:	|:----:	|:-----------------------------------------------:	|
-|   [🔗]()  	|   [📜]()  	|                Menggunakan WHERE                	|
-|   [🔗]()  	|   [📜]()  	|              Menggunakan Operand OR             	|
-|   [🔗]()  	|   [📜]()  	|                Filter untuk Angka               	|
-|   [🔗]()  	|   [📜]()  	|             Menggunakan Operand AND             	|
-|   [🔗]()  	|   [📜]()  	|  Quiz: Mana Query Filter dengan OR yang Benar?  	|
-|   [🔗]()  	|   [📜]()  	| Quiz: Mana Filter yang Akan Mengeluarkan Hasil? 	|
+|   [🔗](https://academy.dqlab.id/main/livecode/213/387/1919)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Fundamental%20SQL/Using%20SELECT%20Statement/24.where.sql)  	|                Menggunakan WHERE                	|
+|   [🔗](https://academy.dqlab.id/main/livecode/213/387/1920)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Fundamental%20SQL/Using%20SELECT%20Statement/25.operand-OR.sql)  	|              Menggunakan Operand OR             	|
+|   [🔗](https://academy.dqlab.id/main/livecode/213/387/1921)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Fundamental%20SQL/Using%20SELECT%20Statement/26.number-filter.sql)  	|                Filter untuk Angka               	|
+|   [🔗](https://academy.dqlab.id/main/livecode/213/387/1924)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Fundamental%20SQL/Using%20SELECT%20Statement/27.operand-AND.sql)  	|             Menggunakan Operand AND             	|
+|   [🔗](https://academy.dqlab.id/main/livecode/213/387/1925)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Fundamental%20SQL/Using%20SELECT%20Statement/28.quiz-14.png)  	|  Quiz: Mana Query Filter dengan OR yang Benar?  	|
+|   [🔗](https://academy.dqlab.id/main/livecode/213/387/1926)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Fundamental%20SQL/Using%20SELECT%20Statement/29.quiz-15.png)  	| Quiz: Mana Filter yang Akan Mengeluarkan Hasil? 	|
 
 <br> Modul 6 : Mini Project
 
 | Link 	| Code 	|         Title        	|
 |:----:	|:----:	|:--------------------:	|
-|   [🔗]()  	|   [📜]()  	| Proyek dari Cabang A 	|
+|   [🔗](https://academy.dqlab.id/main/livecode/213/388/1929)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Fundamental%20SQL/Using%20SELECT%20Statement/30.proyek-cabang-A.sql)  	| Proyek dari Cabang A 	|
 
 <h3>Fundamental SQL Using FUNCTION and GROUP BY</h3>
 
