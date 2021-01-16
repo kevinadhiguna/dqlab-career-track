@@ -366,29 +366,29 @@ Modul 1 : Pengenalan Library dalam Python
 
 | Link 	| Code 	|            Title            	|
 |:----:	|:----:	|:---------------------------:	|
-|   🔗  	|   📜  	|             Quiz            	|
-|   🔗  	|   📜  	|             Quiz            	|
+|   🔗  	|   📜  	|             Quiz 1           	|
+|   🔗  	|   📜  	|             Quiz 2           	|
 |   🔗  	|   📜  	| Memanggil library di Python 	|
 
 <br> Modul 2 : Exploratory Data Analysis dengan Pandas - Part 1
 
 | Link 	| Code 	|     Title     	|
 |:----:	|:----:	|:-------------:	|
-|   🔗  	|   📜  	| Tugas Praktek 	|
-|   🔗  	|   📜  	| Tugas Praktek 	|
-|   🔗  	|   📜  	| Tugas Praktek 	|
-|   🔗  	|   📜  	| Tugas Praktek 	|
+|   🔗  	|   📜  	| Tugas Praktek 1	|
+|   🔗  	|   📜  	| Tugas Praktek 2	|
+|   🔗  	|   📜  	| Tugas Praktek 3	|
+|   🔗  	|   📜  	| Tugas Praktek 4	|
 
 <br> Modul 3 : Exploratory Data Analysis dengan Pandas - Part 2
 
 | Link 	| Code 	|     Title     	|
 |:----:	|:----:	|:-------------:	|
-|   🔗  	|   📜  	| Tugas Praktek 	|
-|   🔗  	|   📜  	| Tugas Praktek 	|
-|   🔗  	|   📜  	| Tugas Praktek 	|
-|   🔗  	|   📜  	| Tugas Praktek 	|
-|   🔗  	|   📜  	| Tugas Praktek 	|
-|   🔗  	|   📜  	| Tugas Praktek 	|
+|   🔗  	|   📜  	| Tugas Praktek 5	|
+|   🔗  	|   📜  	| Tugas Praktek 6	|
+|   🔗  	|   📜  	| Tugas Praktek 7	|
+|   🔗  	|   📜  	| Tugas Praktek 8	|
+|   🔗  	|   📜  	| Tugas Praktek 9	|
+|   🔗  	|   📜  	| Tugas Praktek 10 |
 
 <br> Modul 4 : Mini Project
 
