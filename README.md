@@ -405,25 +405,124 @@ Modul 1 : Pengenalan Library dalam Python
 
 Modul 1 : Introduction to Pandas
 
+| Link | Code |                     Title                    |
+|:----:|:----:|:--------------------------------------------:|
+|   🔗  |   📜  |           Memanggil Library Pandas           |
+|   🔗  |   📜  |              DataFrame & Series              |
+|   🔗  |   📜  |      Atribut DataFrame & Series - Part 1     |
+|   🔗  |   📜  |      Atribut DataFrame & Series - Part 2     |
+|   🔗  |   📜  |      Atribut DataFrame & Series - Part 3     |
+|   🔗  |   📜  |                     Quiz                     |
+|   🔗  |   📜  |     Creating Series & Dataframe from List    |
+|   🔗  |   📜  |  Creating Series & Dataframe from Dictionary |
+|   🔗  |   📜  | Creating Series & Dataframe from Numpy Array |
+|   🔗  |   📜  |                     Quiz                     |
+
 <br> Modul 2 : Dataset I/O
+
+| Link | Code |            Title           |
+|:----:|:----:|:--------------------------:|
+|   🔗  |   📜  | Read Dataset - CSV dan TSV |
+|   🔗  |   📜  |    Read Dataset - Excel    |
+|   🔗  |   📜  |     Read Dataset - JSON    |
+|   🔗  |   📜  |         Head & Tail        |
+|   🔗  |   📜  |            Quiz            |
 
 <br> Modul 3 : Indexing, Slicing, dan Transforming
 
+| Link | Code |         Title         |
+|:----:|:----:|:---------------------:|
+|   🔗  |   📜  |   Indexing - Part 2   |
+|   🔗  |   📜  |   Indexing - Part 3   |
+|   🔗  |   📜  |   Indexing - Part 4   |
+|   🔗  |   📜  |   Indexing - Part 5   |
+|   🔗  |   📜  |          Quiz         |
+|   🔗  |   📜  |    Slicing - Part 1   |
+|   🔗  |   📜  |    Slicing - Part 2   |
+|   🔗  |   📜  |          Quiz         |
+|   🔗  |   📜  | Transforming - Part 1 |
+|   🔗  |   📜  | Transforming - Part 2 |
+|   🔗  |   📜  | Transforming - Part 3 |
+|   🔗  |   📜  | Transforming - Part 4 |
+
 <br> Modul 4 : Handling Missing Values
 
+| Link | Code |                  Title                 |
+|:----:|:----:|:--------------------------------------:|
+|   🔗  |   📜  |         Inspeksi Missing Value         |
+|   🔗  |   📜  | Treatment untuk Missing Value - Part 2 |
+|   🔗  |   📜  | Treatment untuk Missing Value - Part 3 |
+|   🔗  |   📜  | Treatment untuk Missing Value - Part 4 |
+|   🔗  |   📜  | Treatment untuk Missing Value - Part 5 |
+|   🔗  |   📜  |                  Quiz                  |
+
 <br> Modul 5 : Mini Project
+
+| Link | Code |        Title       |
+|:----:|:----:|:------------------:|
+|   🔗  |   📜  | Project dari Andra |
 
 <h3>Data Manipulation with Pandas - Part 2</h3>
 
 Modul 1 : Penggabungan Series/Dataframe
 
+| Link | Code |      Title     |
+|:----:|:----:|:--------------:|
+|   🔗  |   📜  |     Append     |
+|   🔗  |   📜  |     Concat     |
+|   🔗  |   📜  | Merge - Part 1 |
+|   🔗  |   📜  | Merge - Part 2 |
+|   🔗  |   📜  |      Join      |
+|   🔗  |   📜  |      Quiz      |
+
 <br> Modul 2 : Pivot, Melt, Stack & Unstack
+
+| Link | Code |           Title          |
+|:----:|:----:|:------------------------:|
+|   🔗  |   📜  |          Dataset         |
+|   🔗  |   📜  |           Pivot          |
+|   🔗  |   📜  |        Pivot_table       |
+|   🔗  |   📜  |       Melt - Part 1      |
+|   🔗  |   📜  |       Melt - Part 2      |
+|   🔗  |   📜  | Stack & Unstack - Part 1 |
+|   🔗  |   📜  | Stack & Unstack - Part 2 |
+|   🔗  |   📜  |           Quiz           |
 
 <br> Modul 3 : Aggregation & GroupBy
 
+| Link | Code |                             Title                            |
+|:----:|:----:|:------------------------------------------------------------:|
+|   🔗  |   📜  |                     Review Inspeksi Data                     |
+|   🔗  |   📜  | Groupby dan Aggregasi dengan Fungsi Statistik Dasar - Part 1 |
+|   🔗  |   📜  | Groupby dan Aggregasi dengan Fungsi Statistik Dasar - Part 2 |
+|   🔗  |   📜  | Groupby dan Aggregasi dengan Fungsi Statistik Dasar - Part 3 |
+|   🔗  |   📜  |             Groupby dengan Multiple  Aggregations            |
+|   🔗  |   📜  |              Groupby dengan Custom Aggregations              |
+|   🔗  |   📜  |          Groupby dengan Custom Aggregations by dict          |
+|   🔗  |   📜  |                             Quiz                             |
+
 <br> Modul 4 : Time Series in Pandas
 
+| Link | Code |            Title            |
+|:----:|:----:|:---------------------------:|
+|   🔗  |   📜  | Load Dataset as Time Series |
+|   🔗  |   📜  |     Convert to Datetime     |
+|   🔗  |   📜  |      Downsampling Data      |
+|   🔗  |   📜  |       Upsampling Data       |
+|   🔗  |   📜  |   Resampling by Frequency   |
+|   🔗  |   📜  |         Visualisasi         |
+|   🔗  |   📜  |             Quiz            |
+
 <br> Modul 5 : Mini Project
+
+| Link | Code |                     Title                    |
+|:----:|:----:|:--------------------------------------------:|
+|   🔗  |   📜  | Performa Penjualan di Setiap Cabang - Part 1 |
+|   🔗  |   📜  | Performa Penjualan di Setiap Cabang - Part 2 |
+|   🔗  |   📜  | Performa Penjualan di Setiap Cabang - Part 3 |
+|   🔗  |   📜  | Performa Penjualan di Setiap Cabang - Part 4 |
+|   🔗  |   📜  | Performa Penjualan di Setiap Cabang - Part 5 |
+|   🔗  |   📜  | Performa Penjualan di Setiap Cabang - Part 6 |
 
 <br><br>
 <img src="https://matplotlib.org/_static/logo2_compressed.svg" width="50%" />
@@ -434,19 +533,77 @@ Modul 1 : Penggabungan Series/Dataframe
 
 Modul 1 : Pengenalan Matplotlib dan Persiapan Dataset
 
+| Link | Code |                   Title                   |
+|:----:|:----:|:-----------------------------------------:|
+|   🔗  |   📜  |             Pengenalan Dataset            |
+|   🔗  |   📜  |                    Quiz                   |
+|   🔗  |   📜  | Penambahan Kolom Order Month pada Dataset |
+|   🔗  |   📜  |     Penambahan Kolom GMV pada Dataset     |
+|   🔗  |   📜  |                    Quiz                   |
+
 <br> Modul 2 : Plot Pertama dengan Matplotlib
+
+| Link | Code |                          Title                         |
+|:----:|:----:|:------------------------------------------------------:|
+|   🔗  |   📜  |                  Membuat Data Agregat                  |
+|   🔗  |   📜  | Plot Pertama: Membuat Line Chart Trend Pertumbuhan GMV |
+|   🔗  |   📜  |  Cara Alternatif: Fungsi .plot() pada pandas Dataframe |
+|   🔗  |   📜  |                          Quiz                          |
 
 <br> Modul 3 : Kustomisasi Grafik - Part 1
 
+| Link | Code |               Title               |
+|:----:|:----:|:---------------------------------:|
+|   🔗  |   📜  |        Mengubah Figure Size       |
+|   🔗  |   📜  |                Quiz               |
+|   🔗  |   📜  | Menambahkan Title and Axis Labels |
+|   🔗  |   📜  | Kustomisasi Title and Axis Labels |
+|   🔗  |   📜  |                Quiz               |
+|   🔗  |   📜  |     Kustomisasi Line dan Point    |
+|   🔗  |   📜  |          Kustomisasi Grid         |
+|   🔗  |   📜  |                Quiz               |
+
 <br> Modul 4 : Kustomisasi Grafik - Part 2
 
+| Link | Code |                       Title                      |
+|:----:|:----:|:------------------------------------------------:|
+|   🔗  |   📜  |              Kustomisasi Axis Ticks              |
+|   🔗  |   📜  | Menentukan Batas Minimum dan Maksimum Axis Ticks |
+|   🔗  |   📜  |                       Quiz                       |
+|   🔗  |   📜  |          Menambahkan Informasi Pada Plot         |
+|   🔗  |   📜  |                       Quiz                       |
+|   🔗  |   📜  |      Menyimpan Hasil Plot Menjadi File Image     |
+|   🔗  |   📜  |    Pengaturan Parameter untuk Menyimpan Gambar   |
+|   🔗  |   📜  |                       Quiz                       |
+
 <br> Modul 5 : Mini Project
+
+| Link | Code |                             Title                             |
+|:----:|:----:|:-------------------------------------------------------------:|
+|   🔗  |   📜  | Studi Kasus dari Senja: Daily number of customers on Desember |
 
 <h3>Data Visualization with Python Matplotlib for Beginner - Part 2</h3>
 
 Modul 1 : Jenis-Jenis Visualisasi Data dan Tujuannya
 
+| Link | Code | Title |
+|:----:|:----:|:-----:|
+|   🔗  |   📜  |  Quiz |
+|   🔗  |   📜  |  Quiz |
+|   🔗  |   📜  |  Quiz |
+|   🔗  |   📜  |  Quiz |
+
 <br> Modul 2 : Membuat Multi-line Chart dan Kustomisasi Lanjutan
+
+| Link | Code |                       Title                       |
+|:----:|:----:|:-------------------------------------------------:|
+|   🔗  |   📜  |              Membuat Multi-Line Chart             |
+|   🔗  |   📜  |                 Kustomisasi Legend                |
+|   🔗  |   📜  |                        Quiz                       |
+|   🔗  |   📜  |                Kustomisasi Colormap               |
+|   🔗  |   📜  | Membuat Line Chart GMV Breakdown by Top Provinces |
+|   🔗  |   📜  |                        Quiz                       |
+|   🔗  |   📜  |                  Membuat Anotasi                  |
 
 <br> Modul 3 : Membuat Pie-Chart dan Bar-Chart
 
