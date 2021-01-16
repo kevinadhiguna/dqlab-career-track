@@ -588,22 +588,22 @@ Modul 1 : Jenis-Jenis Visualisasi Data dan Tujuannya
 
 | Link | Code | Title |
 |:----:|:----:|:-----:|
-|   🔗  |   📜  |  Quiz |
-|   🔗  |   📜  |  Quiz |
-|   🔗  |   📜  |  Quiz |
-|   🔗  |   📜  |  Quiz |
+|   [🔗](https://academy.dqlab.id/main/livecode/165/317/1479)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%202/0.quiz-1.png)  |  Quiz 1 |
+|   [🔗](https://academy.dqlab.id/main/livecode/165/317/1480)  |   [📜]()  |  Quiz 2 |
+|   [🔗](https://academy.dqlab.id/main/livecode/165/317/1481)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%202/2.quiz-3.png)  |  Quiz 3 |
+|   [🔗](https://academy.dqlab.id/main/livecode/165/317/1482)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%202/3.quiz-4.png)  |  Quiz 4 |
 
 <br> Modul 2 : Membuat Multi-line Chart dan Kustomisasi Lanjutan
 
 | Link | Code |                       Title                       |
 |:----:|:----:|:-------------------------------------------------:|
-|   🔗  |   📜  |              Membuat Multi-Line Chart             |
-|   🔗  |   📜  |                 Kustomisasi Legend                |
-|   🔗  |   📜  |                        Quiz                       |
-|   🔗  |   📜  |                Kustomisasi Colormap               |
-|   🔗  |   📜  | Membuat Line Chart GMV Breakdown by Top Provinces |
-|   🔗  |   📜  |                        Quiz                       |
-|   🔗  |   📜  |                  Membuat Anotasi                  |
+|   [🔗](https://academy.dqlab.id/main/livecode/165/318/1483)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%202/4.create-multiline-chart.py)  |              Membuat Multi-Line Chart             |
+|   [🔗](https://academy.dqlab.id/main/livecode/165/318/1484)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%202/5.customize-legend.py)  |                 Kustomisasi Legend                |
+|   [🔗](https://academy.dqlab.id/main/livecode/165/318/1485)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%202/6.quiz-5.png)  |                        Quiz 5                      |
+|   [🔗](https://academy.dqlab.id/main/livecode/165/318/1486)  |   [📜]()  |                Kustomisasi Colormap               |
+|   [🔗](https://academy.dqlab.id/main/livecode/165/318/1487)  |   [📜]()  | Membuat Line Chart GMV Breakdown by Top Provinces |
+|   [🔗](https://academy.dqlab.id/main/livecode/165/318/1488)  |   [📜]()  |                        Quiz 6                      |
+|   [🔗](https://academy.dqlab.id/main/livecode/165/318/1489)  |   [📜]()  |                  Membuat Anotasi                  |
 
 <br> Modul 3 : Membuat Pie-Chart dan Bar-Chart
 
