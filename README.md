@@ -18,31 +18,31 @@ Modul 1: Mari Mengenal Python
 
 | Link 	| Code 	|               Title              	|
 |:----:	|:----:	|:--------------------------------:	|
-|   [🔗](https://academy.dqlab.id/main/livecode/157/283/1245)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%201/0.quiz-1.png)  	|               Quiz               	|
-|   [🔗](https://academy.dqlab.id/main/livecode/157/283/1246)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%201/1.quiz-2.png)  	|               Quiz               	|
+|   [🔗](https://academy.dqlab.id/main/livecode/157/283/1245)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%201/0.quiz-1.png)  	|               Quiz 1              	|
+|   [🔗](https://academy.dqlab.id/main/livecode/157/283/1246)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%201/1.quiz-2.png)  	|               Quiz 2             	|
 |   [🔗](https://academy.dqlab.id/main/livecode/157/283/1247)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%201/2.helloworld.py)  	|  Program pertama: "Hello World"  	|
 |   [🔗](https://academy.dqlab.id/main/livecode/157/283/1248)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%201/3.program-pertamaku.py)  	|         Program Pertamaku        	|
 |   [🔗](https://academy.dqlab.id/main/livecode/157/283/1249)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%201/4.struktur-program-python-1.py)  	| Struktur Program Python - Part 1 	|
-|   [🔗](https://academy.dqlab.id/main/livecode/157/283/1250)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%201/5.tugas-praktek-1.py)  	|           Tugas Praktek          	|
-|   [🔗](https://academy.dqlab.id/main/livecode/157/283/1251)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%201/6.tugas-praktek-2.py)  	|           Tugas Praktek          	|
-|   [🔗](https://academy.dqlab.id/main/livecode/157/283/1253)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%201/7.quiz-3.png)  	|               Quiz               	|
-|   [🔗](https://academy.dqlab.id/main/livecode/157/283/1254)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%201/8.quiz-4.png)  	|               Quiz               	|
+|   [🔗](https://academy.dqlab.id/main/livecode/157/283/1250)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%201/5.tugas-praktek-1.py)  	|           Tugas Praktek 1         	|
+|   [🔗](https://academy.dqlab.id/main/livecode/157/283/1251)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%201/6.tugas-praktek-2.py)  	|           Tugas Praktek 2          	|
+|   [🔗](https://academy.dqlab.id/main/livecode/157/283/1253)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%201/7.quiz-3.png)  	|               Quiz 3               	|
+|   [🔗](https://academy.dqlab.id/main/livecode/157/283/1254)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%201/8.quiz-4.png)  	|               Quiz 4              	|
 
 <br>Modul 2 : Python Variables & Data Types
 
 | Link 	| Code 	|          Title         	|
 |:----:	|:----:	|:----------------------:	|
-|   🔗  	|   📜  	|          Quiz          	|
-|   🔗  	|   📜  	|          Quiz          	|
-|   🔗  	|   📜  	|          Quiz          	|
-|   🔗  	|   📜  	|          Quiz          	|
-|   🔗  	|   📜  	| Sequence Type - Part 1 	|
-|   🔗  	|   📜  	| Sequence Type - Part 2 	|
-|   🔗  	|   📜  	|        Set Type        	|
-|   🔗  	|   📜  	|      Mapping Type      	|
-|   🔗  	|   📜  	|      Tugas Praktek     	|
-|   🔗  	|   📜  	|      Tugas Praktek     	|
-|   🔗  	|   📜  	|      Tugas Praktek     	|
+|   [🔗](https://academy.dqlab.id/main/livecode/157/284/1257)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%201/9.quiz-5.png)  	|          Quiz 5          	|
+|   [🔗](https://academy.dqlab.id/main/livecode/157/284/1258)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%201/10.quiz-6.png)  	|          Quiz 6          	|
+|   [🔗](https://academy.dqlab.id/main/livecode/157/284/1260)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%201/11.quiz-7.png)  	|          Quiz 7          	|
+|   [🔗](https://academy.dqlab.id/main/livecode/157/284/1261)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%201/12.quiz-8.png)  	|          Quiz 8         	|
+|   [🔗](https://academy.dqlab.id/main/livecode/157/284/1262)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%201/13.sequence-type-1.py)  	| Sequence Type - Part 1 	|
+|   [🔗](https://academy.dqlab.id/main/livecode/157/284/1263)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%201/14.sequence-type-2.py)  	| Sequence Type - Part 2 	|
+|   [🔗](https://academy.dqlab.id/main/livecode/157/284/1264)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%201/15.set-type.py)  	|        Set Type        	|
+|   [🔗](https://academy.dqlab.id/main/livecode/157/284/1265)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%201/16.mapping-type.py)  	|      Mapping Type      	|
+|   [🔗](https://academy.dqlab.id/main/livecode/157/284/1266)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%201/17.tugas-praktek-3.py)  	|      Tugas Praktek 3    	|
+|   [🔗](https://academy.dqlab.id/main/livecode/157/284/1267)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%201/18.tugas-praktek-4.py)  	|      Tugas Praktek 4    	|
+|   [🔗](https://academy.dqlab.id/main/livecode/157/284/1268)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%201/19.tugas-praktek-5.py)  	|      Tugas Praktek 5    	|
 
 <br>Modul 3 : Python Operators
 
