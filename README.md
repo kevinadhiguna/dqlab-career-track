@@ -407,60 +407,60 @@ Modul 1 : Introduction to Pandas
 
 | Link | Code |                     Title                    |
 |:----:|:----:|:--------------------------------------------:|
-|   🔗  |   📜  |           Memanggil Library Pandas           |
-|   🔗  |   📜  |              DataFrame & Series              |
-|   🔗  |   📜  |      Atribut DataFrame & Series - Part 1     |
-|   🔗  |   📜  |      Atribut DataFrame & Series - Part 2     |
-|   🔗  |   📜  |      Atribut DataFrame & Series - Part 3     |
-|   🔗  |   📜  |                     Quiz                     |
-|   🔗  |   📜  |     Creating Series & Dataframe from List    |
-|   🔗  |   📜  |  Creating Series & Dataframe from Dictionary |
-|   🔗  |   📜  | Creating Series & Dataframe from Numpy Array |
-|   🔗  |   📜  |                     Quiz                     |
+|   [🔗](https://academy.dqlab.id/main/livecode/178/346/1682)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Manipulation%20with%20Pandas/Part%201/0.pandas-library.py)  |           Memanggil Library Pandas           |
+|   [🔗](https://academy.dqlab.id/main/livecode/178/346/1683)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Manipulation%20with%20Pandas/Part%201/1.dataframe-series.py)  |              DataFrame & Series              |
+|   [🔗](https://academy.dqlab.id/main/livecode/178/346/1684)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Manipulation%20with%20Pandas/Part%201/2.attribute-dataframe-series-1.py)  |      Atribut DataFrame & Series - Part 1     |
+|   [🔗](https://academy.dqlab.id/main/livecode/178/346/1685)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Manipulation%20with%20Pandas/Part%201/3.attribute-dataframe-series-2.py)  |      Atribut DataFrame & Series - Part 2     |
+|   [🔗](https://academy.dqlab.id/main/livecode/178/346/1686)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Manipulation%20with%20Pandas/Part%201/4.attribute-dataframe-series-3.py)  |      Atribut DataFrame & Series - Part 3     |
+|   [🔗](https://academy.dqlab.id/main/livecode/178/346/1687)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Manipulation%20with%20Pandas/Part%201/5.quiz-1.png)  |                     Quiz 1                    |
+|   [🔗](https://academy.dqlab.id/main/livecode/178/346/1688)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Manipulation%20with%20Pandas/Part%201/6.create-series-dataframe-from-list.py)  |     Creating Series & Dataframe from List    |
+|   [🔗](https://academy.dqlab.id/main/livecode/178/346/1689)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Manipulation%20with%20Pandas/Part%201/7.create-series-dataframe-from-dictionary.py)  |  Creating Series & Dataframe from Dictionary |
+|   [🔗](https://academy.dqlab.id/main/livecode/178/346/1690)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Manipulation%20with%20Pandas/Part%201/8.create-series-dataframe-from-numpy-array.py)  | Creating Series & Dataframe from Numpy Array |
+|   [🔗](https://academy.dqlab.id/main/livecode/178/346/1692)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Manipulation%20with%20Pandas/Part%201/9.quiz-2.png)  |                     Quiz 2                    |
 
 <br> Modul 2 : Dataset I/O
 
 | Link | Code |            Title           |
 |:----:|:----:|:--------------------------:|
-|   🔗  |   📜  | Read Dataset - CSV dan TSV |
-|   🔗  |   📜  |    Read Dataset - Excel    |
-|   🔗  |   📜  |     Read Dataset - JSON    |
-|   🔗  |   📜  |         Head & Tail        |
-|   🔗  |   📜  |            Quiz            |
+|   [🔗](https://academy.dqlab.id/main/livecode/178/347/1694)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Manipulation%20with%20Pandas/Part%201/10.read-csv-and-tsv.py)  | Read Dataset - CSV dan TSV |
+|   [🔗](https://academy.dqlab.id/main/livecode/178/347/1695)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Manipulation%20with%20Pandas/Part%201/11.read-dataset-excel.py)  |    Read Dataset - Excel    |
+|   [🔗](https://academy.dqlab.id/main/livecode/178/347/1698)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Manipulation%20with%20Pandas/Part%201/12.read-dataset-json.py)  |     Read Dataset - JSON    |
+|   [🔗](https://academy.dqlab.id/main/livecode/178/347/2143)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Manipulation%20with%20Pandas/Part%201/13.head-and-tail.py)  |         Head & Tail        |
+|   [🔗](https://academy.dqlab.id/main/livecode/178/347/2189)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Manipulation%20with%20Pandas/Part%201/14.quiz-3.png)  |            Quiz 3           |
 
 <br> Modul 3 : Indexing, Slicing, dan Transforming
 
 | Link | Code |         Title         |
 |:----:|:----:|:---------------------:|
-|   🔗  |   📜  |   Indexing - Part 2   |
-|   🔗  |   📜  |   Indexing - Part 3   |
-|   🔗  |   📜  |   Indexing - Part 4   |
-|   🔗  |   📜  |   Indexing - Part 5   |
-|   🔗  |   📜  |          Quiz         |
-|   🔗  |   📜  |    Slicing - Part 1   |
-|   🔗  |   📜  |    Slicing - Part 2   |
-|   🔗  |   📜  |          Quiz         |
-|   🔗  |   📜  | Transforming - Part 1 |
-|   🔗  |   📜  | Transforming - Part 2 |
-|   🔗  |   📜  | Transforming - Part 3 |
-|   🔗  |   📜  | Transforming - Part 4 |
+|   [🔗](https://academy.dqlab.id/main/livecode/178/429/2133)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Manipulation%20with%20Pandas/Part%201/15.indexing-2.py)  |   Indexing - Part 2   |
+|   [🔗](https://academy.dqlab.id/main/livecode/178/429/2134)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Manipulation%20with%20Pandas/Part%201/16.indexing-3.py)  |   Indexing - Part 3   |
+|   [🔗](https://academy.dqlab.id/main/livecode/178/429/2135)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Manipulation%20with%20Pandas/Part%201/17.indexing-4.py)  |   Indexing - Part 4   |
+|   [🔗](https://academy.dqlab.id/main/livecode/178/429/2138)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Manipulation%20with%20Pandas/Part%201/18.indexing-5.py)  |   Indexing - Part 5   |
+|   [🔗](https://academy.dqlab.id/main/livecode/178/429/2140)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Manipulation%20with%20Pandas/Part%201/19.quiz-4.png)  |          Quiz 4        |
+|   [🔗](https://academy.dqlab.id/main/livecode/178/429/2136)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Manipulation%20with%20Pandas/Part%201/20.slicing-1.py)  |    Slicing - Part 1   |
+|   [🔗](https://academy.dqlab.id/main/livecode/178/429/2139)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Manipulation%20with%20Pandas/Part%201/21.slicing-2.py)  |    Slicing - Part 2   |
+|   [🔗](https://academy.dqlab.id/main/livecode/178/429/2141)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Manipulation%20with%20Pandas/Part%201/22.quiz-5.png)  |          Quiz 5        |
+|   [🔗](https://academy.dqlab.id/main/livecode/178/429/2142)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Manipulation%20with%20Pandas/Part%201/23.transforming-1.py)  | Transforming - Part 1 |
+|   [🔗](https://academy.dqlab.id/main/livecode/178/429/2144)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Manipulation%20with%20Pandas/Part%201/24.transforming-2.py)  | Transforming - Part 2 |
+|   [🔗](https://academy.dqlab.id/main/livecode/178/429/2145)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Manipulation%20with%20Pandas/Part%201/25.transforming-3.py)  | Transforming - Part 3 |
+|   [🔗](https://academy.dqlab.id/main/livecode/178/429/2146)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Manipulation%20with%20Pandas/Part%201/26.transforming-4.py)  | Transforming - Part 4 |
 
 <br> Modul 4 : Handling Missing Values
 
 | Link | Code |                  Title                 |
 |:----:|:----:|:--------------------------------------:|
-|   🔗  |   📜  |         Inspeksi Missing Value         |
-|   🔗  |   📜  | Treatment untuk Missing Value - Part 2 |
-|   🔗  |   📜  | Treatment untuk Missing Value - Part 3 |
-|   🔗  |   📜  | Treatment untuk Missing Value - Part 4 |
-|   🔗  |   📜  | Treatment untuk Missing Value - Part 5 |
-|   🔗  |   📜  |                  Quiz                  |
+|   [🔗](https://academy.dqlab.id/main/livecode/178/430/2148)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Manipulation%20with%20Pandas/Part%201/27.inspecting-missing-values.py)  |         Inspeksi Missing Value         |
+|   [🔗](https://academy.dqlab.id/main/livecode/178/430/2150)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Manipulation%20with%20Pandas/Part%201/28.missing-values-treatment-2.py)  | Treatment untuk Missing Value - Part 2 |
+|   [🔗](https://academy.dqlab.id/main/livecode/178/430/2152)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Manipulation%20with%20Pandas/Part%201/29.missing-values-treatment-3.py)  | Treatment untuk Missing Value - Part 3 |
+|   [🔗](https://academy.dqlab.id/main/livecode/178/430/2151)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Manipulation%20with%20Pandas/Part%201/30.missing-values-treatment-4.py)  | Treatment untuk Missing Value - Part 4 |
+|   [🔗](https://academy.dqlab.id/main/livecode/178/430/2155)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Manipulation%20with%20Pandas/Part%201/31.missing-values-treatment-5.py)  | Treatment untuk Missing Value - Part 5 |
+|   [🔗](https://academy.dqlab.id/main/livecode/178/430/2153)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Manipulation%20with%20Pandas/Part%201/32.quiz-6.png)  |                  Quiz 6                 |
 
 <br> Modul 5 : Mini Project
 
 | Link | Code |        Title       |
 |:----:|:----:|:------------------:|
-|   🔗  |   📜  | Project dari Andra |
+|   [🔗](https://academy.dqlab.id/main/livecode/178/431/2156)  |   To be Posted...  | Project dari Andra |
 
 <h3>Data Manipulation with Pandas - Part 2</h3>
 
