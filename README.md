@@ -48,35 +48,35 @@ Modul 1: Mari Mengenal Python
 
 | Link 	| Code 	|                      Title                     	|
 |:----:	|:----:	|:----------------------------------------------:	|
-|   🔗  	|   📜  	|                      Quiz                      	|
-|   🔗  	|   📜  	|                      Quiz                      	|
-|   🔗  	|   📜  	|                      Quiz                      	|
-|   🔗  	|   📜  	|                      Quiz                      	|
-|   🔗  	|   📜  	| Nilai Prioritas Operator dalam Python – Part 1 	|
-|   🔗  	|   📜  	|                      Quiz                      	|
-|   🔗  	|   📜  	|                  Tugas Praktek                 	|
+|   [🔗](https://academy.dqlab.id/main/livecode/157/293/1286)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%201/20.quiz-9.png)  	|                      Quiz 9                     	|
+|   [🔗](https://academy.dqlab.id/main/livecode/157/293/1287)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%201/21.quiz-10.png)  	|                      Quiz 10                     	|
+|   [🔗](https://academy.dqlab.id/main/livecode/157/293/1290)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%201/22.quiz-11.png)  	|                      Quiz 11                     	|
+|   [🔗](https://academy.dqlab.id/main/livecode/157/293/1291)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%201/23.quiz-12.png)  	|                      Quiz 12                     	|
+|   [🔗](https://academy.dqlab.id/main/livecode/157/293/1295)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%201/24.nilai-prioritas-operator-1.py)  	| Nilai Prioritas Operator dalam Python – Part 1 	|
+|   [🔗](https://academy.dqlab.id/main/livecode/157/293/1297)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%201/25.quiz-13.png)  	|                      Quiz 13                     	|
+|   [🔗](https://academy.dqlab.id/main/livecode/157/293/1298)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%201/26.tugas-praktek-6.py)  	|                  Tugas Praktek 6                	|
 
 <br>Modul 4 : Python's Conditiong & Looping
 
 | Link 	| Code 	|                   Title                   	|
 |:----:	|:----:	|:-----------------------------------------:	|
-|   🔗  	|   📜  	| Python Conditioning for Decision – Part 2 	|
-|   🔗  	|   📜  	| Python Conditioning for Decision – Part 3 	|
-|   🔗  	|   📜  	|               Tugas Praktek               	|
-|   🔗  	|   📜  	|               Tugas Praktek               	|
-|   🔗  	|   📜  	|        Python while loops – Part 1        	|
-|   🔗  	|   📜  	|        Python while loops – Part 2        	|
-|   🔗  	|   📜  	|        Python while loops – Part 3        	|
-|   🔗  	|   📜  	|         Python for loops – Part 1         	|
-|   🔗  	|   📜  	|         Python for loops – Part 2         	|
-|   🔗  	|   📜  	|         Python for loops – Part 3         	|
-|   🔗  	|   📜  	|               Tugas Praktek               	|
+|   [🔗](https://academy.dqlab.id/main/livecode/157/294/1300)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%201/27.conditioning-2.py)  	| Python Conditioning for Decision – Part 2 	|
+|   [🔗](https://academy.dqlab.id/main/livecode/157/294/1301)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%201/28.conditioning-3.py)  	| Python Conditioning for Decision – Part 3 	|
+|   [🔗](https://academy.dqlab.id/main/livecode/157/294/1302)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%201/29.tugas-praktek-7.py)  	|               Tugas Praktek 7              	|
+|   [🔗](https://academy.dqlab.id/main/livecode/157/294/1303)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%201/30.tugas-praktek-8.py)  	|               Tugas Praktek 8              	|
+|   [🔗](https://academy.dqlab.id/main/livecode/157/294/1305)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%201/31.while-loops-1.py)  	|        Python while loops – Part 1        	|
+|   [🔗](https://academy.dqlab.id/main/livecode/157/294/1306)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%201/32.while-loops-2.py)  	|        Python while loops – Part 2        	|
+|   [🔗](https://academy.dqlab.id/main/livecode/157/294/1307)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%201/33.while-loops-3.py)  	|        Python while loops – Part 3        	|
+|   [🔗](https://academy.dqlab.id/main/livecode/157/294/1308)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%201/34.for-loops-1.py)  	|         Python for loops – Part 1         	|
+|   [🔗](https://academy.dqlab.id/main/livecode/157/294/1309)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%201/35.for-loops-2.py)  	|         Python for loops – Part 2         	|
+|   [🔗](https://academy.dqlab.id/main/livecode/157/294/1310)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%201/36.for-loops-3.py)  	|         Python for loops – Part 3         	|
+|   [🔗](https://academy.dqlab.id/main/livecode/157/294/1311)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%201/37.tugas-praktek-9.py)  	|               Tugas Praktek 9              	|
 
 <br>Modul 5 : Mini Quiz
 
 | Link 	| Code 	|       Title       	|
 |:----:	|:----:	|:-----------------:	|
-|   🔗  	|   📜  	| Ekspedisi Pamanku 	|
+|   [🔗](https://academy.dqlab.id/main/livecode/157/295/1313)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%201/38.ekspedisi-pamanku.py)  	| Ekspedisi Pamanku 	|
 
 <br>
 
