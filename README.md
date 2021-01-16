@@ -86,60 +86,60 @@ Modul 1 : Collection Manipulation dengan Python
 
 | Link 	| Code 	|                    Title                    	|
 |:----:	|:----:	|:-------------------------------------------:	|
-|   [🔗](https://academy.dqlab.id/main/livecode/160/296/1315)  	|   [📜]()  	|      Mengakses List dan Tuple – Part 1      	|
-|   [🔗](https://academy.dqlab.id/main/livecode/160/296/1316)  	|   [📜]()  	|      Mengakses List dan Tuple – Part 2      	|
-|   [🔗](https://academy.dqlab.id/main/livecode/160/296/1317)  	|   [📜]()  	| Penggabungan Dua atau Lebih List atau Tuple 	|
-|   [🔗](https://academy.dqlab.id/main/livecode/160/296/1318)  	|   [📜]()  	|                     Quiz 1                   	|
-|   [🔗](https://academy.dqlab.id/main/livecode/160/296/1319)  	|   [📜]()  	|          List Manipulation - Part 1         	|
-|   [🔗](https://academy.dqlab.id/main/livecode/160/296/1320)  	|   [📜]()  	|          List Manipulation - Part 2         	|
-|   [🔗](https://academy.dqlab.id/main/livecode/160/296/1321)  	|   [📜]()  	|              Tuple Manipulation             	|
-|   [🔗](https://academy.dqlab.id/main/livecode/160/296/1322)  	|   [📜]()  	|                     Quiz 2                   	|
-|   [🔗](https://academy.dqlab.id/main/livecode/160/296/1323)  	|   [📜]()  	|          Set Manipulation - Part 1          	|
-|   [🔗](https://academy.dqlab.id/main/livecode/160/296/1324)  	|   [📜]()  	|          Set Manipulation - Part 2          	|
-|   [🔗](https://academy.dqlab.id/main/livecode/160/296/1325)  	|   [📜]()  	|                     Quiz 3                   	|
-|   [🔗](https://academy.dqlab.id/main/livecode/160/296/1326)  	|   [📜]()  	|           Dictionary Manipulation           	|
-|   [🔗](https://academy.dqlab.id/main/livecode/160/296/1327)  	|   [📜]()  	|            Useful Tips and Tricks           	|
-|   [🔗](https://academy.dqlab.id/main/livecode/160/296/1328)  	|   [📜]()  	|                Tugas Praktek 1               	|
+|   [🔗](https://academy.dqlab.id/main/livecode/160/296/1315)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%202/0.list-tuple-1.py)  	|      Mengakses List dan Tuple – Part 1      	|
+|   [🔗](https://academy.dqlab.id/main/livecode/160/296/1316)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%202/1.list-tuple-2.py)  	|      Mengakses List dan Tuple – Part 2      	|
+|   [🔗](https://academy.dqlab.id/main/livecode/160/296/1317)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%202/2.combine-list-tuple.py)  	| Penggabungan Dua atau Lebih List atau Tuple 	|
+|   [🔗](https://academy.dqlab.id/main/livecode/160/296/1318)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%202/3.quiz-1.png)  	|                     Quiz 1                   	|
+|   [🔗](https://academy.dqlab.id/main/livecode/160/296/1319)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%202/4.list-manipulation-1.py)  	|          List Manipulation - Part 1         	|
+|   [🔗](https://academy.dqlab.id/main/livecode/160/296/1320)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%202/5.list-manipulation-2.py)  	|          List Manipulation - Part 2         	|
+|   [🔗](https://academy.dqlab.id/main/livecode/160/296/1321)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%202/6.tuple-manipulation.py)  	|              Tuple Manipulation             	|
+|   [🔗](https://academy.dqlab.id/main/livecode/160/296/1322)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%202/7.quiz-2.png)  	|                     Quiz 2                   	|
+|   [🔗](https://academy.dqlab.id/main/livecode/160/296/1323)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%202/8.set-manipulation-1.py)  	|          Set Manipulation - Part 1          	|
+|   [🔗](https://academy.dqlab.id/main/livecode/160/296/1324)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%202/9.set-manipulation-2.py)  	|          Set Manipulation - Part 2          	|
+|   [🔗](https://academy.dqlab.id/main/livecode/160/296/1325)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%202/10.quiz-3.png)  	|                     Quiz 3                   	|
+|   [🔗](https://academy.dqlab.id/main/livecode/160/296/1326)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%202/11.dictionary-manipulation.py)  	|           Dictionary Manipulation           	|
+|   [🔗](https://academy.dqlab.id/main/livecode/160/296/1327)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%202/12.useful-tips-tricks.py)  	|            Useful Tips and Tricks           	|
+|   [🔗](https://academy.dqlab.id/main/livecode/160/296/1328)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%202/13.tugas-praktek-1.py)  	|                Tugas Praktek 1               	|
 
 <br>Modul 2 : String Manipulation dengan Python
 
 | Link 	| Code 	|                           Title                           	|
 |:----:	|:----:	|:---------------------------------------------------------:	|
-|   [🔗](https://academy.dqlab.id/main/livecode/160/297/1330)  	|   [📜]()  	|                Apa itu String Manipulation?               	|
-|   [🔗](https://academy.dqlab.id/main/livecode/160/297/1331)  	|   [📜]()  	|            Operator “+” untuk Tipe Data String            	|
-|   [🔗](https://academy.dqlab.id/main/livecode/160/297/1332)  	|   [📜]()  	|       Menghilangkan Spasi di Awal dan/atau di Akhir       	|
-|   [🔗](https://academy.dqlab.id/main/livecode/160/297/1333)  	|   [📜]()  	|                  Merubah Caps pada String                 	|
-|   [🔗](https://academy.dqlab.id/main/livecode/160/297/1334)  	|   [📜]()  	|      Pemecahan, Penggabungan, dan Penggantian String      	|
-|   [🔗](https://academy.dqlab.id/main/livecode/160/297/1335)  	|   [📜]()  	|    Menentukan Posisi dan Jumlah Sub-string pada String    	|
-|   [🔗](https://academy.dqlab.id/main/livecode/160/297/1336)  	|   [📜]()  	| Menentukan String Apakah Diawali/Diakhiri oleh Sub-string 	|
-|   [🔗](https://academy.dqlab.id/main/livecode/160/297/1337)  	|   [📜]()  	|                       Tugas Praktek 2                      	|
-|   [🔗](https://academy.dqlab.id/main/livecode/160/297/1338)  	|   [📜]()  	|                       Tugas Praktek 3                      	|
+|   [🔗](https://academy.dqlab.id/main/livecode/160/297/1330)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%202/14.string-manipulation.py)  	|                Apa itu String Manipulation?               	|
+|   [🔗](https://academy.dqlab.id/main/livecode/160/297/1331)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%202/15.add-plus-to-string.py)  	|            Operator “+” untuk Tipe Data String            	|
+|   [🔗](https://academy.dqlab.id/main/livecode/160/297/1332)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%202/16.remove-space.py)  	|       Menghilangkan Spasi di Awal dan/atau di Akhir       	|
+|   [🔗](https://academy.dqlab.id/main/livecode/160/297/1333)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%202/17.modify-caps-in-string.py)  	|                  Merubah Caps pada String                 	|
+|   [🔗](https://academy.dqlab.id/main/livecode/160/297/1334)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%202/18.split-join-replace-in-string.py)  	|      Pemecahan, Penggabungan, dan Penggantian String      	|
+|   [🔗](https://academy.dqlab.id/main/livecode/160/297/1335)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%202/19.find-count-in-string.py)  	|    Menentukan Posisi dan Jumlah Sub-string pada String    	|
+|   [🔗](https://academy.dqlab.id/main/livecode/160/297/1336)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%202/20.startswith-endswith-in-string.py)  	| Menentukan String Apakah Diawali/Diakhiri oleh Sub-string 	|
+|   [🔗](https://academy.dqlab.id/main/livecode/160/297/1337)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%202/21.tugas-praktek-2.py)  	|                       Tugas Praktek 2                      	|
+|   [🔗](https://academy.dqlab.id/main/livecode/160/297/1338)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%202/22.tugas-praktek-3.py)  	|                       Tugas Praktek 3                      	|
 
 <br>Modul 3 : Functions
 
 | Link 	| Code 	|      Title     	|
 |:----:	|:----:	|:--------------:	|
-|   [🔗](https://academy.dqlab.id/main/livecode/160/298/1340)  	|   [📜]()  	| Fungsi Pertama 	|
-|   [🔗](https://academy.dqlab.id/main/livecode/160/298/1341)  	|   [📜]()  	|  Fungsi Kedua  	|
-|   [🔗](https://academy.dqlab.id/main/livecode/160/298/1342)  	|   [📜]()  	|  Fungsi Ketiga 	|
-|   [🔗](https://academy.dqlab.id/main/livecode/160/298/1343)  	|   [📜]()  	|  Tugas Praktek 4	|
-|   [🔗](https://academy.dqlab.id/main/livecode/160/298/1344)  	|   [📜]()  	|  Tugas Praktek 5	|
-|   [🔗](https://academy.dqlab.id/main/livecode/160/298/1345)  	|   [📜]()  	|  Tugas Praktek 6	|
+|   [🔗](https://academy.dqlab.id/main/livecode/160/298/1340)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%202/23.function-1.py)  	| Fungsi Pertama 	|
+|   [🔗](https://academy.dqlab.id/main/livecode/160/298/1341)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%202/24.function-2.py)  	|  Fungsi Kedua  	|
+|   [🔗](https://academy.dqlab.id/main/livecode/160/298/1342)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%202/25.function-3.py)  	|  Fungsi Ketiga 	|
+|   [🔗](https://academy.dqlab.id/main/livecode/160/298/1343)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%202/26.tugas-praktek-4.py)  	|  Tugas Praktek 4	|
+|   [🔗](https://academy.dqlab.id/main/livecode/160/298/1344)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%202/27.tugas-praktek-5.py)  	|  Tugas Praktek 5	|
+|   [🔗](https://academy.dqlab.id/main/livecode/160/298/1345)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%202/28.tugas-praktek-6.py)  	|  Tugas Praktek 6	|
 
 <br>Modul 4 : Manipulasi Berkas Teks dan Library Matematika pada Python
 
 | Link 	| Code 	|                   Title                  	|
 |:----:	|:----:	|:----------------------------------------:	|
-|   [🔗](https://academy.dqlab.id/main/livecode/160/299/1381)  	|   [📜]()  	|       Membaca Berkas Teks – Part 1       	|
-|   [🔗](https://academy.dqlab.id/main/livecode/160/299/1382)  	|   [📜]()  	|       Membaca Berkas Teks – Part 2       	|
-|   [🔗](https://academy.dqlab.id/main/livecode/160/299/1383)  	|   [📜]()  	|       Menulis Berkas Teks – Part 1       	|
-|   [🔗](https://academy.dqlab.id/main/livecode/160/299/1384)  	|   [📜]()  	|       Menulis Berkas Teks – Part 2       	|
-|   [🔗](https://academy.dqlab.id/main/livecode/160/299/1385)  	|   [📜]()  	|                   Quiz 4                  	|
-|   [🔗](https://academy.dqlab.id/main/livecode/160/299/1386)  	|   [📜]()  	|                   Quiz 5                  	|
-|   [🔗](https://academy.dqlab.id/main/livecode/160/299/1388)  	|   [📜]()  	| Fungsi dalam Library Matematika – Part 1 	|
-|   [🔗](https://academy.dqlab.id/main/livecode/160/299/1389)  	|   [📜]()  	| Fungsi dalam Library Matematika – Part 2 	|
-|   [🔗](https://academy.dqlab.id/main/livecode/160/299/1390)  	|   [📜]()  	|                   Quiz 6                  	|
-|   [🔗](https://academy.dqlab.id/main/livecode/160/299/1391)  	|   [📜]()  	|                   Quiz 7                  	|
+|   [🔗](https://academy.dqlab.id/main/livecode/160/299/1381)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%202/29.read-text-file-1.py)  	|       Membaca Berkas Teks – Part 1       	|
+|   [🔗](https://academy.dqlab.id/main/livecode/160/299/1382)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%202/30.read-text-file-2.py)  	|       Membaca Berkas Teks – Part 2       	|
+|   [🔗](https://academy.dqlab.id/main/livecode/160/299/1383)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%202/31.write-text-file-1.py)  	|       Menulis Berkas Teks – Part 1       	|
+|   [🔗](https://academy.dqlab.id/main/livecode/160/299/1384)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%202/32.write-text-file-2.py)  	|       Menulis Berkas Teks – Part 2       	|
+|   [🔗](https://academy.dqlab.id/main/livecode/160/299/1385)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%202/33.quiz-4.png)  	|                   Quiz 4                  	|
+|   [🔗](https://academy.dqlab.id/main/livecode/160/299/1386)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%202/34.quiz-5.png)  	|                   Quiz 5                  	|
+|   [🔗](https://academy.dqlab.id/main/livecode/160/299/1388)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%202/35.math-library-1.py)  	| Fungsi dalam Library Matematika – Part 1 	|
+|   [🔗](https://academy.dqlab.id/main/livecode/160/299/1389)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%202/36.math-library-2.py)  	| Fungsi dalam Library Matematika – Part 2 	|
+|   [🔗](https://academy.dqlab.id/main/livecode/160/299/1390)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%202/37.quiz-6.png)  	|                   Quiz 6                  	|
+|   [🔗](https://academy.dqlab.id/main/livecode/160/299/1391)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%202/38.quiz-7.png)  	|                   Quiz 7                  	|
 
 <br>Modul 5 : Mini Quiz
 
