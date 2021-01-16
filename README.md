@@ -326,34 +326,34 @@ Modul 1 : Penggabungan Tabel dari Relasi Kolom
 |   [🔗](https://academy.dqlab.id/main/livecode/244/406/2044)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Fundamental%20SQL/Using%20INNER%20JOIN%20and%20UNION/6.change-tablename-order.sql)  	|               Bagaimana jika urutan Tabel diubah?               	|
 |   [🔗](https://academy.dqlab.id/main/livecode/244/406/2045)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Fundamental%20SQL/Using%20INNER%20JOIN%20and%20UNION/7.tablename-prefix.sql)  	|                  Menggunakan Prefix Nama Tabel                  	|
 |   [🔗](https://academy.dqlab.id/main/livecode/244/406/2046)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Fundamental%20SQL/Using%20INNER%20JOIN%20and%20UNION/8.combination-without-conditioning.sql)  	|                    Penggabungan Tanpa Kondisi                   	|
-|   [🔗](https://academy.dqlab.id/main/livecode/244/406/2047)  	|   [📜]()  	|  Quiz: Berapa Jumlah Baris Hasil “Join Tanpa Kondisi” Berikut?  	|
+|   [🔗](https://academy.dqlab.id/main/livecode/244/406/2047)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Fundamental%20SQL/Using%20INNER%20JOIN%20and%20UNION/9.quiz-5.png)  	|  Quiz: Berapa Jumlah Baris Hasil “Join Tanpa Kondisi” Berikut?  	|
 
 <br> Modul 2 : INNER JOIN
 
 | Link 	| Code 	|                                Title                               	|
 |:----:	|:----:	|:------------------------------------------------------------------:	|
-|   [🔗](https://academy.dqlab.id/main/livecode/244/407/2051)  	|   [📜]()  	|             Tugas Praktek: Menggunakan INNER JOIN (1/3)            	|
-|   [🔗](https://academy.dqlab.id/main/livecode/244/407/2052)  	|   [📜]()  	|               tabel tr_penjualan dan tabel ms_produk               	|
-|   [🔗](https://academy.dqlab.id/main/livecode/244/407/2053)  	|   [📜]()  	| Quiz: Mengidentifikasi Key Column tabel tr_penjualan dan ms_produk 	|
-|   [🔗](https://academy.dqlab.id/main/livecode/244/407/2054)  	|   [📜]()  	|             Tugas Praktek: Menggunakan INNER JOIN (2/3)            	|
-|   [🔗](https://academy.dqlab.id/main/livecode/244/407/2057)  	|   [📜]()  	|             Tugas Praktek: Menggunakan INNER JOIN (3/3)            	|
+|   [🔗](https://academy.dqlab.id/main/livecode/244/407/2051)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Fundamental%20SQL/Using%20INNER%20JOIN%20and%20UNION/10.praktek-innerjoin-1.sql)  	|             Tugas Praktek: Menggunakan INNER JOIN (1/3)            	|
+|   [🔗](https://academy.dqlab.id/main/livecode/244/407/2052)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Fundamental%20SQL/Using%20INNER%20JOIN%20and%20UNION/11.select-from-two-tables.sql)  	|               tabel tr_penjualan dan tabel ms_produk               	|
+|   [🔗](https://academy.dqlab.id/main/livecode/244/407/2053)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Fundamental%20SQL/Using%20INNER%20JOIN%20and%20UNION/12.quiz-6.png)  	| Quiz: Mengidentifikasi Key Column tabel tr_penjualan dan ms_produk 	|
+|   [🔗](https://academy.dqlab.id/main/livecode/244/407/2054)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Fundamental%20SQL/Using%20INNER%20JOIN%20and%20UNION/13.praktek-innerjoin-2.sql)  	|             Tugas Praktek: Menggunakan INNER JOIN (2/3)            	|
+|   [🔗](https://academy.dqlab.id/main/livecode/244/407/2057)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Fundamental%20SQL/Using%20INNER%20JOIN%20and%20UNION/14.praktek-innerjoin-3.sql)  	|             Tugas Praktek: Menggunakan INNER JOIN (3/3)            	|
 
 <br> Modul 3 : UNION
 
 | Link 	| Code 	|                        Title                       	|
 |:----:	|:----:	|:--------------------------------------------------:	|
-|   [🔗](https://academy.dqlab.id/main/livecode/244/408/2061)  	|   [📜]()  	|             Tabel yang Akan Digabungkan            	|
-|   [🔗](https://academy.dqlab.id/main/livecode/244/408/2062)  	|   [📜]()  	|                  Menggunakan UNION                 	|
-|   [🔗](https://academy.dqlab.id/main/livecode/244/408/2063)  	|   [📜]()  	|        Menggunakan UNION dengan Klausa WHERE       	|
-|   [🔗](https://academy.dqlab.id/main/livecode/244/408/2065)  	|   [📜]()  	| Menggunakan UNION dan Menyelaraskan Kolom-Kolomnya 	|
-|   [🔗](https://academy.dqlab.id/main/livecode/244/408/2068)  	|   [📜]()  	|                        Quiz                        	|
+|   [🔗](https://academy.dqlab.id/main/livecode/244/408/2061)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Fundamental%20SQL/Using%20INNER%20JOIN%20and%20UNION/15.tables-about-to-be-merged.sql)  	|             Tabel yang Akan Digabungkan            	|
+|   [🔗](https://academy.dqlab.id/main/livecode/244/408/2062)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Fundamental%20SQL/Using%20INNER%20JOIN%20and%20UNION/16.union.sql)  	|                  Menggunakan UNION                 	|
+|   [🔗](https://academy.dqlab.id/main/livecode/244/408/2063)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Fundamental%20SQL/Using%20INNER%20JOIN%20and%20UNION/17.union-with-where.sql)  	|        Menggunakan UNION dengan Klausa WHERE       	|
+|   [🔗](https://academy.dqlab.id/main/livecode/244/408/2065)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Fundamental%20SQL/Using%20INNER%20JOIN%20and%20UNION/18.union-and-align-columns.sql)  	| Menggunakan UNION dan Menyelaraskan Kolom-Kolomnya 	|
+|   [🔗](https://academy.dqlab.id/main/livecode/244/408/2068)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Fundamental%20SQL/Using%20INNER%20JOIN%20and%20UNION/19.quiz-7.png)  	|                        Quiz                        	|
 
 <br> Modul 4 : Mini Project
 
 | Link 	| Code 	|        Title       	|
 |:----:	|:----:	|:------------------:	|
-|   [🔗](https://academy.dqlab.id/main/livecode/244/409/2070)  	|   [📜]()  	| Project INNER JOIN 	|
-|   [🔗](https://academy.dqlab.id/main/livecode/244/409/2071)  	|   [📜]()  	|    Project UNION   	|
+|   [🔗](https://academy.dqlab.id/main/livecode/244/409/2070)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Fundamental%20SQL/Using%20INNER%20JOIN%20and%20UNION/20.innerjoin-project.sql)  	| Project INNER JOIN 	|
+|   [🔗](https://academy.dqlab.id/main/livecode/244/409/2071)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Fundamental%20SQL/Using%20INNER%20JOIN%20and%20UNION/21.union-project.sql)  	|    Project UNION   	|
 
 <br><br>
 <img src="https://raw.githubusercontent.com/kevinadhiguna/dqlab-career-track/master/assets/EDA-python.png" />
