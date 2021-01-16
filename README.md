@@ -394,7 +394,7 @@ Modul 1 : Pengenalan Library dalam Python
 
 | Link 	| Code 	|       Title      	|
 |:----:	|:----:	|:----------------:	|
-|   [🔗](https://academy.dqlab.id/main/livecode/163/311/1444)  	|   To be Posted...  	| Tugas dari Andra 	|
+|   [🔗](https://academy.dqlab.id/main/livecode/163/311/1444)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Exploratory%20Data%20Analysis%20with%20Python%20for%20Beginner/13.tugas-dari-andra.py)  	| Tugas dari Andra 	|
 
 <br><br>
 <img src="https://raw.githubusercontent.com/kevinadhiguna/dqlab-career-track/master/assets/pandas-library.png" width="50%" />
