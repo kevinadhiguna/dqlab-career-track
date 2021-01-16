@@ -600,10 +600,10 @@ Modul 1 : Jenis-Jenis Visualisasi Data dan Tujuannya
 |   [🔗](https://academy.dqlab.id/main/livecode/165/318/1483)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%202/4.create-multiline-chart.py)  |              Membuat Multi-Line Chart             |
 |   [🔗](https://academy.dqlab.id/main/livecode/165/318/1484)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%202/5.customize-legend.py)  |                 Kustomisasi Legend                |
 |   [🔗](https://academy.dqlab.id/main/livecode/165/318/1485)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%202/6.quiz-5.png)  |                        Quiz 5                      |
-|   [🔗](https://academy.dqlab.id/main/livecode/165/318/1486)  |   [📜]()  |                Kustomisasi Colormap               |
-|   [🔗](https://academy.dqlab.id/main/livecode/165/318/1487)  |   [📜]()  | Membuat Line Chart GMV Breakdown by Top Provinces |
-|   [🔗](https://academy.dqlab.id/main/livecode/165/318/1488)  |   [📜]()  |                        Quiz 6                      |
-|   [🔗](https://academy.dqlab.id/main/livecode/165/318/1489)  |   [📜]()  |                  Membuat Anotasi                  |
+|   [🔗](https://academy.dqlab.id/main/livecode/165/318/1486)  |   To be Posted...  |                Kustomisasi Colormap               |
+|   [🔗](https://academy.dqlab.id/main/livecode/165/318/1487)  |   To be Posted...  | Membuat Line Chart GMV Breakdown by Top Provinces |
+|   [🔗](https://academy.dqlab.id/main/livecode/165/318/1488)  |   To be Posted...  |                        Quiz 6                      |
+|   [🔗](https://academy.dqlab.id/main/livecode/165/318/1489)  |   To be Posted...  |                  Membuat Anotasi                  |
 
 <br> Modul 3 : Membuat Pie-Chart dan Bar-Chart
 
