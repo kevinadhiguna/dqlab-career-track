@@ -535,52 +535,52 @@ Modul 1 : Pengenalan Matplotlib dan Persiapan Dataset
 
 | Link | Code |                   Title                   |
 |:----:|:----:|:-----------------------------------------:|
-|   🔗  |   📜  |             Pengenalan Dataset            |
-|   🔗  |   📜  |                    Quiz                   |
-|   🔗  |   📜  | Penambahan Kolom Order Month pada Dataset |
-|   🔗  |   📜  |     Penambahan Kolom GMV pada Dataset     |
-|   🔗  |   📜  |                    Quiz                   |
+|   [🔗](https://academy.dqlab.id/main/livecode/164/312/1447)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%201/0.intro-to-dataset.py)  |             Pengenalan Dataset            |
+|   [🔗](https://academy.dqlab.id/main/livecode/164/312/1449)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%201/1.quiz-1.png)  |                    Quiz 1                  |
+|   [🔗](https://academy.dqlab.id/main/livecode/164/312/1450)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%201/2.add-order_month-column-to-dataset.py)  | Penambahan Kolom Order Month pada Dataset |
+|   [🔗](https://academy.dqlab.id/main/livecode/164/312/1451)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%201/3.add-gmv-column-to-dataset.py)  |     Penambahan Kolom GMV pada Dataset     |
+|   [🔗](https://academy.dqlab.id/main/livecode/164/312/1452)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%201/4.quiz-2.png)  |                    Quiz 2                  |
 
 <br> Modul 2 : Plot Pertama dengan Matplotlib
 
 | Link | Code |                          Title                         |
 |:----:|:----:|:------------------------------------------------------:|
-|   🔗  |   📜  |                  Membuat Data Agregat                  |
-|   🔗  |   📜  | Plot Pertama: Membuat Line Chart Trend Pertumbuhan GMV |
-|   🔗  |   📜  |  Cara Alternatif: Fungsi .plot() pada pandas Dataframe |
-|   🔗  |   📜  |                          Quiz                          |
+|   [🔗](https://academy.dqlab.id/main/livecode/164/313/1453)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%201/5.create-aggregate-data.py)  |                  Membuat Data Agregat                  |
+|   [🔗](https://academy.dqlab.id/main/livecode/164/313/1454)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%201/6.linechart-for-gmv-growth.py)  | Plot Pertama: Membuat Line Chart Trend Pertumbuhan GMV |
+|   [🔗](https://academy.dqlab.id/main/livecode/164/313/1455)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%201/7.plot-function-dataframe.py)  |  Cara Alternatif: Fungsi .plot() pada pandas Dataframe |
+|   [🔗](https://academy.dqlab.id/main/livecode/164/313/1457)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%201/8.quiz-3.png)  |                          Quiz 3                         |
 
 <br> Modul 3 : Kustomisasi Grafik - Part 1
 
 | Link | Code |               Title               |
 |:----:|:----:|:---------------------------------:|
-|   🔗  |   📜  |        Mengubah Figure Size       |
-|   🔗  |   📜  |                Quiz               |
-|   🔗  |   📜  | Menambahkan Title and Axis Labels |
-|   🔗  |   📜  | Kustomisasi Title and Axis Labels |
-|   🔗  |   📜  |                Quiz               |
-|   🔗  |   📜  |     Kustomisasi Line dan Point    |
-|   🔗  |   📜  |          Kustomisasi Grid         |
-|   🔗  |   📜  |                Quiz               |
+|   [🔗](https://academy.dqlab.id/main/livecode/164/314/1459)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%201/9.customize-figure-size.py)  |        Mengubah Figure Size       |
+|   [🔗](https://academy.dqlab.id/main/livecode/164/314/1460)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%201/10.quiz-4.png)  |                Quiz 4              |
+|   [🔗](https://academy.dqlab.id/main/livecode/164/314/1461)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%201/11.add-title-and-axis-labels.py)  | Menambahkan Title and Axis Labels |
+|   [🔗](https://academy.dqlab.id/main/livecode/164/314/1462)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%201/12.customize-title-and-axis-labels.py)  | Kustomisasi Title and Axis Labels |
+|   [🔗](https://academy.dqlab.id/main/livecode/164/314/1463)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%201/13.quiz-5.png)  |                Quiz 5              |
+|   [🔗](https://academy.dqlab.id/main/livecode/164/314/1464)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%201/14.customize-line-and-point.py)  |     Kustomisasi Line dan Point    |
+|   [🔗](https://academy.dqlab.id/main/livecode/164/314/2396)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%201/15.customize-grid.py)  |          Kustomisasi Grid         |
+|   [🔗](https://academy.dqlab.id/main/livecode/164/314/1466)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%201/16.quiz-6.png)  |                Quiz 6              |
 
 <br> Modul 4 : Kustomisasi Grafik - Part 2
 
 | Link | Code |                       Title                      |
 |:----:|:----:|:------------------------------------------------:|
-|   🔗  |   📜  |              Kustomisasi Axis Ticks              |
-|   🔗  |   📜  | Menentukan Batas Minimum dan Maksimum Axis Ticks |
-|   🔗  |   📜  |                       Quiz                       |
-|   🔗  |   📜  |          Menambahkan Informasi Pada Plot         |
-|   🔗  |   📜  |                       Quiz                       |
-|   🔗  |   📜  |      Menyimpan Hasil Plot Menjadi File Image     |
-|   🔗  |   📜  |    Pengaturan Parameter untuk Menyimpan Gambar   |
-|   🔗  |   📜  |                       Quiz                       |
+|   [🔗](https://academy.dqlab.id/main/livecode/164/315/1467)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%201/17.customize-axis-ticks.py)  |              Kustomisasi Axis Ticks              |
+|   [🔗](https://academy.dqlab.id/main/livecode/164/315/1468)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%201/18.determine-min-max-limit-for-axis-ticks.py)  | Menentukan Batas Minimum dan Maksimum Axis Ticks |
+|   [🔗](https://academy.dqlab.id/main/livecode/164/315/1469)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%201/19.quiz-7.png)  |                       Quiz 7                      |
+|   [🔗](https://academy.dqlab.id/main/livecode/164/315/1470)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%201/20.add-info-to-plot.py)  |          Menambahkan Informasi Pada Plot         |
+|   [🔗](https://academy.dqlab.id/main/livecode/164/315/1471)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%201/21.quiz-8.png)  |                       Quiz 8                      |
+|   [🔗](https://academy.dqlab.id/main/livecode/164/315/1472)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%201/22.plot-to-img.py)  |      Menyimpan Hasil Plot Menjadi File Image     |
+|   [🔗](https://academy.dqlab.id/main/livecode/164/315/1473)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%201/23.set-parameters-for-img.py)  |    Pengaturan Parameter untuk Menyimpan Gambar   |
+|   [🔗](https://academy.dqlab.id/main/livecode/164/315/1474)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%201/24.quiz-9.png)  |                       Quiz 9                      |
 
 <br> Modul 5 : Mini Project
 
 | Link | Code |                             Title                             |
 |:----:|:----:|:-------------------------------------------------------------:|
-|   🔗  |   📜  | Studi Kasus dari Senja: Daily number of customers on Desember |
+|   [🔗](https://academy.dqlab.id/main/livecode/164/316/1477)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%201/25.daily-numbers-of-customers-on-december.py)  | Studi Kasus dari Senja: Daily number of customers on Desember |
 
 <h3>Data Visualization with Python Matplotlib for Beginner - Part 2</h3>
 
