@@ -468,61 +468,61 @@ Modul 1 : Penggabungan Series/Dataframe
 
 | Link | Code |      Title     |
 |:----:|:----:|:--------------:|
-|   🔗  |   📜  |     Append     |
-|   🔗  |   📜  |     Concat     |
-|   🔗  |   📜  | Merge - Part 1 |
-|   🔗  |   📜  | Merge - Part 2 |
-|   🔗  |   📜  |      Join      |
-|   🔗  |   📜  |      Quiz      |
+|   [🔗](https://academy.dqlab.id/main/livecode/252/442/2208)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Manipulation%20with%20Pandas/Part%202/0.append.py)  |     Append     |
+|   [🔗](https://academy.dqlab.id/main/livecode/252/442/2209)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Manipulation%20with%20Pandas/Part%202/1.concat.py)  |     Concat     |
+|   [🔗](https://academy.dqlab.id/main/livecode/252/442/2210)  |   [📜]()  | Merge - Part 1 |
+|   [🔗](https://academy.dqlab.id/main/livecode/252/442/2211)  |   [📜]()  | Merge - Part 2 |
+|   [🔗](https://academy.dqlab.id/main/livecode/252/442/2212)  |   [📜]()  |      Join      |
+|   [🔗](https://academy.dqlab.id/main/livecode/252/442/2213)  |   [📜]()  |      Quiz      |
 
 <br> Modul 2 : Pivot, Melt, Stack & Unstack
 
 | Link | Code |           Title          |
 |:----:|:----:|:------------------------:|
-|   🔗  |   📜  |          Dataset         |
-|   🔗  |   📜  |           Pivot          |
-|   🔗  |   📜  |        Pivot_table       |
-|   🔗  |   📜  |       Melt - Part 1      |
-|   🔗  |   📜  |       Melt - Part 2      |
-|   🔗  |   📜  | Stack & Unstack - Part 1 |
-|   🔗  |   📜  | Stack & Unstack - Part 2 |
-|   🔗  |   📜  |           Quiz           |
+|   [🔗](https://academy.dqlab.id/main/livecode/252/443/2215)  |   [📜]()  |          Dataset         |
+|   [🔗](https://academy.dqlab.id/main/livecode/252/443/2216)  |   [📜]()  |           Pivot          |
+|   [🔗](https://academy.dqlab.id/main/livecode/252/443/2217)  |   [📜]()  |        Pivot_table       |
+|   [🔗](https://academy.dqlab.id/main/livecode/252/443/2218)  |   [📜]()  |       Melt - Part 1      |
+|   [🔗](https://academy.dqlab.id/main/livecode/252/443/2219)  |   [📜]()  |       Melt - Part 2      |
+|   [🔗](https://academy.dqlab.id/main/livecode/252/443/2220)  |   [📜]()  | Stack & Unstack - Part 1 |
+|   [🔗](https://academy.dqlab.id/main/livecode/252/443/2221)  |   [📜]()  | Stack & Unstack - Part 2 |
+|   [🔗](https://academy.dqlab.id/main/livecode/252/443/2222)  |   [📜]()  |           Quiz           |
 
 <br> Modul 3 : Aggregation & GroupBy
 
 | Link | Code |                             Title                            |
 |:----:|:----:|:------------------------------------------------------------:|
-|   🔗  |   📜  |                     Review Inspeksi Data                     |
-|   🔗  |   📜  | Groupby dan Aggregasi dengan Fungsi Statistik Dasar - Part 1 |
-|   🔗  |   📜  | Groupby dan Aggregasi dengan Fungsi Statistik Dasar - Part 2 |
-|   🔗  |   📜  | Groupby dan Aggregasi dengan Fungsi Statistik Dasar - Part 3 |
-|   🔗  |   📜  |             Groupby dengan Multiple  Aggregations            |
-|   🔗  |   📜  |              Groupby dengan Custom Aggregations              |
-|   🔗  |   📜  |          Groupby dengan Custom Aggregations by dict          |
-|   🔗  |   📜  |                             Quiz                             |
+|   [🔗](https://academy.dqlab.id/main/livecode/252/444/2224)  |   [📜]()  |                     Review Inspeksi Data                     |
+|   [🔗](https://academy.dqlab.id/main/livecode/252/444/2225)  |   [📜]()  | Groupby dan Aggregasi dengan Fungsi Statistik Dasar - Part 1 |
+|   [🔗](https://academy.dqlab.id/main/livecode/252/444/2226)  |   [📜]()  | Groupby dan Aggregasi dengan Fungsi Statistik Dasar - Part 2 |
+|   [🔗](https://academy.dqlab.id/main/livecode/252/444/2227)  |   [📜]()  | Groupby dan Aggregasi dengan Fungsi Statistik Dasar - Part 3 |
+|   [🔗](https://academy.dqlab.id/main/livecode/252/444/2228)  |   [📜]()  |             Groupby dengan Multiple  Aggregations            |
+|   [🔗](https://academy.dqlab.id/main/livecode/252/444/2229)  |   [📜]()  |              Groupby dengan Custom Aggregations              |
+|   [🔗](https://academy.dqlab.id/main/livecode/252/444/2230)  |   [📜]()  |          Groupby dengan Custom Aggregations by dict          |
+|   [🔗](https://academy.dqlab.id/main/livecode/252/444/2245)  |   [📜]()  |                             Quiz                             |
 
 <br> Modul 4 : Time Series in Pandas
 
 | Link | Code |            Title            |
 |:----:|:----:|:---------------------------:|
-|   🔗  |   📜  | Load Dataset as Time Series |
-|   🔗  |   📜  |     Convert to Datetime     |
-|   🔗  |   📜  |      Downsampling Data      |
-|   🔗  |   📜  |       Upsampling Data       |
-|   🔗  |   📜  |   Resampling by Frequency   |
-|   🔗  |   📜  |         Visualisasi         |
-|   🔗  |   📜  |             Quiz            |
+|   [🔗](https://academy.dqlab.id/main/livecode/252/445/2236)  |   [📜]()  | Load Dataset as Time Series |
+|   [🔗](https://academy.dqlab.id/main/livecode/252/445/2237)  |   [📜]()  |     Convert to Datetime     |
+|   [🔗](https://academy.dqlab.id/main/livecode/252/445/2239)  |   [📜]()  |      Downsampling Data      |
+|   [🔗](https://academy.dqlab.id/main/livecode/252/445/2240)  |   [📜]()  |       Upsampling Data       |
+|   [🔗](https://academy.dqlab.id/main/livecode/252/445/2241)  |   [📜]()  |   Resampling by Frequency   |
+|   [🔗](https://academy.dqlab.id/main/livecode/252/445/2242)  |   [📜]()  |         Visualisasi         |
+|   [🔗](https://academy.dqlab.id/main/livecode/252/445/2243)  |   [📜]()  |             Quiz            |
 
 <br> Modul 5 : Mini Project
 
 | Link | Code |                     Title                    |
 |:----:|:----:|:--------------------------------------------:|
-|   🔗  |   📜  | Performa Penjualan di Setiap Cabang - Part 1 |
-|   🔗  |   📜  | Performa Penjualan di Setiap Cabang - Part 2 |
-|   🔗  |   📜  | Performa Penjualan di Setiap Cabang - Part 3 |
-|   🔗  |   📜  | Performa Penjualan di Setiap Cabang - Part 4 |
-|   🔗  |   📜  | Performa Penjualan di Setiap Cabang - Part 5 |
-|   🔗  |   📜  | Performa Penjualan di Setiap Cabang - Part 6 |
+|   [🔗](https://academy.dqlab.id/main/livecode/252/446/2306)  |   [📜]()  | Performa Penjualan di Setiap Cabang - Part 1 |
+|   [🔗](https://academy.dqlab.id/main/livecode/252/446/2307)  |   [📜]()  | Performa Penjualan di Setiap Cabang - Part 2 |
+|   [🔗](https://academy.dqlab.id/main/livecode/252/446/2285)  |   [📜]()  | Performa Penjualan di Setiap Cabang - Part 3 |
+|   [🔗](https://academy.dqlab.id/main/livecode/252/446/2286)  |   [📜]()  | Performa Penjualan di Setiap Cabang - Part 4 |
+|   [🔗](https://academy.dqlab.id/main/livecode/252/446/2305)  |   [📜]()  | Performa Penjualan di Setiap Cabang - Part 5 |
+|   [🔗](https://academy.dqlab.id/main/livecode/252/446/2287)  |   [📜]()  | Performa Penjualan di Setiap Cabang - Part 6 |
 
 <br><br>
 <img src="https://matplotlib.org/_static/logo2_compressed.svg" width="50%" />
