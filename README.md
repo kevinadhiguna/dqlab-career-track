@@ -18,15 +18,15 @@ Modul 1: Mari Mengenal Python
 
 | Link 	| Code 	|               Title              	|
 |:----:	|:----:	|:--------------------------------:	|
-|   🔗  	|   📜  	|               Quiz               	|
-|   🔗  	|   📜  	|               Quiz               	|
-|   🔗  	|   📜  	|  Program pertama: "Hello World"  	|
-|   🔗  	|   📜  	|         Program Pertamaku        	|
-|   🔗  	|   📜  	| Struktur Program Python - Part 1 	|
-|   🔗  	|   📜  	|           Tugas Praktek          	|
-|   🔗  	|   📜  	|           Tugas Praktek          	|
-|   🔗  	|   📜  	|               Quiz               	|
-|   🔗  	|   📜  	|               Quiz               	|
+|   [🔗](https://academy.dqlab.id/main/livecode/157/283/1245)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%201/0.quiz-1.png)  	|               Quiz               	|
+|   [🔗](https://academy.dqlab.id/main/livecode/157/283/1246)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%201/1.quiz-2.png)  	|               Quiz               	|
+|   [🔗](https://academy.dqlab.id/main/livecode/157/283/1247)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%201/2.helloworld.py)  	|  Program pertama: "Hello World"  	|
+|   [🔗](https://academy.dqlab.id/main/livecode/157/283/1248)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%201/3.program-pertamaku.py)  	|         Program Pertamaku        	|
+|   [🔗](https://academy.dqlab.id/main/livecode/157/283/1249)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%201/4.struktur-program-python-1.py)  	| Struktur Program Python - Part 1 	|
+|   [🔗](https://academy.dqlab.id/main/livecode/157/283/1250)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%201/5.tugas-praktek-1.py)  	|           Tugas Praktek          	|
+|   [🔗](https://academy.dqlab.id/main/livecode/157/283/1251)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%201/6.tugas-praktek-2.py)  	|           Tugas Praktek          	|
+|   [🔗](https://academy.dqlab.id/main/livecode/157/283/1253)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%201/7.quiz-3.png)  	|               Quiz               	|
+|   [🔗](https://academy.dqlab.id/main/livecode/157/283/1254)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%201/8.quiz-4.png)  	|               Quiz               	|
 
 <br>Modul 2 : Python Variables & Data Types
 
