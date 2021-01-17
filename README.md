@@ -620,6 +620,14 @@ Modul 1 : Jenis-Jenis Visualisasi Data dan Tujuannya
 
 Modul 1 : Pengenalan Machine Learning
 
+| Link 	| Code 	|  Title 	|
+|:----:	|:----:	|:------:	|
+|   🔗  	|   📜  	| Quiz 1 	|
+|   🔗  	|   📜  	| Quiz 2 	|
+|   🔗  	|   📜  	| Quiz 3 	|
+|   🔗  	|   📜  	| Quiz 4 	|
+|   🔗  	|   📜  	| Quiz 5 	|
+
 <br> Modul 2 : Eksplorasi Data & Data Pre-processing
 
 <br> Modul 3 : Pemodelan dengan Scikit-Learn
