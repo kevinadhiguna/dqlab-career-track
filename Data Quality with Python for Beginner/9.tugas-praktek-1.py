@@ -1,0 +1,1 @@
+print(retail_raw['item_price'].fillna(retail_raw['item_price'].mean()))
