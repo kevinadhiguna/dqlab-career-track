@@ -1,0 +1,10 @@
+import matplotlib.pyplot as plt
+plt.figure(figsize=(10, 5))
+plt.hist(data_per_customer['gmv'], bins=100, range=(1, 200000000), color='green')
+plt.title('Distribution of Total GMV per Customer\nDKI Jakarta in Q4 2019', fontsize=15, color='blue')
+plt.xlabel('GMV (in Millions)', fontsize=12)
+plt.ylabel('Number of Customers', fontsize=12)
+plt.xlim(xmin=0, xmax=200000000)
+labels, locations = plt.xticks()
+plt.xticks(labels, (labels/1000000).astype(int))
+plt.show()
