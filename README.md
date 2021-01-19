@@ -654,11 +654,12 @@ Modul 1 : Pengenalan Machine Learning
 
 | Link 	| Code 	|  Title 	|
 |:----:	|:----:	|:------:	|
-|   🔗  	|   📜  	| Quiz 1 	|
-|   🔗  	|   📜  	| Quiz 2 	|
-|   🔗  	|   📜  	| Quiz 3 	|
-|   🔗  	|   📜  	| Quiz 4 	|
-|   🔗  	|   📜  	| Quiz 5 	|
+|   [🔗](https://academy.dqlab.id/main/livecode/169/327/1544)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Machine%20Learning%20with%20Python%20for%20Beginner/0.quiz-1.png)  	| Quiz 1 	|
+|   [🔗](https://academy.dqlab.id/main/livecode/169/327/1546)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Machine%20Learning%20with%20Python%20for%20Beginner/1.quiz-2.png)  	| Quiz 2 	|
+|   [🔗](https://academy.dqlab.id/main/livecode/169/327/1547)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Machine%20Learning%20with%20Python%20for%20Beginner/2.quiz-3.png)  	| Quiz 3 	|
+|   [🔗](https://academy.dqlab.id/main/livecode/169/327/1549)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Machine%20Learning%20with%20Python%20for%20Beginner/3.quiz-4.png)  	| Quiz 4 	|
+|   [🔗](https://academy.dqlab.id/main/livecode/169/327/1550)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Machine%20Learning%20with%20Python%20for%20Beginner/4.quiz-5.png)  	| Quiz 5 	|
+|   [🔗](https://academy.dqlab.id/main/livecode/169/327/1552)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Machine%20Learning%20with%20Python%20for%20Beginner/5.quiz-6.png)  	| Quiz 6 	|
 
 <br> Modul 2 : Eksplorasi Data & Data Pre-processing
 
