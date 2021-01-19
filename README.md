@@ -521,11 +521,11 @@ Modul 1 : Penggabungan Series/Dataframe
 | Link | Code |                     Title                    |
 |:----:|:----:|:--------------------------------------------:|
 |   [🔗](https://academy.dqlab.id/main/livecode/252/446/2306)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Manipulation%20with%20Pandas/Part%202/29.performa-penjualan-setiap-cabang-1.py)  | Performa Penjualan di Setiap Cabang - Part 1 |
-|   [🔗](https://academy.dqlab.id/main/livecode/252/446/2307)  |   To be Posted...  | Performa Penjualan di Setiap Cabang - Part 2 |
-|   [🔗](https://academy.dqlab.id/main/livecode/252/446/2285)  |   To be Posted...  | Performa Penjualan di Setiap Cabang - Part 3 |
-|   [🔗](https://academy.dqlab.id/main/livecode/252/446/2286)  |   To be Posted...  | Performa Penjualan di Setiap Cabang - Part 4 |
-|   [🔗](https://academy.dqlab.id/main/livecode/252/446/2305)  |   To be Posted...  | Performa Penjualan di Setiap Cabang - Part 5 |
-|   [🔗](https://academy.dqlab.id/main/livecode/252/446/2287)  |   To be Posted...  | Performa Penjualan di Setiap Cabang - Part 6 |
+|   [🔗](https://academy.dqlab.id/main/livecode/252/446/2307)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Manipulation%20with%20Pandas/Part%202/30.performa-penjualan-setiap-cabang-2.py)  | Performa Penjualan di Setiap Cabang - Part 2 |
+|   [🔗](https://academy.dqlab.id/main/livecode/252/446/2285)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Manipulation%20with%20Pandas/Part%202/31.performa-penjualan-setiap-cabang-3.py)  | Performa Penjualan di Setiap Cabang - Part 3 |
+|   [🔗](https://academy.dqlab.id/main/livecode/252/446/2286)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Manipulation%20with%20Pandas/Part%202/32.performa-penjualan-setiap-cabang-4.py)  | Performa Penjualan di Setiap Cabang - Part 4 |
+|   [🔗](https://academy.dqlab.id/main/livecode/252/446/2305)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Manipulation%20with%20Pandas/Part%202/33.performa-penjualan-setiap-cabang-5.py)  | Performa Penjualan di Setiap Cabang - Part 5 |
+|   [🔗](https://academy.dqlab.id/main/livecode/252/446/2287)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Manipulation%20with%20Pandas/Part%202/34.performa-penjualan-setiap-cabang-6.py)  | Performa Penjualan di Setiap Cabang - Part 6 |
 
 <br><br>
 <img src="https://matplotlib.org/_static/logo2_compressed.svg" width="50%" />
@@ -603,10 +603,10 @@ Modul 1 : Jenis-Jenis Visualisasi Data dan Tujuannya
 |   [🔗](https://academy.dqlab.id/main/livecode/165/318/1483)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%202/4.create-multiline-chart.py)  |              Membuat Multi-Line Chart             |
 |   [🔗](https://academy.dqlab.id/main/livecode/165/318/1484)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%202/5.customize-legend.py)  |                 Kustomisasi Legend                |
 |   [🔗](https://academy.dqlab.id/main/livecode/165/318/1485)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%202/6.quiz-5.png)  |                        Quiz 5                      |
-|   [🔗](https://academy.dqlab.id/main/livecode/165/318/1486)  |   To be Posted...  |                Kustomisasi Colormap               |
-|   [🔗](https://academy.dqlab.id/main/livecode/165/318/1487)  |   To be Posted...  | Membuat Line Chart GMV Breakdown by Top Provinces |
-|   [🔗](https://academy.dqlab.id/main/livecode/165/318/1488)  |   To be Posted...  |                        Quiz 6                      |
-|   [🔗](https://academy.dqlab.id/main/livecode/165/318/1489)  |   To be Posted...  |                  Membuat Anotasi                  |
+|   [🔗](https://academy.dqlab.id/main/livecode/165/318/1486)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%202/7.customize-colormap.py)  |                Kustomisasi Colormap               |
+|   [🔗](https://academy.dqlab.id/main/livecode/165/318/1487)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%202/8.linechart-gmv-breakdown-by-top-provinces.py)  | Membuat Line Chart GMV Breakdown by Top Provinces |
+|   [🔗](https://academy.dqlab.id/main/livecode/165/318/1488)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%202/9.quiz-6.png)  |                        Quiz 6                      |
+|   [🔗](https://academy.dqlab.id/main/livecode/165/318/1489)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%202/10.creating-annotation.py)  |                  Membuat Anotasi                  |
 
 <br> Modul 3 : Membuat Pie-Chart dan Bar-Chart
 
