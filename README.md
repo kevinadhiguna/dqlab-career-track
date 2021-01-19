@@ -679,9 +679,34 @@ Modul 1 : Pengenalan Machine Learning
 
 Modul 1 : Data Profiling
 
+| Link | Code |              Title              |
+|:----:|:----:|:-------------------------------:|
+|   [🔗](https://academy.dqlab.id/main/livecode/166/322/1513)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Quality%20with%20Python%20for%20Beginner/0.importing-data.py)  |          Importing Data         |
+|   [🔗](https://academy.dqlab.id/main/livecode/166/322/1514)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Quality%20with%20Python%20for%20Beginner/1.datatype-inspection.py)  |        Inspeksi tipe data       |
+|   [🔗](https://academy.dqlab.id/main/livecode/166/322/1515)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Quality%20with%20Python%20for%20Beginner/2.descriptive-statistics-1.py)  | Descriptive Statistics - Part 1 |
+|   [🔗](https://academy.dqlab.id/main/livecode/166/322/1517)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Quality%20with%20Python%20for%20Beginner/3.descriptive-statistics-2.py)  | Descriptive Statistics - Part 2 |
+|   [🔗](https://academy.dqlab.id/main/livecode/166/322/1519)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Quality%20with%20Python%20for%20Beginner/4.descriptive-statistics-3.py)  | Descriptive Statistics - Part 3 |
+|   [🔗](https://academy.dqlab.id/main/livecode/166/322/1521)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Quality%20with%20Python%20for%20Beginner/5.descriptive-statistics-4.py)  | Descriptive Statistics - Part 4 |
+|   [🔗](https://academy.dqlab.id/main/livecode/166/322/1523)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Quality%20with%20Python%20for%20Beginner/6.descriptive-statistics-5.py)  | Descriptive Statistics - Part 5 |
+|   [🔗](https://academy.dqlab.id/main/livecode/166/322/1526)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Quality%20with%20Python%20for%20Beginner/7.descriptive-statistics-6.py)  | Descriptive Statistics - Part 6 |
+
 <br> Modul 2 : Data Cleansing
 
+| Link | Code |     Title     |
+|:----:|:----:|:-------------:|
+|   [🔗](https://academy.dqlab.id/main/livecode/166/323/1529)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Quality%20with%20Python%20for%20Beginner/8.missing-data.py)  |  Missing Data |
+|   [🔗](https://academy.dqlab.id/main/livecode/166/323/1530)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Quality%20with%20Python%20for%20Beginner/9.tugas-praktek-1.py)  | Tugas Praktek 1 |
+|   [🔗](https://academy.dqlab.id/main/livecode/166/323/1534)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Quality%20with%20Python%20for%20Beginner/10.outliers.py)  |    Outliers   |
+|   [🔗](https://academy.dqlab.id/main/livecode/166/323/1535)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Quality%20with%20Python%20for%20Beginner/11.tugas-praktek-2.py)  | Tugas Praktek 2 |
+|   [🔗](https://academy.dqlab.id/main/livecode/166/323/1537)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Quality%20with%20Python%20for%20Beginner/12.tugas-praktek-3.py)  | Tugas Praktek 3 |
+
 <br> Modul 3 : Mini Project
+
+| Link | Code |                Title                |
+|:----:|:----:|:-----------------------------------:|
+|   [🔗](https://academy.dqlab.id/main/livecode/166/324/1532)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Quality%20with%20Python%20for%20Beginner/13.data-profiling.py)  |      Case Studi: Data Profiling     |
+|   [🔗](https://academy.dqlab.id/main/livecode/166/324/2602)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Quality%20with%20Python%20for%20Beginner/14.data-cleansing-1.py)  | Case Studi: Data Profiling - Part 1 |
+|   [🔗](https://academy.dqlab.id/main/livecode/166/324/2603)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Quality%20with%20Python%20for%20Beginner/15.data-cleansing-2.py)  | Case Studi: Data Profiling - Part 2 |
 
 <br><br>
 <img src="https://raw.githubusercontent.com/kevinadhiguna/dqlab-career-track/master/assets/project.png" />
