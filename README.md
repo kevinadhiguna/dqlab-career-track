@@ -610,9 +610,38 @@ Modul 1 : Jenis-Jenis Visualisasi Data dan Tujuannya
 
 <br> Modul 3 : Membuat Pie-Chart dan Bar-Chart
 
+| Link | Code |          Title          |
+|:----:|:----:|:-----------------------:|
+|   [🔗](https://academy.dqlab.id/main/livecode/165/319/1490)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%202/11.creating-subset-data.py)  |   Membuat Subset Data   |
+|   [🔗](https://academy.dqlab.id/main/livecode/165/319/1491)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%202/12.piechart.py)  |    Membuat Pie Chart    |
+|   [🔗](https://academy.dqlab.id/main/livecode/165/319/1492)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%202/13.barchart.py)  |    Membuat Bar Chart    |
+|   [🔗](https://academy.dqlab.id/main/livecode/165/319/1493)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%202/14.multibar-chart.py)  | Membuat Multi-Bar Chart |
+|   [🔗](https://academy.dqlab.id/main/livecode/165/319/1494)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%202/15.stacked-chart.py)  |  Membuat Stacked Chart  |
+|   [🔗](https://academy.dqlab.id/main/livecode/165/319/1495)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%202/16.quiz-7.png)  |           Quiz 7         |
+
 <br> Modul 4 : Membuat Histogram dan Scatterplot
 
+| Link | Code |             Title             |
+|:----:|:----:|:-----------------------------:|
+|   [🔗](https://academy.dqlab.id/main/livecode/165/320/1496)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%202/17.aggregate-data-customer.py)  | Membuat Agregat Data Customer |
+|   [🔗](https://academy.dqlab.id/main/livecode/165/320/1497)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%202/18.histogram-1.py)  |   Membuat Histogram - Part 1  |
+|   [🔗](https://academy.dqlab.id/main/livecode/165/320/1498)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%202/19.histogram-2.py)  |   Membuat Histogram - Part 2  |
+|   [🔗](https://academy.dqlab.id/main/livecode/165/320/1499)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%202/20.histogram-3.py)  |   Membuat Histogram - Part 3  |
+|   [🔗](https://academy.dqlab.id/main/livecode/165/320/1500)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%202/21.quiz-8.png)  |              Quiz 8            |
+|   [🔗](https://academy.dqlab.id/main/livecode/165/320/1502)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%202/22.scatterplot.py)  |      Membuat Scatterplot      |
+|   [🔗](https://academy.dqlab.id/main/livecode/165/320/1501)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%202/23.quiz-9.png)  |              Quiz 9            |
+
 <br> Modul 5 : Mini Project
+
+| Link | Code |                                  Title                                  |
+|:----:|:----:|:-----------------------------------------------------------------------:|
+|   [🔗](https://academy.dqlab.id/main/livecode/165/321/1504)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%202/24.case-1.py)  |                      Case 1: Menentukan brand top 5                     |
+|   [🔗](https://academy.dqlab.id/main/livecode/165/321/1505)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%202/25.case-2.py)  |        Case 2: Multi-line chart daily quantity untuk brand top 5        |
+|   [🔗](https://academy.dqlab.id/main/livecode/165/321/1506)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%202/26.case-3.py)  |       Case 3: Kuantitas penjualan brand top 5 selama Desember 2019      |
+|   [🔗](https://academy.dqlab.id/main/livecode/165/321/1507)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%202/27.case-4.py)  | Case 4: Penjulan produk diatas 100 dan dibawah 100 selama Desember 2019 |
+|   [🔗](https://academy.dqlab.id/main/livecode/165/321/1508)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%202/28.case-5.py)  |           Case 5: Murah atau mahalkah harga produk brand top 5          |
+|   [🔗](https://academy.dqlab.id/main/livecode/165/321/1509)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%202/29.case-6a.py)  |                    Case 6a: Korelasi quantity vs GMV                    |
+|   [🔗](https://academy.dqlab.id/main/livecode/165/321/2403)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%202/30.case-6b.py)  |                Case 6b: Korelasi median harga vs quantity               |
 
 <br><br>
 <img src="https://raw.githubusercontent.com/kevinadhiguna/dqlab-career-track/master/assets/machine-learning.png" />
