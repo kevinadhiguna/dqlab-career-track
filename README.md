@@ -663,13 +663,61 @@ Modul 1 : Pengenalan Machine Learning
 
 <br> Modul 2 : Eksplorasi Data & Data Pre-processing
 
+| Link | Code |                           Title                          |
+|:----:|:----:|:--------------------------------------------------------:|
+|   [🔗](https://academy.dqlab.id/main/livecode/169/328/1553)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Machine%20Learning%20with%20Python%20for%20Beginner/6.understand-data-with-stats-1.py)  | Eksplorasi Data: Memahami Data dengan Statistik - Part 1 |
+|   [🔗](https://academy.dqlab.id/main/livecode/169/328/1554)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Machine%20Learning%20with%20Python%20for%20Beginner/7.quiz-7.png)  |                           Quiz 7                          |
+|   [🔗](https://academy.dqlab.id/main/livecode/169/328/1555)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Machine%20Learning%20with%20Python%20for%20Beginner/8.understand-data-with-stats-2.py)  | Eksplorasi Data: Memahami Data dengan Statistik - Part 2 |
+|   [🔗](https://academy.dqlab.id/main/livecode/169/328/1556)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Machine%20Learning%20with%20Python%20for%20Beginner/9.quiz-8.png)  |                           Quiz 8                          |
+|   [🔗](https://academy.dqlab.id/main/livecode/169/328/1558)  |   To be Posted...  |       Eksplorasi Data: Memahami Data dengan Visual       |
+|   [🔗](https://academy.dqlab.id/main/livecode/169/328/1559)  |   To be Posted...  |                       Tugas Praktek 1                     |
+|   [🔗](https://academy.dqlab.id/main/livecode/169/328/1561)  |   To be Posted...  |   Data Pre-processing: Handling Missing Value - Part 1   |
+|   [🔗](https://academy.dqlab.id/main/livecode/169/328/1563)  |   To be Posted...  |   Data Pre-processing: Handling Missing Value - Part 2   |
+|   [🔗](https://academy.dqlab.id/main/livecode/169/328/1565)  |   To be Posted...  |   Data Pre-processing: Handling Missing Value - Part 3   |
+|   [🔗](https://academy.dqlab.id/main/livecode/169/328/1566)  |   To be Posted...  |                       Tugas Praktek 2                     |
+|   [🔗](https://academy.dqlab.id/main/livecode/169/328/1567)  |   To be Posted...  |                Data Preprocessing: Scaling               |
+|   [🔗](https://academy.dqlab.id/main/livecode/169/328/2464)  |   To be Posted...  |      Data Pre-processing: Konversi string ke numerik     |
+
 <br> Modul 3 : Pemodelan dengan Scikit-Learn
+
+| Link | Code |                Title                |
+|:----:|:----:|:-----------------------------------:|
+|   [🔗](https://academy.dqlab.id/main/livecode/169/329/1570)  |   To be Posted...  |           Features & Label          |
+|   [🔗](https://academy.dqlab.id/main/livecode/169/329/1571)  |   To be Posted...  |       Training & Test Dataset       |
+|   [🔗](https://academy.dqlab.id/main/livecode/169/329/1572)  |   To be Posted...  |         Training Model: Fit         |
+|   [🔗](https://academy.dqlab.id/main/livecode/169/329/1573)  |   To be Posted...  |       Training Model: Predict       |
+|   [🔗](https://academy.dqlab.id/main/livecode/169/329/1575)  |   To be Posted...  | Evaluasi Model Performance - Part 2 |
+|   [🔗](https://academy.dqlab.id/main/livecode/169/329/1577)  |   To be Posted...  |                 Quiz 9               |
 
 <br> Modul 4 : Supervised Learning - Algorithm
 
+| Link | Code |                              Title                             |
+|:----:|:----:|:--------------------------------------------------------------:|
+|   [🔗](https://academy.dqlab.id/main/livecode/169/330/1580)  |   To be Posted...  | Permodelan Permasalahan Klasifikasi dengan Logistic Regression |
+|   [🔗](https://academy.dqlab.id/main/livecode/169/330/1582)  |   To be Posted...  |                          Tugas Praktek 3                        |
+|   [🔗](https://academy.dqlab.id/main/livecode/169/330/1585)  |   To be Posted...  |                          Tugas Praktek 4                        |
+|   [🔗](https://academy.dqlab.id/main/livecode/169/330/1587)  |   To be Posted...  |                          Tugas Praktek 5                        |
+
 <br> Modul 5 : Unsupervised Learning - Algorithm
 
+| Link | Code |     Title     |
+|:----:|:----:|:-------------:|
+|   [🔗](https://academy.dqlab.id/main/livecode/169/331/1590)  |   To be Posted...  | Tugas Praktek 6 |
+|   [🔗](https://academy.dqlab.id/main/livecode/169/331/1591)  |   To be Posted...  | Tugas Praktek 7 |
+|   [🔗](https://academy.dqlab.id/main/livecode/169/331/1593)  |   To be Posted...  | Tugas Praktek 8 |
+|   [🔗](https://academy.dqlab.id/main/livecode/169/331/1594)  |   To be Posted...  |      Quiz 10    |
+
 <br> Modul 6 : Mini Project
+
+| Link | Code |                      Title                     |
+|:----:|:----:|:----------------------------------------------:|
+|   [🔗](https://academy.dqlab.id/main/livecode/169/332/1596)  |   To be Posted...  | Case Study: Promos for our e-commerce - Part 1 |
+|   [🔗](https://academy.dqlab.id/main/livecode/169/332/2466)  |   To be Posted...  | Case Study: Promos for our e-commerce - Part 2 |
+|   [🔗](https://academy.dqlab.id/main/livecode/169/332/2465)  |   To be Posted...  | Case Study: Promos for our e-commerce - Part 3 |
+|   [🔗](https://academy.dqlab.id/main/livecode/169/332/2467)  |   To be Posted...  | Case Study: Promos for our e-commerce - Part 4 |
+|   [🔗](https://academy.dqlab.id/main/livecode/169/332/1600)  |   To be Posted...  | Case Study: Promos for our e-commerce - Part 5 |
+|   [🔗](https://academy.dqlab.id/main/livecode/169/332/2468)  |   To be Posted...  | Case Study: Promos for our e-commerce - Part 6 |
+|   [🔗](https://academy.dqlab.id/main/livecode/169/332/1602)  |   To be Posted...  |                      Quiz 11                     |
 
 <br><br>
 <img src="https://raw.githubusercontent.com/kevinadhiguna/dqlab-career-track/master/assets/data-quality.png" />
