@@ -10,6 +10,8 @@
 
 Kurikulum terstruktur untuk melatih problem-solving dan kreativitas, serta dikemas dengan studi kasus yang mencerminkan kondisi data riil di Indonesia. Kelas Data Analyst Career Track (Python) dirancang oleh 7 ahli data, dari beragam Industri seperti Traveloka, PT. BUMA, Kompas.com, dan GOJEK.
 
+### ℹ️ You must login to [DQLab](https://academy.dqlab.id/) access links below. Do not have an account? You can create one [here](https://dqlab.id/).
+
 <br><br>
 <img src="https://www.python.org/static/community_logos/python-logo-inkscape.svg" />
 
