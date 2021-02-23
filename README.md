@@ -10,6 +10,33 @@
 
 Kurikulum terstruktur untuk melatih problem-solving dan kreativitas, serta dikemas dengan studi kasus yang mencerminkan kondisi data riil di Indonesia. Kelas Data Analyst Career Track (Python) dirancang oleh 7 ahli data, dari beragam Industri seperti Traveloka, PT. BUMA, Kompas.com, dan GOJEK.
 
+<!-- TABLE OF CONTENTS -->
+## 📚 Table of Contents
+
+1. [Memahami Bahasa Pemrograman Fundamental](#memahami-bahasa-pemrograman-fundamental)
+    - [Python for Data Professional Beginner - Part 1](#python-for-data-professional-beginner---part-1)
+    - [Python for Data Professional Beginner - Part 2](#python-for-data-professional-beginner---part-2)
+    - [Python for Data Professional Beginner - Part 3](#python-for-data-professional-beginner---part-3)
+2. [Memahami Bahasa SQL dan Sistem Database Relasional agar dapat mengolah data di Perusahaan Yang Sudah Menerapkan Sistem IT](#memahami-bahasa-sql-dan-sistem-database-relasional-agar-dapat-mengolah-data-di-perusahaan-yang-sudah-menerapkan-sistem-it)
+    - [Fundamental SQL Using SELECT Statement](#fundamental-sql-using-select-statement)
+    - [Fundamental SQL Using FUNCTION and GROUP BY](#fundamental-sql-using-function-and-group-by)
+    - [Fundamental SQL Using INNER JOIN and UNION](#fundamental-sql-using-inner-join-and-union)
+3. [Memahami Konsep dan Penerapan Exploratory Data Analysis dalam Studi Kasus Bisnis](#memahami-konsep-dan-penerapan-exploratory-data-analysis-dalam-studi-kasus-bisnis)
+    - [Exploratory Data Analysis with Python for Beginner](#exploratory-data-analysis-with-python-for-beginner)
+4. [Mengolah Dataset Dalam Jumlah Kecil sampai dengan Besar](#mengolah-dataset-dalam-jumlah-kecil-sampai-dengan-besar)
+    - [Data Manipulation with Pandas - Part 1](#data-manipulation-with-pandas---part-1)
+    - [Data Manipulation with Pandas - Part 2](#data-manipulation-with-pandas---part-2)
+5. [Memahami Konsep dan Menghasilkan Tipe Visualisasi Data yang Tepat untuk Mempresentasikan Suatu Kasus Bisnis](#memahami-konsep-dan-menghasilkan-tipe-visualisasi-data-yang-tepat-untuk-mempresentasikan-suatu-kasus-bisnis)
+    - [Data Visualization with Python Matplotlib for Beginner - Part 1](#data-visualization-with-python-matplotlib-for-beginner---part-1)
+    - [Data Visualization with Python Matplotlib for Beginner - Part 2](#data-visualization-with-python-matplotlib-for-beginner---part-2)
+6. [Memahami Konsep Predictive Modeling & Mampu Menguji Tingkat Akurasi untuk Memilih Model yang Tepat](#memahami-konsep-predictive-modeling--mampu-menguji-tingkat-akurasi-untuk-memilih-model-yang-tepat)
+    - [Machine Learning With Python for Beginner](#machine-learning-with-python-for-beginner)
+7. [Melakukan Investigasi dan Mendeteksi Anomali pada Data](#melakukan-investigasi-dan-mendeteksi-anomali-pada-data)
+    - [Data Quality with Python for Beginner](#data-quality-with-python-for-beginner)
+8. [Data Analyst Project: Business Decision Research](#data-analyst-project-business-decision-research)
+    - [Data Analyst Project: Business Decision Research](#data-analyst-project-business-decision-research-1)
+9. [Courtesy](#courtesy) 
+
 ### ℹ️ You must login to [DQLab](https://academy.dqlab.id/) access links below. Do not have an account? You can create one [here](https://dqlab.id/).
 
 <br><br>
