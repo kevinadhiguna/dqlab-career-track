@@ -36,7 +36,7 @@
     - [Data Analyst Project: Business Decision Research](#data-analyst-project-business-decision-research-1)
 9. [Courtesy](#courtesy) 
 
-### ℹ️ You must login to [DQLab](https://academy.dqlab.id/) access links below. Do not have an account? You can create one [here](https://dqlab.id/).
+### ℹ️ You must login to [DQLab](https://academy.dqlab.id/) to access links below. Do not have an account? You can register [here](https://dqlab.id/).
 
 <br>
 <img src="https://www.python.org/static/community_logos/python-logo-inkscape.svg" />
