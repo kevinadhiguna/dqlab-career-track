@@ -777,31 +777,31 @@ Modul 1 : Pendahuluan
 | Link | Code |                 Title                 |
 |:----:|:----:|:-------------------------------------:|
 |   [🔗](https://academy.dqlab.id/main/livecode/284/519/2610)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Analyst%20Project:%20Business%20Decision%20Research/1.importing-data-and-inspection.py)  |     Importing Data dan Inspection     |
-|   [🔗](https://academy.dqlab.id/main/livecode/284/519/2611)  |   To be Posted...  |             Data Cleansing            |
-|   [🔗](https://academy.dqlab.id/main/livecode/284/519/2612)  |   To be Posted...  |            Churn Customers            |
-|   [🔗](https://academy.dqlab.id/main/livecode/284/519/2613)  |   To be Posted...  |     Quiz: Kolom yang akan dihapus     |
-|   [🔗](https://academy.dqlab.id/main/livecode/284/519/2614)  |   To be Posted...  | Menghapus Kolom yang tidak diperlukan |
+|   [🔗](https://academy.dqlab.id/main/livecode/284/519/2611)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Analyst%20Project:%20Business%20Decision%20Research/2.data-cleansing.py)  |             Data Cleansing            |
+|   [🔗](https://academy.dqlab.id/main/livecode/284/519/2612)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Analyst%20Project:%20Business%20Decision%20Research/3.churn-customers.py)  |            Churn Customers            |
+|   [🔗](https://academy.dqlab.id/main/livecode/284/519/2613)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Analyst%20Project:%20Business%20Decision%20Research/4.quiz-2.png)  |     Quiz: Kolom yang akan dihapus     |
+|   [🔗](https://academy.dqlab.id/main/livecode/284/519/2614)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Analyst%20Project:%20Business%20Decision%20Research/5.remove-unnecessary-columns.py)  | Menghapus Kolom yang tidak diperlukan |
 
 <br> Modul 4 : Coding Test: Data Visualization
 
 | Link | Code |                        Title                       |
 |:----:|:----:|:--------------------------------------------------:|
-|   [🔗](https://academy.dqlab.id/main/livecode/284/520/2615)  |   To be Posted...  |            Customer acquisition by year            |
-|   [🔗](https://academy.dqlab.id/main/livecode/284/520/2616)  |   To be Posted...  |                 Transaction by year                |
-|   [🔗](https://academy.dqlab.id/main/livecode/284/520/2617)  |   To be Posted...  |         Average transaction amount by year         |
-|   [🔗](https://academy.dqlab.id/main/livecode/284/520/2618)  |   To be Posted...  |    Proporsi churned customer untuk setiap produk   |
-|   [🔗](https://academy.dqlab.id/main/livecode/284/520/2619)  |   To be Posted...  |      Distribusi kategorisasi count transaction     |
-|   [🔗](https://academy.dqlab.id/main/livecode/284/520/2620)  |   To be Posted...  | Distribusi kategorisasi average transaction amount |
+|   [🔗](https://academy.dqlab.id/main/livecode/284/520/2615)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Analyst%20Project:%20Business%20Decision%20Research/6.customer-acquisition-by-year.py)  |            Customer acquisition by year            |
+|   [🔗](https://academy.dqlab.id/main/livecode/284/520/2616)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Analyst%20Project:%20Business%20Decision%20Research/7.transaction-by-year.py)  |                 Transaction by year                |
+|   [🔗](https://academy.dqlab.id/main/livecode/284/520/2617)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Analyst%20Project:%20Business%20Decision%20Research/8.average-transaction-by-year.py)  |         Average transaction amount by year         |
+|   [🔗](https://academy.dqlab.id/main/livecode/284/520/2618)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Analyst%20Project:%20Business%20Decision%20Research/9.churned-customer-proportion.py)  |    Proporsi churned customer untuk setiap produk   |
+|   [🔗](https://academy.dqlab.id/main/livecode/284/520/2619)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Analyst%20Project:%20Business%20Decision%20Research/10.count-transaction-categorization.py)  |      Distribusi kategorisasi count transaction     |
+|   [🔗](https://academy.dqlab.id/main/livecode/284/520/2620)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Analyst%20Project:%20Business%20Decision%20Research/11.average-transaction-amount-categorization.py)  | Distribusi kategorisasi average transaction amount |
 
 <br> Modul 5 : Coding Test: Modelling
 
 |  Link |       Code      |                     Title                    |
 |:-----:|:---------------:|:--------------------------------------------:|
-| [🔗](https://academy.dqlab.id/main/livecode/284/521/2621) | To be Posted... |          Feature Columns and Target          |
-| [🔗](https://academy.dqlab.id/main/livecode/284/521/2622) | To be Posted... | Split X dan Y ke bagian Training dan Testing |
-| [🔗](https://academy.dqlab.id/main/livecode/284/521/2623) | To be Posted... |         Train, Predict, dan Evaluate         |
-| [🔗](https://academy.dqlab.id/main/livecode/284/521/2624) | To be Posted... |         Visualisasi Confusion Matrix         |
-| [🔗](https://academy.dqlab.id/main/livecode/284/521/2625) | To be Posted... |        Accuracy, Precision, dan Recall       |
+| [🔗](https://academy.dqlab.id/main/livecode/284/521/2621) | [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Analyst%20Project:%20Business%20Decision%20Research/12.columns-and-target-features.py) |          Feature Columns and Target          |
+| [🔗](https://academy.dqlab.id/main/livecode/284/521/2622) | [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Analyst%20Project:%20Business%20Decision%20Research/13.split-x-y-to-training-testing.py) | Split X dan Y ke bagian Training dan Testing |
+| [🔗](https://academy.dqlab.id/main/livecode/284/521/2623) | [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Analyst%20Project:%20Business%20Decision%20Research/14.train-predict-evaluate.py) |         Train, Predict, dan Evaluate         |
+| [🔗](https://academy.dqlab.id/main/livecode/284/521/2624) | [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Analyst%20Project:%20Business%20Decision%20Research/15.confusion-matrix-visualization.py) |         Visualisasi Confusion Matrix         |
+| [🔗](https://academy.dqlab.id/main/livecode/284/521/2625) | [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Analyst%20Project:%20Business%20Decision%20Research/16.accuracy-precision-recall.py) |        Accuracy, Precision, dan Recall       |
 
 <br> Modul 6 : Penutup
 
