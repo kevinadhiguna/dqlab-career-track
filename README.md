@@ -34,7 +34,9 @@
     - [Data Quality with Python for Beginner](#data-quality-with-python-for-beginner)
 8. [Data Analyst Project: Business Decision Research](#data-analyst-project-business-decision-research)
     - [Data Analyst Project: Business Decision Research](#data-analyst-project-business-decision-research-1)
-9. [Courtesy](#courtesy) 
+9. [Contributing](#-contributing)
+10. [Contact](#-contact)
+11. [Courtesy](#courtesy) 
 
 ### ℹ️ You must login to [DQLab](https://academy.dqlab.id/) to access links below. Do not have an account? You can register [here](https://dqlab.id/).
 
