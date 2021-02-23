@@ -669,55 +669,55 @@ Modul 1 : Pengenalan Machine Learning
 |   [🔗](https://academy.dqlab.id/main/livecode/169/328/1554)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Machine%20Learning%20with%20Python%20for%20Beginner/7.quiz-7.png)  |                           Quiz 7                          |
 |   [🔗](https://academy.dqlab.id/main/livecode/169/328/1555)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Machine%20Learning%20with%20Python%20for%20Beginner/8.understand-data-with-stats-2.py)  | Eksplorasi Data: Memahami Data dengan Statistik - Part 2 |
 |   [🔗](https://academy.dqlab.id/main/livecode/169/328/1556)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Machine%20Learning%20with%20Python%20for%20Beginner/9.quiz-8.png)  |                           Quiz 8                          |
-|   [🔗](https://academy.dqlab.id/main/livecode/169/328/1558)  |   To be Posted...  |       Eksplorasi Data: Memahami Data dengan Visual       |
-|   [🔗](https://academy.dqlab.id/main/livecode/169/328/1559)  |   To be Posted...  |                       Tugas Praktek 1                     |
-|   [🔗](https://academy.dqlab.id/main/livecode/169/328/1561)  |   To be Posted...  |   Data Pre-processing: Handling Missing Value - Part 1   |
-|   [🔗](https://academy.dqlab.id/main/livecode/169/328/1563)  |   To be Posted...  |   Data Pre-processing: Handling Missing Value - Part 2   |
-|   [🔗](https://academy.dqlab.id/main/livecode/169/328/1565)  |   To be Posted...  |   Data Pre-processing: Handling Missing Value - Part 3   |
-|   [🔗](https://academy.dqlab.id/main/livecode/169/328/1566)  |   To be Posted...  |                       Tugas Praktek 2                     |
-|   [🔗](https://academy.dqlab.id/main/livecode/169/328/1567)  |   To be Posted...  |                Data Preprocessing: Scaling               |
-|   [🔗](https://academy.dqlab.id/main/livecode/169/328/2464)  |   To be Posted...  |      Data Pre-processing: Konversi string ke numerik     |
+|   [🔗](https://academy.dqlab.id/main/livecode/169/328/1558)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Machine%20Learning%20with%20Python%20for%20Beginner/10.understand-data-with-visual.py)  |       Eksplorasi Data: Memahami Data dengan Visual       |
+|   [🔗](https://academy.dqlab.id/main/livecode/169/328/1559)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Machine%20Learning%20with%20Python%20for%20Beginner/11.tugas-praktek-1.py)  |                       Tugas Praktek 1                     |
+|   [🔗](https://academy.dqlab.id/main/livecode/169/328/1561)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Machine%20Learning%20with%20Python%20for%20Beginner/12.handling-missing-value-1.py)  |   Data Pre-processing: Handling Missing Value - Part 1   |
+|   [🔗](https://academy.dqlab.id/main/livecode/169/328/1563)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Machine%20Learning%20with%20Python%20for%20Beginner/13.handling-missing-value-2.py)  |   Data Pre-processing: Handling Missing Value - Part 2   |
+|   [🔗](https://academy.dqlab.id/main/livecode/169/328/1565)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Machine%20Learning%20with%20Python%20for%20Beginner/14.handling-missing-value-3.py)  |   Data Pre-processing: Handling Missing Value - Part 3   |
+|   [🔗](https://academy.dqlab.id/main/livecode/169/328/1566)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Machine%20Learning%20with%20Python%20for%20Beginner/15.tugas-praktek-2.py)  |                       Tugas Praktek 2                     |
+|   [🔗](https://academy.dqlab.id/main/livecode/169/328/1567)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Machine%20Learning%20with%20Python%20for%20Beginner/16.tugas-praktek-3.py)  |                Data Preprocessing: Scaling               |
+|   [🔗](https://academy.dqlab.id/main/livecode/169/328/2464)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Machine%20Learning%20with%20Python%20for%20Beginner/17.convert-string-to-numeric.py)  |      Data Pre-processing: Konversi string ke numerik     |
 
 <br> Modul 3 : Pemodelan dengan Scikit-Learn
 
 | Link | Code |                Title                |
 |:----:|:----:|:-----------------------------------:|
-|   [🔗](https://academy.dqlab.id/main/livecode/169/329/1570)  |   To be Posted...  |           Features & Label          |
-|   [🔗](https://academy.dqlab.id/main/livecode/169/329/1571)  |   To be Posted...  |       Training & Test Dataset       |
-|   [🔗](https://academy.dqlab.id/main/livecode/169/329/1572)  |   To be Posted...  |         Training Model: Fit         |
-|   [🔗](https://academy.dqlab.id/main/livecode/169/329/1573)  |   To be Posted...  |       Training Model: Predict       |
-|   [🔗](https://academy.dqlab.id/main/livecode/169/329/1575)  |   To be Posted...  | Evaluasi Model Performance - Part 2 |
-|   [🔗](https://academy.dqlab.id/main/livecode/169/329/1577)  |   To be Posted...  |                 Quiz 9               |
+|   [🔗](https://academy.dqlab.id/main/livecode/169/329/1570)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Machine%20Learning%20with%20Python%20for%20Beginner/18.features-and-label.py)  |           Features & Label          |
+|   [🔗](https://academy.dqlab.id/main/livecode/169/329/1571)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Machine%20Learning%20with%20Python%20for%20Beginner/19.training-and-test-dataset.py)  |       Training & Test Dataset       |
+|   [🔗](https://academy.dqlab.id/main/livecode/169/329/1572)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Machine%20Learning%20with%20Python%20for%20Beginner/20.training-model-fit.py)  |         Training Model: Fit         |
+|   [🔗](https://academy.dqlab.id/main/livecode/169/329/1573)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Machine%20Learning%20with%20Python%20for%20Beginner/21.training-model-predict.py)  |       Training Model: Predict       |
+|   [🔗](https://academy.dqlab.id/main/livecode/169/329/1575)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Machine%20Learning%20with%20Python%20for%20Beginner/22.evaluasi-model-performance-2.py)  | Evaluasi Model Performance - Part 2 |
+|   [🔗](https://academy.dqlab.id/main/livecode/169/329/1577)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Machine%20Learning%20with%20Python%20for%20Beginner/23.quiz-9.png)  |                 Quiz 9               |
 
 <br> Modul 4 : Supervised Learning - Algorithm
 
 | Link | Code |                              Title                             |
 |:----:|:----:|:--------------------------------------------------------------:|
-|   [🔗](https://academy.dqlab.id/main/livecode/169/330/1580)  |   To be Posted...  | Permodelan Permasalahan Klasifikasi dengan Logistic Regression |
-|   [🔗](https://academy.dqlab.id/main/livecode/169/330/1582)  |   To be Posted...  |                          Tugas Praktek 3                        |
-|   [🔗](https://academy.dqlab.id/main/livecode/169/330/1585)  |   To be Posted...  |                          Tugas Praktek 4                        |
-|   [🔗](https://academy.dqlab.id/main/livecode/169/330/1587)  |   To be Posted...  |                          Tugas Praktek 5                        |
+|   [🔗](https://academy.dqlab.id/main/livecode/169/330/1580)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Machine%20Learning%20with%20Python%20for%20Beginner/24.logistic-regression.py)  | Permodelan Permasalahan Klasifikasi dengan Logistic Regression |
+|   [🔗](https://academy.dqlab.id/main/livecode/169/330/1582)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Machine%20Learning%20with%20Python%20for%20Beginner/25.tugas-praktek-4.py)  |                          Tugas Praktek 3                        |
+|   [🔗](https://academy.dqlab.id/main/livecode/169/330/1585)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Machine%20Learning%20with%20Python%20for%20Beginner/26.tugas-praktek-5.py)  |                          Tugas Praktek 4                        |
+|   [🔗](https://academy.dqlab.id/main/livecode/169/330/1587)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Machine%20Learning%20with%20Python%20for%20Beginner/27.tugas-praktek-6.py)  |                          Tugas Praktek 5                        |
 
 <br> Modul 5 : Unsupervised Learning - Algorithm
 
 | Link | Code |     Title     |
 |:----:|:----:|:-------------:|
-|   [🔗](https://academy.dqlab.id/main/livecode/169/331/1590)  |   To be Posted...  | Tugas Praktek 6 |
-|   [🔗](https://academy.dqlab.id/main/livecode/169/331/1591)  |   To be Posted...  | Tugas Praktek 7 |
-|   [🔗](https://academy.dqlab.id/main/livecode/169/331/1593)  |   To be Posted...  | Tugas Praktek 8 |
-|   [🔗](https://academy.dqlab.id/main/livecode/169/331/1594)  |   To be Posted...  |      Quiz 10    |
+|   [🔗](https://academy.dqlab.id/main/livecode/169/331/1590)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Machine%20Learning%20with%20Python%20for%20Beginner/28.tugas-praktek-7.py)  | Tugas Praktek 6 |
+|   [🔗](https://academy.dqlab.id/main/livecode/169/331/1591)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Machine%20Learning%20with%20Python%20for%20Beginner/29.tugas-praktek-8.py)  | Tugas Praktek 7 |
+|   [🔗](https://academy.dqlab.id/main/livecode/169/331/1593)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Machine%20Learning%20with%20Python%20for%20Beginner/30.tugas-praktek-9.py)  | Tugas Praktek 8 |
+|   [🔗](https://academy.dqlab.id/main/livecode/169/331/1594)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Machine%20Learning%20with%20Python%20for%20Beginner/31.quiz-10.png)  |      Quiz 10    |
 
 <br> Modul 6 : Mini Project
 
 | Link | Code |                      Title                     |
 |:----:|:----:|:----------------------------------------------:|
-|   [🔗](https://academy.dqlab.id/main/livecode/169/332/1596)  |   To be Posted...  | Case Study: Promos for our e-commerce - Part 1 |
-|   [🔗](https://academy.dqlab.id/main/livecode/169/332/2466)  |   To be Posted...  | Case Study: Promos for our e-commerce - Part 2 |
-|   [🔗](https://academy.dqlab.id/main/livecode/169/332/2465)  |   To be Posted...  | Case Study: Promos for our e-commerce - Part 3 |
-|   [🔗](https://academy.dqlab.id/main/livecode/169/332/2467)  |   To be Posted...  | Case Study: Promos for our e-commerce - Part 4 |
-|   [🔗](https://academy.dqlab.id/main/livecode/169/332/1600)  |   To be Posted...  | Case Study: Promos for our e-commerce - Part 5 |
-|   [🔗](https://academy.dqlab.id/main/livecode/169/332/2468)  |   To be Posted...  | Case Study: Promos for our e-commerce - Part 6 |
-|   [🔗](https://academy.dqlab.id/main/livecode/169/332/1602)  |   To be Posted...  |                      Quiz 11                     |
+|   [🔗](https://academy.dqlab.id/main/livecode/169/332/1596)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Machine%20Learning%20with%20Python%20for%20Beginner/32.case-study-1.py)  | Case Study: Promos for our e-commerce - Part 1 |
+|   [🔗](https://academy.dqlab.id/main/livecode/169/332/2466)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Machine%20Learning%20with%20Python%20for%20Beginner/33.case-study-2.py)  | Case Study: Promos for our e-commerce - Part 2 |
+|   [🔗](https://academy.dqlab.id/main/livecode/169/332/2465)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Machine%20Learning%20with%20Python%20for%20Beginner/34.case-study-3.py)  | Case Study: Promos for our e-commerce - Part 3 |
+|   [🔗](https://academy.dqlab.id/main/livecode/169/332/2467)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Machine%20Learning%20with%20Python%20for%20Beginner/35.case-study-4.py)  | Case Study: Promos for our e-commerce - Part 4 |
+|   [🔗](https://academy.dqlab.id/main/livecode/169/332/1600)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Machine%20Learning%20with%20Python%20for%20Beginner/36.case-study-5.py)  | Case Study: Promos for our e-commerce - Part 5 |
+|   [🔗](https://academy.dqlab.id/main/livecode/169/332/2468)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Machine%20Learning%20with%20Python%20for%20Beginner/37.case-study-6.py)  | Case Study: Promos for our e-commerce - Part 6 |
+|   [🔗](https://academy.dqlab.id/main/livecode/169/332/1602)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Machine%20Learning%20with%20Python%20for%20Beginner/38.quiz-11.png)  |                      Quiz 11                     |
 
 <br><br>
 <img src="https://raw.githubusercontent.com/kevinadhiguna/dqlab-career-track/master/assets/data-quality.png" />
