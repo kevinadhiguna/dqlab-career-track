@@ -39,7 +39,7 @@ Kurikulum terstruktur untuk melatih problem-solving dan kreativitas, serta dikem
 
 ### ℹ️ You must login to [DQLab](https://academy.dqlab.id/) access links below. Do not have an account? You can create one [here](https://dqlab.id/).
 
-<br><br>
+<br>
 <img src="https://www.python.org/static/community_logos/python-logo-inkscape.svg" />
 
 ## Memahami Bahasa Pemrograman Fundamental
@@ -837,7 +837,4 @@ Modul 1 : Pendahuluan
 <br>
 
 ## Courtesy
-
-<h3>
-  <a href="https://dqlab.id">DQLab</a>
-</h3>
+- [DQLab](https://dqlab.id)
