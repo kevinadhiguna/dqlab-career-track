@@ -40,6 +40,13 @@
 
 ### ℹ️ You must login to [DQLab](https://academy.dqlab.id/) to access links below. Do not have an account? You can register [here](https://dqlab.id/).
 
+### ⚠️ Warning (updated at 22th March 2021) : If you encounter some issues, you perhaps need to change dataset URL from AWS to Google Cloud.
+DQLab AWS dataset URL : https://dqlab-dataset.s3-ap-southeast-1.amazonaws.com/<NAME_OF_DATASET>.<csv_or_tsv> <br/>
+DQLab Google Cloud dataset URL : https://storage.googleapis.com/dqlab-dataset/<NAME_OF_DATASET>.<csv_or_tsv> <br/>
+<br>
+For example, if the dataset name is `sample_csv.csv` <br>
+You may need to change https://dqlab-dataset.s3-ap-southeast-1.amazonaws.com/sample_csv.csv to https://storage.googleapis.com/dqlab-dataset/sample_csv.csv
+
 <br>
 <img src="https://www.python.org/static/community_logos/python-logo-inkscape.svg" />
 
