@@ -861,3 +861,5 @@ Project Link: [https://github.com/kevinadhiguna/dqlab-career-track](https://gith
 
 ## 🎉 Courtesy
 - [DQLab](https://dqlab.id)
+
+[![Visits Badge](https://badges.pufler.dev/visits/kevinadhiguna/dqlab-career-track)](https://github.com/kevinadhiguna)
