@@ -118,7 +118,7 @@ Modul 1: Mari Mengenal Python
 |:----:	|:----:	|:-----------------:	|
 |   [🔗](https://academy.dqlab.id/main/livecode/157/295/1313)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%201/38.ekspedisi-pamanku.py)  	| Ekspedisi Pamanku 	|
 
-<br>
+<br /><br /> **[⬆ back to top](#-table-of-contents)** <br /><br />
 
 <h3>Python for Data Professional Beginner - Part 2</h3>
 
@@ -187,7 +187,7 @@ Modul 1 : Collection Manipulation dengan Python
 |:----:	|:----:	|:------------------------:	|
 |   [🔗](https://academy.dqlab.id/main/livecode/160/303/1392)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%202/39.harga-rumah-tangerang.py)  	| Harga Rumah di Tangerang 	|
 
-<br>
+<br /><br /> **[⬆ back to top](#-table-of-contents)** <br /><br />
 
 <h3>Python for Data Professional Beginner - Part 3</h3>
 
@@ -239,7 +239,8 @@ Modul 1 : Pengantar Object Oriented Programming
 |:----:	|:----:	|:----------------------:	|
 |   [🔗](https://academy.dqlab.id/main/livecode/161/305/1380)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%203/22.studi-kasus-dari-senja.py)  	| Studi Kasus dari Senja 	|
 
-<br><br>
+<br /><br /> **[⬆ back to top](#-table-of-contents)** <br /><br />
+
 <img src="https://raw.githubusercontent.com/kevinadhiguna/dqlab-career-track/master/assets/sql.png" width="30%" />
 
 ## Memahami Bahasa SQL dan Sistem Database Relasional agar dapat mengolah data di Perusahaan Yang Sudah Menerapkan Sistem IT
@@ -307,6 +308,8 @@ Modul 1 : Structured Query Language
 |:----:	|:----:	|:--------------------:	|
 |   [🔗](https://academy.dqlab.id/main/livecode/213/388/1929)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Fundamental%20SQL/Using%20SELECT%20Statement/30.proyek-cabang-A.sql)  	| Proyek dari Cabang A 	|
 
+<br /><br /> **[⬆ back to top](#-table-of-contents)** <br /><br />
+
 <h3>Fundamental SQL Using FUNCTION and GROUP BY</h3>
 
 Modul 1 : Fungsi di SQL
@@ -350,6 +353,8 @@ Modul 1 : Fungsi di SQL
 |:----:	|:----:	|:--------------------------------------------:	|
 |   [🔗](https://academy.dqlab.id/main/livecode/171/341/1652)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Fundamental%20SQL/Using%20FUNCTION%20and%20GROUP%20BY/20.analysis-penjualan-1.sql)  	| Proyek Pekerjaan - Analisis Penjualan Part 1 	|
 |   [🔗](https://academy.dqlab.id/main/livecode/171/341/1654)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Fundamental%20SQL/Using%20FUNCTION%20and%20GROUP%20BY/21.analysis-penjualan-2.sql)  	| Proyek Pekerjaan - Analisis Penjualan Part 2 	|
+
+<br /><br /> **[⬆ back to top](#-table-of-contents)** <br /><br />
 
 <h3>Fundamental SQL Using INNER JOIN and UNION</h3>
 
@@ -395,7 +400,8 @@ Modul 1 : Penggabungan Tabel dari Relasi Kolom
 |   [🔗](https://academy.dqlab.id/main/livecode/244/409/2070)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Fundamental%20SQL/Using%20INNER%20JOIN%20and%20UNION/20.innerjoin-project.sql)  	| Project INNER JOIN 	|
 |   [🔗](https://academy.dqlab.id/main/livecode/244/409/2071)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Fundamental%20SQL/Using%20INNER%20JOIN%20and%20UNION/21.union-project.sql)  	|    Project UNION   	|
 
-<br><br>
+<br /><br /> **[⬆ back to top](#-table-of-contents)** <br /><br />
+
 <img src="https://raw.githubusercontent.com/kevinadhiguna/dqlab-career-track/master/assets/EDA-python.png" />
 
 ## Memahami Konsep dan Penerapan Exploratory Data Analysis dalam Studi Kasus Bisnis
@@ -436,7 +442,8 @@ Modul 1 : Pengenalan Library dalam Python
 |:----:	|:----:	|:----------------:	|
 |   [🔗](https://academy.dqlab.id/main/livecode/163/311/1444)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Exploratory%20Data%20Analysis%20with%20Python%20for%20Beginner/13.tugas-dari-andra.py)  	| Tugas dari Andra 	|
 
-<br><br>
+<br /><br /> **[⬆ back to top](#-table-of-contents)** <br /><br />
+
 <img src="https://raw.githubusercontent.com/kevinadhiguna/dqlab-career-track/master/assets/pandas-library.png" width="50%" />
 
 ## Mengolah Dataset Dalam Jumlah Kecil sampai dengan Besar
@@ -502,6 +509,8 @@ Modul 1 : Introduction to Pandas
 |:----:|:----:|:------------------:|
 |   [🔗](https://academy.dqlab.id/main/livecode/178/431/2156)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Manipulation%20with%20Pandas/Part%201/33.project-dari-andra.py)  | Project dari Andra |
 
+<br /><br /> **[⬆ back to top](#-table-of-contents)** <br /><br />
+
 <h3>Data Manipulation with Pandas - Part 2</h3>
 
 Modul 1 : Penggabungan Series/Dataframe
@@ -564,7 +573,8 @@ Modul 1 : Penggabungan Series/Dataframe
 |   [🔗](https://academy.dqlab.id/main/livecode/252/446/2305)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Manipulation%20with%20Pandas/Part%202/33.performa-penjualan-setiap-cabang-5.py)  | Performa Penjualan di Setiap Cabang - Part 5 |
 |   [🔗](https://academy.dqlab.id/main/livecode/252/446/2287)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Manipulation%20with%20Pandas/Part%202/34.performa-penjualan-setiap-cabang-6.py)  | Performa Penjualan di Setiap Cabang - Part 6 |
 
-<br><br>
+<br /><br /> **[⬆ back to top](#-table-of-contents)** <br /><br />
+
 <img src="https://matplotlib.org/_static/logo2_compressed.svg" width="50%" />
 
 ## Memahami Konsep dan Menghasilkan Tipe Visualisasi Data yang Tepat untuk Mempresentasikan Suatu Kasus Bisnis
@@ -621,6 +631,8 @@ Modul 1 : Pengenalan Matplotlib dan Persiapan Dataset
 | Link | Code |                             Title                             |
 |:----:|:----:|:-------------------------------------------------------------:|
 |   [🔗](https://academy.dqlab.id/main/livecode/164/316/1477)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%201/25.daily-numbers-of-customers-on-december.py)  | Studi Kasus dari Senja: Daily number of customers on Desember |
+
+<br /><br /> **[⬆ back to top](#-table-of-contents)** <br /><br />
 
 <h3>Data Visualization with Python Matplotlib for Beginner - Part 2</h3>
 
@@ -680,7 +692,8 @@ Modul 1 : Jenis-Jenis Visualisasi Data dan Tujuannya
 |   [🔗](https://academy.dqlab.id/main/livecode/165/321/1509)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%202/29.case-6a.py)  |                    Case 6a: Korelasi quantity vs GMV                    |
 |   [🔗](https://academy.dqlab.id/main/livecode/165/321/2403)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%202/30.case-6b.py)  |                Case 6b: Korelasi median harga vs quantity               |
 
-<br><br>
+<br /><br /> **[⬆ back to top](#-table-of-contents)** <br /><br />
+
 <img src="https://raw.githubusercontent.com/kevinadhiguna/dqlab-career-track/master/assets/machine-learning.png" />
 
 ## Memahami Konsep Predictive Modeling & Mampu Menguji Tingkat Akurasi untuk Memilih Model yang Tepat
@@ -756,7 +769,8 @@ Modul 1 : Pengenalan Machine Learning
 |   [🔗](https://academy.dqlab.id/main/livecode/169/332/2468)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Machine%20Learning%20with%20Python%20for%20Beginner/37.case-study-6.py)  | Case Study: Promos for our e-commerce - Part 6 |
 |   [🔗](https://academy.dqlab.id/main/livecode/169/332/1602)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Machine%20Learning%20with%20Python%20for%20Beginner/38.quiz-11.png)  |                      Quiz 11                     |
 
-<br><br>
+<br /><br /> **[⬆ back to top](#-table-of-contents)** <br /><br />
+
 <img src="https://raw.githubusercontent.com/kevinadhiguna/dqlab-career-track/master/assets/data-quality.png" />
 
 ## Melakukan Investigasi dan Mendeteksi Anomali pada Data
@@ -794,7 +808,8 @@ Modul 1 : Data Profiling
 |   [🔗](https://academy.dqlab.id/main/livecode/166/324/2602)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Quality%20with%20Python%20for%20Beginner/14.data-cleansing-1.py)  | Case Studi: Data Profiling - Part 1 |
 |   [🔗](https://academy.dqlab.id/main/livecode/166/324/2603)  |   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Data%20Quality%20with%20Python%20for%20Beginner/15.data-cleansing-2.py)  | Case Studi: Data Profiling - Part 2 |
 
-<br><br>
+<br /><br /> **[⬆ back to top](#-table-of-contents)** <br /><br />
+
 <img src="https://raw.githubusercontent.com/kevinadhiguna/dqlab-career-track/master/assets/project.png" />
 
 ## Data Analyst Project: Business Decision Research
@@ -842,7 +857,7 @@ Modul 1 : Pendahuluan
 
 <br> Modul 6 : Penutup
 
-<br>
+<br /><br /> **[⬆ back to top](#-table-of-contents)** <br /><br />
 
 ## 🖊 Contributing
 
