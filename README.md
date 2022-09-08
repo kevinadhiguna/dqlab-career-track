@@ -869,10 +869,14 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
+<br />
+
+<!--
 ## 🌐 Contact
 Author : Kevin Adhiguna - [@kevinadhiguna](https://linkedin.com/in/kevinadhiguna) - hi.kevinadhiguna@gmail.com
 
 Project Link: [https://github.com/kevinadhiguna/dqlab-career-track](https://github.com/kevinadhiguna/dqlab-career-track)
+-->
 
 ## 🎉 Courtesy
 - [DQLab](https://dqlab.id)
